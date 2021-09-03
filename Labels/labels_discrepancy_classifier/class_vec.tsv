@@ -1,0 +1,887 @@
+CVE-2016-5418++openwall++nvd-952	a hash added to the snapshot tag	a crafted archive file	0
+CVE-2014-7975++openwall++nvd-2812	being unable to write to the filesystem	does not require the cap_sys_admin capability for do_remount_sb calls that change the root filesystem to read-only	0
+CVE-2008-1080++ibm++openwall-3119	persuading a victim to visit a malicious web page and type target filename characters	crafted attribute values in an xml document	0
+CVE-2008-3712++ibm++nvd-1315	using the mosconfig_sitename parameter in a specially-crafted url	the (1 ) query string to mambots/editors/mostlyce/jscripts/tiny_mce/filemanager/connectors/php/connector.php and the (2 ) mosconfig_sitename parameter to administrator/popups/index3pop.php	0
+CVE-2016-7098++ibm++openwall-2643	maintaining an http connection open	"""malicious content from a wget -r -nh -a '"""	0
+CVE-2017-7678++openwall++nvd-2230	or history server	trick them into visiting a link	0
+CVE-2008-4711++ibm++nvd-2490	send specially-crafted sql statements to multiple scripts using the id parameter	(2 ) view.event.php	0
+CVE-2016-8740++ibm++nvd-3251	sending a specially crafted request	crafted continuation frames in an http/2 request	1
+CVE-2015-8026++ibm++nvd-1424	using a specially-crafted usb flash drive	a crafted filesystem	0
+CVE-2014-2364++ibm++nvd-186	sending an overly long string to multiple parameters	(9 ) serverresponse	0
+CVE-2008-2908++ibm++exploitdb-335	persuading a victim to visit a specially-crafted web page that passes an overly long string value to the operation	transmit the response to the client	0
+CVE-2012-4414++ibm++openwall-3375	send specially-crafted sql statements	sql statements are generated and written into the binary log	0
+CVE-2014-5270++ibm++openwall-535	a side-channel attack on elgamal sub-keys	"""mitigating it in software"	1
+CVE-2008-3971++openwall++nvd-1889	crafted manual page	a crafted man page	1
+CVE-2008-4711++ibm++nvd-2494	send specially-crafted sql statements to multiple scripts using the id parameter	and (6 ) view.video.php	0
+CVE-2016-7425++ibm++nvd-1636	using arcmsr_message_write_wqbuffer control code	an arcmsr_message_write_wqbuffer control code	1
+CVE-2014-2531++exploitdb++nvd-121	concatenating strings from the application with user input	"as demonstrated by the ""or "" key in a pgn8state object in an i object in a json object"	0
+CVE-2015-8104++openwall++nvd-3046	triggering an infinite	related to svm.c	1
+CVE-2004-1770++ibm++nvd-3169	supply shell meta characters to the ?user parameter	shell metacharacters in the user parameter	1
+CVE-2015-8960++ibm++nvd-133	using man-in-the-middle techniques	"aka the ""key compromise impersonation (kci)"" issue"	0
+CVE-2007-0267++ibm++nvd-2706	cause a kernel panic	mounting a crafted unix file system (ufs ) dmg image that contains a corrupted directory entry (struct direct)	0
+CVE-2015-5243++ibm++openwall-2191	sending a specially-crafted request	phpwhois	0
+CVE-2008-3456++openwall++nvd-550	crafted setup arguments	a cross-site framing attack	1
+CVE-2012-3358++ibm++nvd-871	persuading a victim to open a specially-crafted jpeg 2000 file	a crafted (1 ) tile number or (2 ) tile length in a jpeg 2000 image file	1
+CVE-2012-2573++exploitdb++nvd-1978	send an email to the victim with the payload in the e-mail body	(5 ) a crafted src attribute of an iframe element	0
+CVE-2017-1000083++ibm++exploitdb-979	using a specially-crafted .cbt file	create the malicious .cbt file run	1
+CVE-2016-6664++exploitdb++nvd-3371	the suid binary	a symlink attack on error logs and possibly other files	0
+CVE-2017-1000252++openwall++nvd-767	using kvm with posted interrupts on intel systems	related to arch/x86/kvm/vmx.c and virt/kvm/eventfd.c	0
+CVE-2016-5317++ibm++openwall-1131	an out-of-bounds write in the pixarlogdecode() function in tif_pixarlog.c	generating a thumbnail for a crafted tiff image	0
+CVE-2009-3726++ibm++exploitdb-852	a null pointer dereference error in the nfs4_proc_lock() function	a null-pointer dereference	0
+CVE-2006-5276++ibm++nvd-782	sending specially-crafted smb traffic to a vulnerable system	crafted smb traffic	0
+CVE-2013-2108++ibm++exploitdb-2265	and other malicious activities	perform certain unauthorized actions in the context of the affected application	0
+CVE-2011-3352++ibm++openwall-484	"""using the themename parameter in a specially-crafted url to execute arbitrary html or web script code in a victim's web browser within the security context of the hosting web site"""	modifying and deleting themes	1
+CVE-2016-7185++exploitdb++nvd-3226	create and delete arbitrary global drive letters	a crafted application	0
+CVE-2005-2581++ibm++nvd-2782	send a specially-crafted udp packet containing 65534 bytes to a specific port to cause the system to crash	a large udp packet to port 5060	1
+CVE-2006-7206++ibm++nvd-861	"""a victim's browser to crash"""	"an ""invalid memory access "" in the sysfreestring function"	0
+CVE-2016-5418++openwall++nvd-951	a file overwrite outside the extraction directory	a crafted archive file	0
+CVE-2015-8088++ibm++nvd-2031	sending an overly long /dev/hifi_misc input	a crafted application	0
+CVE-2018-10751++ibm++nvd-1688	an integer overflow in omacp wbxml string extension processing	a malformed omacp wap push message	0
+CVE-2013-6356++ibm++exploitdb-479	persuading a victim to open a specially-crafted .reg file	improper restriction of operations within the bounds of a memory buffer	0
+CVE-2006-6047++ibm++nvd-1347	"""send a specially-crafted url request to the index.php script using the 'f ' parameter"""	a .. (dot dot ) in the f parameter	0
+CVE-2016-7392++ibm++nvd-1575	persuading a victim to open a specially-crafted bmp image file	a crafted bmp image file	1
+CVE-2012-4424++ibm++nvd-2551	sending specially-crafted request containing invalid arguments	a long string that triggers a malloc failure and use of the alloca function	0
+CVE-2016-6882++ibm++openwall-2663	conducting a lenstra side-channel attack	a faulty signature being sent to the client	1
+CVE-2013-6194++exploitdb++nvd-837	timeout due to a process process execution after file write on the target disconnect end end	aka zdi-can-1905	0
+CVE-2011-4862++ibm++nvd-650	sending specially-crafted commands to the server	as exploited in the wild in december 2011	0
+CVE-2002-0953++exploitdb++nvd-2881	the remote file is a php script	a url to the code in the langcookie parameter	0
+CVE-2002-2296++exploitdb++nvd-1593	create a malicious link to the login page of a site hosting the web forum	the num parameter	0
+CVE-2009-4893++ibm++nvd-754	using unknown attack vectors	unspecified vectors	0
+CVE-2002-0153++ibm++exploitdb-1933	create a malicious web page that calls a known applescript using the html file:// directive	maliciously crafted html-enabled e-mail	0
+CVE-2012-2573++exploitdb++nvd-1971	send an email to the victim with the payload in the email body	(5 ) a crafted src attribute of an iframe element	0
+CVE-2017-17576++ibm++nvd-1951	send specially-crafted sql statements to the browse-category.php	or service-provider.php ser parameter	0
+CVE-2010-4245++openwall++nvd-2895	"""'match_names'"""	"""'match_names ' parameter"""	0
+CVE-2008-2683++ibm++nvd-664	persuading a victim to visit a specially-crafted web page	specifying the origin url in the first argument to the downloadimagefileurl method	0
+CVE-2016-5418++openwall++nvd-948	learn the same information from the update metadata available on the server	a crafted archive file	0
+CVE-2014-8987++ibm++nvd-613	"""a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	the config_option parameter	0
+CVE-2015-5959++ibm++nvd-707	reading /logs/sql-error.log	reading /logs/sql-error.log	1
+CVE-2014-2364++ibm++nvd-187	sending an overly long string to multiple parameters	(10 ) setbaud	0
+CVE-2015-7940++openwall++nvd-1682	an invalid curve attack	does not validate a point is withing the elliptic curve	1
+CVE-2017-7047++ibm++exploitdb-1543	using a specially-crafted application	sending a send right to the memory entry port in the underlying mach message	0
+CVE-2016-6866++ibm++nvd-1571	using vectors involving invalid password hash	vectors involving an invalid password hash	1
+CVE-2020-10648++ibm++openwall-3317	persuading a victim to open a specially-crafted fit image	modify the `default ` property of the `configurations ` node and the setup does not explicitly choose to boot a specific configuration	1
+CVE-2013-1860++ibm++nvd-2923	using unknown attack vectors	a crafted cdc-wdm usb device	0
+CVE-2008-3443++ibm++nvd-776	sending multiple overly long requests to a ruby socket	multiple long requests to a ruby socket	1
+CVE-2016-10109++openwall++nvd-759	a malicious client	"a command that uses ""cardslist "" after the handle has been released through the scardreleasecontext function"	0
+CVE-2010-0405++ibm++nvd-913	persuading a victim to open a specially-crafted compressed file	a crafted compressed file	0
+CVE-2000-0329++exploitdb++nvd-1066	"""transfer a cab file onto the client's machine"""	an attachment and an embedded script in an html mail	0
+CVE-2014-0131++ibm++openwall-1757	a use-after-free error in the skb_segment function	failing to collect garbage	0
+CVE-2016-6836++ibm++nvd-2134	leveraging failure to initialize the txcq_descr object	leveraging failure to initialize the txcq_descr object	1
+CVE-2012-0982++ibm++nvd-2633	send specially-crafted sql statements to the search.php script using the price_from parameter	the price_from parameter	1
+CVE-2012-2573++exploitdb++nvd-1984	crating a new contact	(4 ) an onload attribute of a body element	0
+CVE-2015-3088++ibm++exploitdb-1266	persuading a victim to visit a specially-crafted web site	write pointers to string to freed locations	0
+CVE-2005-1070++ibm++exploitdb-716	send a specially-crafted url request to the index.php script containing sql commands in the st parameter of the members function	"""pass sql statements to the underlying database through the 'st ' parameter"""	0
+CVE-2008-3751++ibm++nvd-72	send specially-crafted sql statements to the tr.php script using the id parameter	the id parameter	0
+CVE-2002-1542++ibm++exploitdb-1756	sending a udp datagram of 8193 byes or more	sending a udp packet to the server that is 8193 or more bytes	1
+CVE-2007-5607++ibm++nvd-734	persuading a victim to visit a specially-crafted web page that passes an overly long argument to the registrystring property	a long first argument	0
+CVE-2015-5285++exploitdb++openwall-385	"""the get 'came_from ' parameter in the login instance"""	a malicious request	0
+CVE-2011-1011++ibm++nvd-3373	creating a symbolic link from a temporary file to various files on the system	running a setuid application that relies on /tmp	0
+CVE-2008-7247++ibm++nvd-2111	invoking create table with a data directory or index directory argument referring to a subdirectory that requires following this symlink	calling create table with a (1 ) data directory or (2 ) index directory argument referring to a subdirectory that requires following this symlink	1
+CVE-2015-2562++ibm++nvd-2024	sort_order and filter_manufacturer_ids parameter	or (3 ) filter_manufacturer_ids in a displayproducts action to index.php	1
+CVE-2009-1148++ibm++openwall-324	send a specially-crafted url request to specify a malicious file from a remote or the local system	directory traversal sequences in the file_path parameter	0
+CVE-2011-2905++ibm++nvd-1825	persuading a victim into running the perf utility in a directory containing a malicious file	a crafted config file in the current working directory	0
+CVE-2011-0640++openwall++nvd-53	connect an object of their choice to a usb port	as demonstrated by keyboard and mouse data sent by malware on a smartphone that the user connected to the computer	1
+CVE-2015-2687++ibm++openwall-2181	the failure of live migration	disconnecting physical network interfaces	0
+CVE-2017-14842++ibm++nvd-3259	"""send specially-crafted sql statements using the 'id ' parameter"""	the id parameter	0
+CVE-2006-4945++ibm++nvd-2009	parameter to specify a malicious file from a remote system	a url in the _phplib[libdir ] parameter to (1 ) rechnung.php or (2 ) prepend.php	0
+CVE-2008-2520++ibm++nvd-283	send a specially-crafted url request to the function.captcha.php	and (e ) system/admin/plugins/menu/menutree/plugin.php	0
+CVE-2017-7411++ibm++openwall-739	using specially-crafted serialized objects	specially crafted serialized objects	1
+CVE-2011-0021++openwall++nvd-1336	crafted cdg video	a crafted cdg video	1
+CVE-2006-4927++ibm++nvd-1528	sending a specially-crafted irp to the ioctl function	and (3 ) 0x222adb	0
+CVE-2008-7161++exploitdb++nvd-2679	specially-crafted http requests	fragmented get or post requests that use http/1.0 without the host header	0
+CVE-2008-1483++openwall++nvd-1996	causing ssh to set display to :10	even when another process is listening on the associated port	1
+CVE-2003-0376++ibm++nvd-1410	sending a malicious email with an attachment file name containing multiple dot (.) characters	an attachment converted argument with a large number of	0
+CVE-2018-5391++ibm++nvd-264	sending specially crafted ip fragments with random offsets	sending specially crafted ip fragments	1
+CVE-2011-0708++openwall++nvd-763	"""craft the value of the 'components ' variable (int )"""	an image with a crafted image file directory (ifd ) that triggers a buffer over-read	0
+CVE-2016-2784++ibm++nvd-191	sending a specially crafted http get request and poisoning the web server cache	a crafted http host header in a request	1
+CVE-2015-5155++ibm++openwall-2867	"sending a packet with specially crafted \\""nextoffset\\"" value and \\""extid\\"" value"	"a packet with crafted ""nextoffset "" value and ""extid "" value"	1
+CVE-2011-0640++ibm++nvd-965	persuading a victim to connect a malicious usb device	as demonstrated by keyboard and mouse data sent by malware on a smartphone that the user connected to the computer	0
+CVE-2008-0557++ibm++nvd-1459	send specially-crafted sql statements to the index.php script using the id parameter	the id parameter in a detail action	0
+CVE-2014-9175++ibm++nvd-920	send specially-crafted sql statements to the wpdatatables.php script using the table_id parameter	the table_id parameter in a get_wdtable action to wp-admin/admin-ajax.php	0
+CVE-2013-4508++ibm++openwall-2315	the configuration of weak ssl ciphers in the ssl.cipher-list	using vulnerable cipher	0
+CVE-2008-2950++openwall++nvd-2805	specific pdf files	a crafted pdf document	1
+CVE-2012-2573++exploitdb++nvd-1970	send an email to the victim with the payload in the email body	(4 ) an onload attribute of a body element	0
+CVE-2006-4927++ibm++nvd-1526	sending a specially-crafted irp to the ioctl function	overwriting critical system addresses using a crafted irp to the ioctl functions (1 ) 0x222ad3	0
+CVE-2016-5418++openwall++nvd-954	smuggle in files	a crafted archive file	0
+CVE-2010-1635++openwall++nvd-1851	a crafted >	a negotiate protocol request with a certain 0x0003 field value followed by a session setup andx request with a certain 0x8003 field value	0
+CVE-2008-5286++ibm++nvd-313	a png image containing a large height value	a png image with a large height value	1
+CVE-2014-2364++exploitdb++nvd-2454	user controlled data through the getcolor function	(4 ) ccdparameter	0
+CVE-2015-2562++ibm++nvd-2019	send specially-crafted sql statements using the search_category_id	the (1 ) search_category_id	1
+CVE-2016-4453++ibm++nvd-2548	processing vga commands via its fifo buffer	a vga command	1
+CVE-2015-8604++ibm++nvd-1047	send specially-crafted sql statements to the graphs_new.php script using the cg_g parameter	the cg_g parameter in a save action	0
+CVE-2010-4598++ibm++nvd-2682	send a specially-crafted request	a .. (dot dot ) in the file_name parameter in an open request .	0
+CVE-2009-1955++ibm++openwall-2747	consume all available memory resources	a denial of service	0
+CVE-2011-5160++ibm++nvd-1246	"""using the site parameter in a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	the site parameter	1
+CVE-2008-1080++ibm++openwall-135	persuading a victim to visit a malicious web page and type target filename characters	crafted attribute values in an xml document	0
+CVE-2017-17875++ibm++nvd-2333	"""send specially-crafted sql statements to the index.php script using the 'id ' parameter"""	the id parameter in a view=category action	1
+CVE-2014-4717++ibm++nvd-427	persuading an authenticated user to visit a malicious web site	(4 ) category/archive pages or (5 ) post excerpts	0
+CVE-2009-1210++ibm++nvd-1377	sending specially-crafted packets captured off the wire containing malicious format string specifiers in the station name	a pn-dcp packet with format string specifiers in the station name	1
+CVE-2013-4200++ibm++openwall-822	"""possibly retrieve the user's session cookie"""	certain object methods	0
+CVE-2014-2364++exploitdb++nvd-2463	user controlled data through the getcolor function	or (c ) webdact.ocx	0
+CVE-2017-9417++ibm++nvd-974	using unknown attack vectors	unspecified vectors	1
+CVE-2010-4262++ibm++openwall-1244	persuading a victim to open a specially-crafted .fig file with color definition	a fig image with specially-crafted color definition	1
+CVE-2013-7249++ibm++openwall-982	obtain sensitive information	a denial of service	0
+CVE-2015-3110++ibm++exploitdb-193	persuading a victim to open a specially-crafted file	rocessing a crafted gif image with an invalid value in the “imageleftposition ” into the “imagedescriptor	1
+CVE-2014-3635++ibm++nvd-1186	sending an overly long d-bus message	sending one more file descriptor than the limit	0
+CVE-2006-5618++ibm++nvd-863	send a specially-crafted url request to the cat_for_aff.php script using the ad_direct parameter to specify a malicious file from the local system	a .. (dot dot ) sequence in the ad_direct parameter .	0
+CVE-2017-7725++ibm++exploitdb-3249	sending a specially-crafted http get request	making http get request with a poisoned host header	1
+CVE-2000-0329++exploitdb++nvd-1062	process the components of the cab file	an attachment and an embedded script in an html mail	0
+CVE-2015-6127++ibm++exploitdb-2126	persuading a victim to open a specially-crafted file	convincing him to open a malicious mcl file	0
+CVE-2017-7411++ibm++openwall-18	using specially-crafted serialized objects	using the unserialize() function with a value	1
+CVE-2013-3221++openwall++nvd-1616	queries like this	a crafted value	0
+CVE-2016-1576++exploitdb++openwall-2849	copy_up including all file attributes	having control over the fuse process simulating the filesystem	1
+CVE-2018-11793++ibm++openwall-1866	using specially-crafted json structures	parsing deeply	0
+CVE-2014-8987++ibm++nvd-3123	"""a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	the config_option parameter	0
+CVE-2006-1292++ibm++exploitdb-546	send a specially-crafted url request using the cookie_language or cookie_style parameter to specify an arbitrary file from the local system	injecting some code in log files	0
+CVE-2015-6127++exploitdb++nvd-538	a specially crafted mcl file	a crafted	0
+CVE-2010-2947++ibm++nvd-2769	sending an overly long string argument	a string that is inconsistent with the expected number of fields	0
+CVE-2003-0763++ibm++nvd-1852	create a malicious url link to a script containing embedded script in the ?page variable	the method parameter	0
+CVE-2009-1617++ibm++nvd-2964	modifying the twltadmin cookie	a userid=1&lvl=1 value for the twltadmin cookie	1
+CVE-2006-0738++ibm++exploitdb-2778	embedding malicious format strings in a sdp message	malformed voip headers	1
+CVE-2016-9920++ibm++openwall-2829	sending a specially-crafted request	mail()	1
+CVE-2002-2258++ibm++nvd-1638	sending an http post request to the web server with an overly long http content-length header	an http post request with a (1 ) large integer or (2 ) non-numeric value in the content-length header	0
+CVE-2015-4171++openwall++nvd-2898	a ca-issued certificate	using a valid certificate and then reading the responses	1
+CVE-2017-8683++ibm++nvd-2687	executing a specially-crafted program	the way it handles embedded fonts	0
+CVE-2009-0390++ibm++nvd-1172	"injecting \\""kill\\"" command arguments into the /tmp/enomalism2.pid temporary file"	populating the /tmp/enomalism2.pid file with command-line arguments for the kill program	1
+CVE-2009-3323++ibm++nvd-3082	send a specially-crafted url request to the common_functions.php	and (4 ) lib_slots.php in include/lib/.	1
+CVE-2007-6581++ibm++nvd-2271	send a specially-crafted url request to multiple scripts using the global_lang parameter to specify a malicious file from the local system	or (3 ) header_group.php ; or (4 ) admin_header_album.php	0
+CVE-2016-6491++ibm++nvd-3007	persuading a victim to open a specially crafted file	a crafted image	1
+CVE-2009-3323++ibm++nvd-3079	send a specially-crafted url request to the common_functions.php	a url in the baros_path parameter to (1 ) include/common_functions.php	1
+CVE-2012-2573++exploitdb++nvd-1982	crating a new contact	(2 ) a crafted cascading style sheets (css ) expression property	0
+CVE-2011-3352++ibm++openwall-485	"""using the themename parameter in a specially-crafted url to execute arbitrary html or web script code in a victim's web browser within the security context of the hosting web site"""	"""not properly sanitize the 'themename ' parameter"""	1
+CVE-2013-4160++ibm++nvd-1359	persuading a victim to open a specially-crafted image file	(2 ) cmspipelinedup	0
+CVE-2008-3124++ibm++nvd-2351	send specially-crafted sql statements to the index.php script using the file parameter	the file parameter	0
+CVE-2014-4717++ibm++nvd-424	persuading an authenticated user to visit a malicious web site	which is not properly handled in the homepage	0
+CVE-2017-15102++ibm++nvd-2527	using a specially-crafted usb device	leveraging a write-what-where condition that occurs after a race condition and a null pointer dereference	1
+CVE-2014-2364++ibm++nvd-184	sending an overly long string to multiple parameters	(7 ) getparameter	0
+CVE-2009-1148++ibm++openwall-325	send a specially-crafted url request to specify a malicious file from a remote or the local system	the save action	0
+CVE-2015-1563++ibm++openwall-3112	a denial of service on the host system	a denial of service	1
+CVE-2017-16952++ibm++nvd-2781	persuading a victim to open a specially-crafted .nsv file	a crafted nsv file	1
+CVE-2009-1085++ibm++nvd-2662	sending a direct request	a direct request for misc/cron/archive.sh	1
+CVE-2009-4896++ibm++openwall-1330	send a specially-crafted url request containing directory traversal sequences in the list variable to write or delete arbitrary files from the system	php-admin web interface	0
+CVE-2016-1576++ibm++openwall-2339	mounting an overlayfs filesystem on top of a fuse filesystem and executing a setuid program	having control over the fuse process simulating the filesystem	0
+CVE-2009-3579++ibm++nvd-2855	"""using value parameter in a get request to cookie / to execute script in a victim's web browser within the security context of the hosting web site"""	the value parameter in a get request to cookie/.	1
+CVE-2016-6350++openwall++nvd-1773	a sysctl read	a sysctl call with a path starting with 10	1
+CVE-2007-3554++ibm++nvd-163	persuading a victim to view a specially-crafted web page that passes an overly long argument to the queryhub parameter	a long argument to the queryhub function	0
+CVE-2012-3377++ibm++nvd-1075	persuading a victim to open a specially-crafted ogg file	a crafted ogg file	1
+CVE-2015-8981++ibm++nvd-3067	persuading a victim to open a specially-crafted pdf file	vectors related to m_offsets.size	0
+CVE-2017-11320++ibm++exploitdb-900	using the nearby ssid to inject malicious script into a web page	send the credentials from backup settings	0
+CVE-2010-1635++openwall++nvd-1849	"""sending a specific 'sessions setup andx ' query"""	a negotiate protocol request with a certain 0x0003 field value followed by a session setup andx request with a certain 0x8003 field value	0
+CVE-2010-1744++ibm++nvd-1220	send specially-crafted sql statements to the products.html page using the id parameter	the id parameter	0
+CVE-2005-0847++ibm++nvd-1292	cause the server to stop accepting legitimate connections resulting in a denial of service	a large number of connections	0
+CVE-2009-1301++openwall++nvd-2331	an id3 tag with a negative encoding value	an id3 tag with a negative encoding value	1
+CVE-2016-6250++ibm++nvd-938	persuading a victim to open a specially crafted file	vectors related to verifying filename lengths when writing an iso9660 archive	0
+CVE-2013-4668++ibm++openwall-1304	send a specially-crafted url request to the extract_archive_thread() function in fr-archive-libarchive.c containing dot dot sequences (/../) to view and obtain arbitrary files on the system	insufficient path sanitization	0
+CVE-2012-0002++exploitdb++nvd-467	the maxchannelids field of the t.125 connectmcspdu packet	sending crafted rdp packets triggering access to an object that (1 ) was not properly initialized or (2 ) is deleted	1
+CVE-2012-3355++ibm++nvd-3111	creating a symbolic link from a temporary file to various files on the system	a symlink attack on a temporary html template file in the /tmp/context directory	1
+CVE-2018-13417++ibm++exploitdb-2756	persuading a victim to open specially-crafted xml content	hosting a specially crafted xml file at that location	1
+CVE-2001-1178++exploitdb++nvd-3311	inserting 70000 characters into the manpath variable	a long manpath environment variable	1
+CVE-2008-2931++ibm++openwall-90	improper verification of caller cap_sys_admin capability in the do_change_type function	missing check before setting mount propagation	1
+CVE-2017-8842++ibm++nvd-1247	using a specially-crafted archive	a crafted archive	0
+CVE-2017-8843++openwall++nvd-667	a read memory access	a crafted archive	0
+CVE-2008-2683++ibm++nvd-665	persuading a victim to visit a specially-crafted web page	and the local filename in the second argument	0
+CVE-2001-0609++ibm++exploitdb-1803	gain elevated privileges	attain root privileges and execute arbitrary code	0
+CVE-2012-2112++openwall++nvd-3017	failing to properly encode the output	exception messages	0
+CVE-2013-1809++openwall++nvd-474	a (temorary files ) directory hijack	move or manipulate directory contents or perform symlink attacks	1
+CVE-2011-0003++ibm++nvd-1093	"""hijack the victim's click actions and possibly launch further attacks against the victim"""	unspecified vectors	0
+CVE-2000-0329++exploitdb++nvd-1057	splitting up our code into two functions	"aka the ""active setup control "" vulnerability"	0
+CVE-2009-1194++openwall++nvd-3270	heap allocation size	as demonstrated by a long document.location value in firefox	0
+CVE-2016-6185++ibm++openwall-413	sending specially crafted data to the xsloader component	uses caller() information to locate the .so file to load	0
+CVE-2017-1000083++exploitdb++openwall-1202	create the malicious .cbt file run	creating a tar archive with an embedded file	0
+CVE-2008-3701++ibm++nvd-364	send specially-crafted sql statements to the index.php script using the customfieldlinkid parameter	the customfieldlinkid parameter in a delcflink action	1
+CVE-2004-1857++ibm++nvd-1136	"create a specially-crafted url request to the setinfo.hts script containing \\""dot dot\\"" sequences (../) to traverse directories and view arbitrary files outside of the web root directory and execute arbitrary hts files on the system"	a .. (dot dot ) in the setinclude parameter .	1
+CVE-2012-2127++ibm++openwall-2759	making many connections to a daemon that uses pid namespaces to isolate clients	vsftpd	1
+CVE-2010-3859++ibm++nvd-1369	sending a specially-crafted sendmsg() call using tipc sockets	a crafted sendmsg call that triggers a heap-based buffer overflow	0
+CVE-2015-6806++ibm++openwall-1489	sending a specially-crafted request	"displaying a file with ""cat "" inside screen"	0
+CVE-2008-2931++ibm++nvd-2245	gain elevated privileges or cause a denial of service	modifying the properties of a mountpoint	0
+CVE-2010-5001++exploitdb++nvd-2496	send emails to contacts with the built-in email client	the id parameter	0
+CVE-2012-5002++exploitdb++nvd-2704	supplying a long string of data to the user command	a long user ftp command	1
+CVE-2008-1914++ibm++nvd-3114	sending an overly long http get request to tcp port 6080	a long uri in a request to tcp port 6080	1
+CVE-2013-4508++openwall++nvd-1411	using vulnerable cipher	inserting packets into the client-server data stream or obtain sensitive information	0
+CVE-2014-9016++ibm++nvd-214	sending a specially-crafted request	a crafted request	1
+CVE-2012-2573++exploitdb++nvd-1980	send an email to the victim with the payload in the e-mail body	"or (7 ) a data : url in the content attribute of an http-equiv=""refresh "" meta element"	0
+CVE-2014-2364++exploitdb++nvd-2460	user controlled data through the getcolor function	(10 ) setbaud	0
+CVE-2012-4444++openwall++nvd-2932	accepting overlapping fragmented ipv6 packets	overlapping ipv6 fragments	1
+CVE-2012-1112++openwall++nvd-694	include a file from the targeted host	a .. (dot dot ) in the select_users_template parameter to index.php .	0
+CVE-2006-6493++ibm++nvd-3378	sending an ldap bind request containing overly long credential data	an ldap bind request using the ldap_auth_krbv41 authentication method and long credential data	1
+CVE-2005-2842++ibm++nvd-1317	sending a specially-crafted packet to tcp port 6129 containing an overly long username value	the username	0
+CVE-2008-5235++openwall++nvd-2665	vectors related to (1 ) a crafted ebml element    length processed by the parse_block_group function in    demux_matroska.c ; (2 ) a certain combination of sps	a crafted real media file	0
+CVE-2003-0647++exploitdb++nvd-2745	sending 2 gigabytes of data to the device	an extremely long (2gb ) http get request	0
+CVE-2017-12920++ibm++openwall-1454	persuading a victim to open a specially-crafted file	manipulating flashpix images	0
+CVE-2007-5996++ibm++nvd-406	send specially-crafted sql statements to the searchresult.php script using the sbcat_id parameter	the sbcat_id parameter	1
+CVE-2008-1832++openwall++nvd-1447	a symlink attack on the csvers temporary file	a symlink attack on the csvers temporary file	1
+CVE-2002-2296++ibm++exploitdb-747	"and possibly modify the victim's password"""	create a malicious link to the login page of a site hosting the web forum	0
+CVE-2006-5094++ibm++nvd-2050	send a specially-crafted url request to the functions_kb.php script using the phpbb_root_path parameter to specify a malicious file from a remote system	a url in the phpbb_root_path parameter	0
+CVE-2013-4522++ibm++nvd-2749	sending a specially-crafted request	requesting a file that had been previously retrieved	0
+CVE-2013-2074++ibm++openwall-2432	the printing out of the url when encountering an internal server error	include the username and password (if supplied ) to the    resource	0
+CVE-2015-6127++ibm++nvd-3130	persuading a victim to open a specially-crafted file	a crafted	0
+CVE-2011-1944++ibm++nvd-1704	persuading a victim to open a specially-crafted xml file	a crafted xml file that triggers a heap-based buffer overflow when adding a new namespace node	1
+CVE-2007-6581++ibm++nvd-2269	send a specially-crafted url request to multiple scripts using the global_lang parameter to specify a malicious file from the local system	a .. (dot dot ) in the global_lang parameter to (1 ) header_album.php	0
+CVE-2016-7185++exploitdb++nvd-3224	create a drive letter symbolic link	a crafted application	0
+CVE-2004-1121++exploitdb++nvd-262	display false information in the status bar of an unsuspecting user	table tags	0
+CVE-2009-3050++ibm++nvd-903	persuading a victim to process a specially-crafted html document containing an specially-crafted media size comment	a long media size comment	0
+CVE-2010-4598++exploitdb++nvd-2357	download files from the disk where the server is installed through directory traversal	a .. (dot dot ) in the file_name parameter in an open request .	0
+CVE-2018-11787++ibm++nvd-1631	sending a specially-crafted request	a web browser	0
+CVE-2014-4717++ibm++nvd-423	persuading an authenticated user to visit a malicious web site	the (1 ) ssba_share_text parameter in a save action to wp-admin/options-general.php	0
+CVE-2013-4494++ibm++openwall-1944	a lock order reversal error in page_alloc_lock and grant_table.lock	a malicious guest administrator	0
+CVE-2009-1194++openwall++nvd-3269	heap allocation size	a long glyph string that triggers a heap-based buffer overflow	1
+CVE-2015-0291++ibm++nvd-717	connecting to a server and renegotiating with an invalid clienthello signature algorithms extension	using an invalid signature_algorithms extension in the clienthello message during a renegotiation	0
+CVE-2008-1080++ibm++openwall-136	persuading a victim to visit a malicious web page and type target filename characters	images that contain custom comments	0
+CVE-2008-3489++ibm++exploitdb-81	send specially-crafted sql statements using the pxl cookie parameter	pass the login	0
+CVE-2009-0295++ibm++nvd-3018	send specially-crafted sql statements to the index.php script using the id parameter	the id parameter	0
+CVE-2011-0708++openwall++nvd-1200	"""craft the value of the 'components ' variable (int )"""	an image with a crafted image file directory (ifd ) that triggers a buffer over-read	0
+CVE-2010-0012++openwall++nvd-3340	processing crafted torrent files	a .. (dot dot ) in a pathname within a .torrent file .	0
+CVE-2016-5418++ibm++openwall-1110	the improper handling of hardlink archive entries of non-zero size	"""placing our delta in ctrl[0 ] (or       ctrl[1])       * will easily bypass bspatch(1)'s own sanity checks"""	0
+CVE-2017-15367++exploitdb++nvd-99	escalate privileges on the server	depending on configuration	1
+CVE-2009-3323++ibm++nvd-3081	send a specially-crafted url request to the common_functions.php	(3 ) lib_stats.php	1
+CVE-2008-2147++openwall++nvd-843	a malicious library	a malicious library under the modules / or plugins / subdirectories of the current working directory	0
+CVE-2006-3969++ibm++nvd-3069	using the mosconfig_absolute_path parameter to specify a malicious file from a remote system	a url in the mosconfig_absolute_path parameter	1
+CVE-2012-3355++ibm++openwall-1348	creating a symbolic link from a temporary file to various files on the system	loading the html template files	0
+CVE-2009-0386++openwall++nvd-2259	a malformed quicktime media .mov file	crafted composition time to sample (ctts ) atom data in a malformed quicktime media	0
+CVE-2016-8752++ibm++nvd-638	pointing to uris like /js and /img	pointing to uris like /js and /img	1
+CVE-2008-1483++ibm++openwall-731	"""obtain the mit-magic-cookie and hijack other user's sessions"""	causing ssh to set display to :10	0
+CVE-2016-2178++openwall++nvd-1143	follows a non-constant	a timing side-channel attack	0
+CVE-2007-2820++ibm++nvd-2035	persuading a victim to visit a specially-crafted web page	(4 ) swat_initex3	0
+CVE-2014-2531++exploitdb++nvd-119	concatenating strings from the application with user input	(2 ) siteworx	0
+CVE-2005-1752++ibm++nvd-663	send a specially-crafted url request to the filename parameter in the viewfile.php script to execute arbitrary commands with privileges of the web server	shell metacharacters in the file_name parameter	0
+CVE-2010-3447++ibm++nvd-2217	"""using the file parameter in a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	the file parameter in a view_file action	0
+CVE-2014-2364++ibm++nvd-179	sending an overly long string to multiple parameters	(2 ) setparameter	0
+CVE-2015-3110++ibm++exploitdb-192	persuading a victim to open a specially-crafted file	edit and compose raster images	1
+CVE-2015-6250++openwall++nvd-761	properties of the captcha	running the same code on the client-side	0
+CVE-2011-3483++exploitdb++nvd-972	malformed packet trace file	a malformed capture file that leads to an invalid root tvbuff	0
+CVE-2014-2364++exploitdb++nvd-2452	user controlled data through the getcolor function	(2 ) setparameter	0
+CVE-2014-6269++ibm++nvd-764	sending multiple gigs a remote attacker could overflow a buffer and execute arbitrary code on the system or cause the application to crash .	a large stream of data	0
+CVE-2009-3626++ibm++nvd-2327	sending specially-crafted strings containing utf-8 characters within regular expressions	a utf-8 character with a large	1
+CVE-2011-1011++ibm++nvd-418	creating a symbolic link from a temporary file to various files on the system	as demonstrated	0
+CVE-2014-9119++ibm++openwall-3109	"send a specially-crafted url request to the download.php script containing \\""dot dot\\"" sequences (/../)"	a specially crafted request	1
+CVE-2019-16275++ibm++nvd-1428	sending a specially-crafted 802.11 frame	pmf (aka management frame protection). the attacker must send a crafted 802.11 frame from a location that is within the 802.11 communications range	0
+CVE-2009-0753++openwall++nvd-2359	using crafted requests to the http console	"a leading ""//"" (double slash ) in the filename"	0
+CVE-2008-1080++ibm++openwall-3120	persuading a victim to visit a malicious web page and type target filename characters	images that contain custom comments	0
+CVE-2018-1000088++ibm++nvd-2092	"""using oauth client's name to inject malicious script into a web page"""	the victim must be tricked to click an opaque link to the web view that runs the xss payload . a malicious version virtually indistinguishable from a normal link.. this vulnerability appears to have been fixed in 4.2.6	0
+CVE-2016-6161++openwall++nvd-124	malformed input with gd2togif	a crafted image	0
+CVE-2000-0329++exploitdb++nvd-1055	send it to the target client	"aka the ""active setup control "" vulnerability"	0
+CVE-2007-6515++ibm++nvd-60	sending a specially-crafted http request	code separator characters in the query string	1
+CVE-2017-6355++ibm++nvd-2344	using specially-crafted pkt_length and offlen values	which trigger an out-of-bounds access	1
+CVE-2014-9258++ibm++nvd-3293	send specially-crafted sql statements to the getdropdownvalue.php script using the condition parameter	the condition parameter	1
+CVE-2009-0386++openwall++nvd-2261	a crafted quicktime media file	crafted composition time to sample (ctts ) atom data in a malformed quicktime media	0
+CVE-2015-5285++exploitdb++openwall-1646	"""the get 'came_from ' parameter in the login instance"""	a malicious request	0
+CVE-2012-5002++exploitdb++nvd-2703	user command	a long user ftp command	1
+CVE-2014-2364++ibm++nvd-185	sending an overly long string to multiple parameters	(8 ) getcolor	0
+CVE-1999-1113++ibm++nvd-125	connecting to tcp port 106 and issuing a user command followed by a string containing 1000 bytes or more	a long user command to port 106	1
+CVE-2008-5713++ibm++openwall-270	sending continuous udp packets	sending a large amount of network traffic	1
+CVE-2016-6350++openwall++nvd-1779	sysctl on openbsd	a sysctl call with a path starting with 10	1
+CVE-2009-0386++openwall++nvd-2260	crafted sync sample (aka stss ) atom data in a malformed quicktime media .mov file	crafted composition time to sample (ctts ) atom data in a malformed quicktime media	1
+CVE-2010-1635++ibm++openwall-2955	sending a specially-crafted session setup andx packet	"""sending a specific 'sessions setup andx ' query"""	1
+CVE-2003-0763++ibm++nvd-1853	create a malicious url link to a script containing embedded script in the ?page variable	as demonstrated using the page parameter	0
+CVE-2011-1169++ibm++openwall-2477	a memory corruption error in the audioscience hpi driver (hpioctl.c). by sending a specially-crafted request	using the appropriate hardware or finding a new way to force it to be loaded in violation of security policy	0
+CVE-2015-2562++ibm++nvd-2023	sort_order and filter_manufacturer_ids parameter	(2 ) sort_order	0
+CVE-2005-3330++exploitdb++nvd-391	passing this uri to a script that uses a vulnerable version of snoopy	shell metacharacters in an https url to an ssl protected web page	1
+CVE-2008-7075++ibm++nvd-1258	send specially-crafted sql statements to multiple scripts	(3 ) article.comments.php	0
+CVE-2014-0172++openwall++nvd-1403	malformed compressed debug sections	which triggers a heap-based buffer overflow	0
+CVE-2008-2750++ibm++openwall-2719	sending a specially crafted ppp over l2tp packet	a crafted pppol2tp packet	1
+CVE-2008-1083++ibm++nvd-1472	persuading a victim to open a specially-crafted emf or wmf file	an emf or wmf image file with a malformed header that triggers an integer overflow	0
+CVE-2017-6355++ibm++nvd-2343	using specially-crafted pkt_length and offlen values	crafted pkt_length and offlen values	1
+CVE-2011-1496++ibm++nvd-1300	gain elevated privileges	gain utmp group privileges	1
+CVE-2016-6350++openwall++nvd-1777	using the sysctl call	a sysctl call with a path starting with 10	1
+CVE-2011-3354++ibm++openwall-1203	sending multiple client-to-client protocol (ctcp ) messages	sending specially crafted ctcp requests	1
+CVE-2014-5270++ibm++openwall-536	a side-channel attack on elgamal sub-keys	without a large overhead	1
+CVE-2015-5285++exploitdb++openwall-386	"""the get 'came_from ' parameter in the login instance"""	inject arbitrary headers into the server response for certain urls	0
+CVE-2018-9137++ibm++exploitdb-2356	sending a specially-crafted request	a value that is mishandled in a csv export	0
+CVE-2017-15986++ibm++exploitdb-492	"""send specially-crafted sql statements using the 'username ' parameter"""	inject sql commands	0
+CVE-2014-4717++ibm++nvd-425	persuading an authenticated user to visit a malicious web site	and unspecified vectors related to (2 ) pages	0
+CVE-2008-0853++ibm++nvd-41	send specially-crafted sql statements to the index.php script using the id parameter	the id parameter to index.php	1
+CVE-2015-8960++ibm++openwall-269	using man-in-the-middle techniques	engaging in the exact same computation	0
+CVE-2005-1070++exploitdb++nvd-2000	"""pass sql statements to the underlying database through the 'st ' parameter"""	the st parameter	0
+CVE-2013-4200++ibm++openwall-821	"""possibly retrieve the user's session cookie"""	issuing a specially-crafted request	0
+CVE-2011-3596++ibm++nvd-126	sending a specially crafted http post / put request	specially-crafted http post / put request	1
+CVE-2004-1973++exploitdb++nvd-3309	a malformed http get request	which consumes resources when digi converts the slashes to \\ (backslash ) characters	0
+CVE-2012-2573++exploitdb++nvd-1973	send an email to the victim with the payload in the email body	"or (7 ) a data : url in the content attribute of an http-equiv=""refresh "" meta element"	0
+CVE-2014-2364++ibm++nvd-183	sending an overly long string to multiple parameters	(6 ) alarmimage	0
+CVE-2005-3388++ibm++nvd-666	create a malicious url containing a specially-crafted stack array assignment to the phpinfo() function containing malicious script which	"a crafted url with a ""stacked array assignment."""	0
+CVE-2014-2364++ibm++nvd-178	sending an overly long string to multiple parameters	a long string in the (1 ) projectname	0
+CVE-2008-3432++openwall++nvd-2503	copying files	shell metacharacters in filenames	0
+CVE-2001-0205++ibm++nvd-772	"request a url containing modified \\""dot dot\\"" sequences"	a modified	0
+CVE-2016-4439++openwall++nvd-986	uses 16-byte fifo buffer	unspecified vectors	0
+CVE-2010-4646++ibm++nvd-1235	"""a specially-crafted background attribute within a cell in a table element to execute script in a victim's web browser within the security context of the hosting web site"""	related to improper use of the htmlawed filter	1
+CVE-2017-14496++ibm++nvd-512	sending a specially-crafted dns request	a crafted dns request	1
+CVE-2009-0487++openwall++nvd-1911	a crafted forum post	a crafted forum post	1
+CVE-2015-6127++ibm++exploitdb-2124	persuading a victim to open a specially-crafted file	a specially crafted mcl file	0
+CVE-2006-6173++exploitdb++nvd-175	specially crafted arguments to a system call	(1 ) a small range count	0
+CVE-2008-4194++ibm++openwall-1091	sending an overly long dns reply containing multiple entries in the answer field	a long dns reply with many entries in the answer section	0
+CVE-2013-2852++ibm++nvd-38	sending a specially-crafted request containing format string specifiers	leading to improper construction of an error message	0
+CVE-2007-6458++ibm++nvd-3263	send specially-crafted sql statements to the mainfile.php file	a base64-encoded value of the admin parameter to shop/admin.php	1
+CVE-2014-7841++ibm++openwall-1587	sending a specially-crafted sctp packet	sending a maliciously prepared sctp packet	1
+CVE-2008-3971++openwall++nvd-1892	a crafted manpage in    gmanedit	which is not properly handled during utf8 conversion	0
+CVE-2016-6835++ibm++openwall-2801	leveraging failure to check ip header length	reading further packet data	0
+CVE-2000-0329++exploitdb++nvd-1052	attach the asdf.jpg file	an attachment and an embedded script in an html mail	0
+CVE-2016-6350++openwall++nvd-1775	manage to map a page at address zero	a sysctl call with a path starting with 10	1
+CVE-2013-5961++ibm++nvd-280	sending a specially-crafted http request	a direct request to the file in lazy-seo/.	0
+CVE-2014-2364++exploitdb++nvd-2455	user controlled data through the getcolor function	(5 ) setcolor	0
+CVE-2001-0205++ibm++nvd-771	"request a url containing modified \\""dot dot\\"" sequences"	"inserting ""..."" into the requested pathname"	0
+CVE-2014-4717++ibm++nvd-426	persuading an authenticated user to visit a malicious web site	(3 ) posts	0
+CVE-2018-11793++ibm++openwall-1865	using specially-crafted json structures	a malicious actor	0
+CVE-2020-10648++ibm++openwall-3318	persuading a victim to open a specially-crafted fit image	verify integrity and authenticity of the loaded images	1
+CVE-2015-6104++ibm++nvd-2730	persuading a victim to open specially-crafted content	a crafted embedded font	1
+CVE-2016-10109++openwall++nvd-1513	a malicious client	"a command that uses ""cardslist "" after the handle has been released through the scardreleasecontext function"	0
+CVE-2015-8079++ibm++openwall-1223	the disclosure of urls visited during private browsing mode in in webpageicons.db	records visited urls in private browsing	0
+CVE-2017-9417++ibm++nvd-975	using unknown attack vectors	"aka the ""broadpwn "" issue"	0
+CVE-2006-0715++ibm++exploitdb-147	"""steal the victim's cookie-based authentication credentials"""	control how the site is rendered to the user	0
+CVE-2005-3507++ibm++nvd-2433	send a specially-crafted url	"""../"" sequences in the template parameter to (1 ) show_archives.php and (2 ) show_news.php ."	0
+CVE-2006-5276++exploitdb++nvd-2330	sending malformed smb packet	crafted smb traffic	1
+CVE-2016-10207++ibm++nvd-156	terminating a tls handshake	terminating a tls handshake early	1
+CVE-2013-1752++ibm++openwall-681	an unlimited readline() function call	no fix had been released	0
+CVE-2012-2020++ibm++nvd-248	sending specially-crafted packet	aka zdi-can-1326	0
+CVE-2017-8926++ibm++nvd-2507	persuading a victim to open a specially-crafted tif file	a crafted	0
+CVE-2015-1416++ibm++nvd-702	using a specially-crafted patch file	a crafted patch file	0
+CVE-2011-2702++openwall++nvd-1671	a denial of service	execute arbitrary code	0
+CVE-2011-3378++ibm++nvd-5	persuading a victim to check signatures of a specially crafted rpm package	an rpm package with crafted headers and offsets that are not properly handled when a package is queried or installed	0
+CVE-2012-2573++exploitdb++nvd-1985	crating a new contact	(5 ) a crafted src attribute of an iframe element	0
+CVE-2008-5517++openwall++nvd-1772	using quote_command()	shell metacharacters related to (1 ) git_snapshot and (2 ) git_object	0
+CVE-2011-1657++openwall++nvd-2026	crashes on invalid flags	as demonstrated by (a ) glob_altdirfunc and (b ) glob_append	0
+CVE-2001-1178++ibm++exploitdb-1188	inserting 7 kb of characters into the manpath environment variable	inserting 70000 characters into the manpath variable	1
+CVE-2013-2108++ibm++exploitdb-2264	web cache poisoning	perform certain unauthorized actions in the context of the affected application	0
+CVE-2005-3518++ibm++nvd-1037	send a specially-crafted search request containing a sql statement to the search.php script using the old_searches parameter	the old_searches parameter	0
+CVE-2009-3626++ibm++nvd-2328	sending specially-crafted strings containing utf-8 characters within regular expressions	invalid codepoint	1
+CVE-2014-2364++exploitdb++nvd-2461	user controlled data through the getcolor function	or (11 ) ipaddress parameter to an activex control in (a ) webvact.ocx	0
+CVE-2013-1860++ibm++nvd-1488	using unknown attack vectors	a crafted cdc-wdm usb device	0
+CVE-2015-1328++ibm++openwall-1097	incorrect permission checks when creating new files in the upper filesystem directory by the overlayfs filesystem	creating a 1:1 copy of a root-owned file	0
+CVE-2017-17095++ibm++exploitdb-522	persuading a victim to open a specially-crafted file	imagewidth and imagelength of the input tiff file	0
+CVE-2011-4357++openwall++nvd-566	a specially-crafted input	format string specifiers that are not properly handled when creating cgi error messages using the cgi_error api function	0
+CVE-2009-4222++ibm++nvd-2442	sending a direct request	a direct request	1
+CVE-2004-2120++ibm++nvd-3131	send multiple http get requests for a file that exists on the server	multiple incomplete get requests without the http version	1
+CVE-2017-7585++ibm++nvd-2894	persuading a victim to open a specially-crafted flac file	a specially crafted flac file	1
+CVE-2014-0172++openwall++nvd-1402	malformed compressed debug sections	a malformed compressed debug section in an elf file	1
+CVE-2007-1842++ibm++nvd-1219	send a specially-crafted url request to the login.php script using the table parameter to specify a malicious file from the local system	a .. (dot dot ) in the table parameter	0
+CVE-2011-3619++openwall++nvd-3160	doing an invalid formatted write to the process	does not properly handle invalid parameters	0
+CVE-2004-2617++ibm++exploitdb-2786	"send a specially-crafted http request to the server containing \\""dot dot\\"" (/../) sequences to traverse directories and view any file on the web server"	request files outside of the web-server root directory	0
+CVE-2007-6581++ibm++nvd-2270	send a specially-crafted url request to multiple scripts using the global_lang parameter to specify a malicious file from the local system	(2 ) header_blog.php	0
+CVE-2017-12923++ibm++openwall-79	persuading a victim to open a specially-crafted file	a read memory access	0
+CVE-2004-0445++ibm++nvd-2861	sending a specially-crafted dns response packet from udp port 53 that contains a compressed name pointer	a dns response with a compressed name pointer that points to itself	1
+CVE-2009-3223++exploitdb++nvd-1957	create an advertiser account to the site	the id parameter	0
+CVE-2017-15367++exploitdb++nvd-95	depending on configuration	access the bacula database and	1
+CVE-2008-2520++ibm++nvd-284	send a specially-crafted url request to the function.captcha.php	different vectors than cve-2006-4423	0
+CVE-2010-4524++openwall++nvd-3202	a specially-crafted email    message	as demonstrated by <scr<body>ipt > and </scr<body>ipt > sequences	0
+CVE-2005-3811++ibm++nvd-760	send a specially-crafted request to the admin/main.php script using the sid parameter to overwrite arbitrary files with session information using directory traversal attacks	the sid parameter	0
+CVE-2013-4160++ibm++nvd-1358	persuading a victim to open a specially-crafted image file	vectors related to (1 ) cmsstagealloclabv2tov4curves	0
+CVE-2004-1620++ibm++nvd-2232	send a specially-crafted request to cause the server to return a split response	or (3 ) the http referer field in comment.php	0
+CVE-2011-0640++openwall++nvd-49	malicious usb devices	as demonstrated by keyboard and mouse data sent by malware on a smartphone that the user connected to the computer	1
+CVE-2009-1759++ibm++exploitdb-1537	persuading a victim to open a specially-crafted torrent file	change the addr to hit the nop sled	0
+CVE-2015-5243++ibm++openwall-2189	sending a specially-crafted request	a simple whois server implementation	0
+CVE-2016-4439++openwall++nvd-985	"""writing to 's->cmdbuf'"""	unspecified vectors	0
+CVE-2015-4153++ibm++exploitdb-2041	send a specially-crafted url request to the load_template module using the template parameter to specify a malicious file from the local system	exploiting the wp_ajax_nopriv_load_template action	0
+CVE-2011-1087++ibm++openwall-455	persuading a victim to open a specially-crafted .mp3 file and then creating a bookmark for the affected file	creating a bookmark from the malicious media file playing	0
+CVE-2019-0192++ibm++openwall-2998	sending a specially-crafted request	jmx.serviceurl	0
+CVE-2007-6038++ibm++nvd-1681	specify a malicious file from a remote system	a url in the mosconfig_absolute_path parameter	0
+CVE-2000-0329++exploitdb++nvd-1065	build the cab file	"aka the ""active setup control "" vulnerability"	0
+CVE-2014-7841++ibm++openwall-1589	sending a specially-crafted sctp packet	malformed	1
+CVE-2016-4485++ibm++nvd-2939	an attacker could exploit this vulnerability to obtain sensitive information .	reading a message	0
+CVE-2008-3432++ibm++nvd-104	persuading a victim to open a specially-crafted file or directory with a malformed name	shell metacharacters in filenames	0
+CVE-2015-8104++openwall++nvd-3045	triggering an infinite	triggering many #db (aka debug ) exceptions	1
+CVE-2010-2752++ibm++nvd-1840	persuading a victim to visit a specially-crafted web site	related to references to external font resources and an inconsistency between 16-bit and 32-bit integers	0
+CVE-2015-4171++openwall++nvd-2897	"using username ""alice "" and a password"	using a valid certificate and then reading the responses	1
+CVE-2009-0753++exploitdb++openwall-2185	supplying a special-crafted request	using crafted requests to the http console	0
+CVE-2009-1194++openwall++nvd-3271	creating an overly large document.location value but only results in a process-terminating	a long glyph string that triggers a heap-based buffer overflow	0
+CVE-2016-5108++openwall++nvd-2237	processing quicktime ima files	a crafted quicktime ima file	1
+CVE-2010-3088++openwall++nvd-643	sending a prepared message	shell metacharacters in a message	0
+CVE-2010-5325++ibm++nvd-3057	sending an overly long argument	a long job title	0
+CVE-2012-2573++exploitdb++nvd-1968	send an email to the victim with the payload in the email body	(2 ) a crafted cascading style sheets (css ) expression property	0
+CVE-2012-2573++exploitdb++nvd-1972	send an email to the victim with the payload in the email body	"(6 ) a crafted content attribute of an http-equiv=""refresh "" meta element"	0
+CVE-2012-0845++ibm++openwall-3008	sending a specially-crafted http post request	malformed xml-rpc /	0
+CVE-2017-12923++openwall++nvd-3282	manipulating flashpix images	a crafted fpx image	0
+CVE-2011-0640++ibm++nvd-964	persuading a victim to connect a malicious usb device	crafted usb data	0
+CVE-2003-1604++ibm++nvd-1012	sending packets to an interface that has a 0.0.0.0 ip address	sending packets to an interface that has a 0.0.0.0 ip address	1
+CVE-2015-8540++ibm++nvd-258	sending an overly long argument	which triggers an out-of-bounds read	0
+CVE-2018-18557++ibm++exploitdb-1072	persuading a victim to open a specially-crafted file	write a pretty arbitrary amount of data of his choosing into this buffer	0
+CVE-2017-9417++ibm++exploitdb-2967	using unknown attack vectors	"""write to the device's main cpu kernel"""	0
+CVE-2009-0447++ibm++nvd-2044	send specially-crafted sql statements to the default.asp script using the uri or user or pass parameter	(1 ) the user parameter (aka username field ) or (2 ) the pass parameter (aka pass field ) to (a ) admin/admin.asp or (b ) the default uri under admin/. note : some of these details are obtained from third party information	0
+CVE-2013-2852++ibm++nvd-37	sending a specially-crafted request containing format string specifiers	leveraging root access and including format string specifiers in an fwpostfix modprobe parameter	0
+CVE-2008-5286++ibm++nvd-314	a png image containing a large height value	which bypasses a validation check and triggers a buffer overflow	1
+CVE-2013-2730++ibm++nvd-1859	persuading a victim to visit a specially-crafted web site	a different vulnerability than cve-2013-2733	0
+CVE-2016-5418++openwall++nvd-950	using 900k*4 compression * to bump up the tv[1-3 ] page count	a crafted archive file	0
+CVE-2014-7841++ibm++openwall-1588	sending a specially-crafted sctp packet	malformed packet	1
+CVE-2014-8177++ibm++openwall-3198	the failure to enforce metadata constraints	adding metadata in several separate calls	0
+CVE-2007-5996++ibm++nvd-407	send specially-crafted sql statements to the searchresult.php script using the sbcat_id parameter	a related issue to cve-2007-5449	1
+CVE-2000-0329++exploitdb++nvd-1054	send it to the target client	an attachment and an embedded script in an html mail	0
+CVE-2004-1620++ibm++nvd-2231	send a specially-crafted request to cause the server to return a split response	the url parameter in (1 ) index.php and (2 ) exit.php	0
+CVE-2012-2127++ibm++openwall-2760	making many connections to a daemon that uses pid namespaces to isolate clients	a namespace enabled vsftpd remotely	1
+CVE-2010-2959++ibm++exploitdb-2736	sending specially-crafted can traffic	setting up a truncated memory mapping as the source for the memcpy_fromiovec operation	0
+CVE-2011-0640++openwall++nvd-51	an end-user-consumable kernel update	as demonstrated by keyboard and mouse data sent by malware on a smartphone that the user connected to the computer	1
+CVE-2010-4524++openwall++nvd-3201	a specially-crafted email    message	a malformed start tag and end tag for a script element	0
+CVE-2017-12923++openwall++nvd-3281	a read memory access	a crafted fpx image	0
+CVE-2009-3890++ibm++nvd-2157	posting an attachment with a multiple-extension filename	a direct request to a wp-content/uploads / pathname	0
+CVE-2011-4925++openwall++nvd-1843	using munge	unspecified vectors	0
+CVE-2013-4579++exploitdb++nvd-3101	flip the bit at current position	sending a series of packets to mac addresses with certain bit manipulations	0
+CVE-2004-2617++ibm++exploitdb-1386	"send a specially-crafted http request to the server containing \\""dot dot\\"" (/../) sequences to traverse directories and view any file on the web server"	request files outside of the web-server root directory	1
+CVE-2017-15924++ibm++nvd-505	sending a specially-crafted request	shell metacharacters in a json configuration request received via 127.0.0.1 udp traffic	0
+CVE-2007-2820++ibm++nvd-2032	persuading a victim to visit a specially-crafted web page	long arguments to the (1 ) swat_init	0
+CVE-2011-3354++openwall++nvd-1835	sending specially crafted ctcp requests	a crafted client-to-client protocol (ctcp ) request	1
+CVE-2016-7185++exploitdb++nvd-3225	removing the letter from our current user dos devices directory	a crafted application	0
+CVE-2010-1173++openwall++nvd-594	malformatted init package	an sctpchunkinit packet containing multiple invalid parameters that require a large amount of error data	0
+CVE-2015-8104++openwall++nvd-3044	"triggering an infinite stream of ""debug check "" (#db ) exceptions"	related to svm.c	1
+CVE-2008-4667++ibm++nvd-2560	send a specially-crafted url request to the rss.php script using the rss parameter to specify a malicious file from the local system	a .. (dot dot ) in the rss parameter .	1
+CVE-2014-2531++exploitdb++nvd-120	concatenating strings from the application with user input	or (3 ) resellers interface	0
+CVE-2011-0708++openwall++nvd-1199	work with image metadata within their php code	an image with a crafted image file directory (ifd ) that triggers a buffer over-read	0
+CVE-2016-6185++ibm++nvd-1961	sending specially crafted data to the xsloader component	a trojan horse library under the current working directory	0
+CVE-2017-5970++openwall++nvd-1700	sending bad ip options on a socket	(1 ) an application that makes crafted system calls or possibly (2 ) ipv4 traffic with invalid ip options	0
+CVE-2013-4837++exploitdb++nvd-2053	autodeploy on the webapps directory	unknown vectors	0
+CVE-2009-1210++ibm++openwall-922	sending specially-crafted packets captured off the wire containing malicious format string specifiers in the station name	a pn-dcp packet with format string specifiers in the station name	0
+CVE-2017-15367++exploitdb++nvd-93	access the bacula database and	depending on configuration	1
+CVE-2013-2730++ibm++nvd-1858	persuading a victim to visit a specially-crafted web site	unspecified vectors	0
+CVE-2000-1054++ibm++exploitdb-609	sending an oversized packet to tcp port 2002	an oversized packet	1
+CVE-2014-2364++exploitdb++nvd-2462	user controlled data through the getcolor function	(b ) dvs.ocx	0
+CVE-2006-0214++ibm++nvd-1145	send a specially-crafted url request to the visitorupload.php script that specifies a malicious file on a local or remote system using the db_id parameter	the db_id parameter to visitorupload.php	0
+CVE-2014-9099++ibm++nvd-2559	persuading an authenticated user to visit a malicious web site	a request to the whydowork_adsense page in wp-admin/options-general.php	1
+CVE-2007-6581++ibm++nvd-2273	send a specially-crafted url request to multiple scripts using the global_lang parameter to specify a malicious file from the local system	or (6 ) admin_header_group.php in admin/.	0
+CVE-2017-12924++openwall++nvd-1585	manipulating flashpix images	a crafted fpx image	1
+CVE-2017-17576++ibm++exploitdb-2095	send specially-crafted sql statements to the browse-category.php	inject sql commands	0
+CVE-2008-1483++openwall++nvd-1997	causing ssh to set display to :10	as demonstrated	1
+CVE-2016-8680++ibm++nvd-1302	calling the dwarfdump command on a specially-crafted file	calling the dwarfdump command on a crafted file	1
+CVE-2011-1930++openwall++nvd-1727	checking ipconfig backlog patches	send a specially crafted dhcp reply	0
+CVE-2018-8947++ibm++nvd-2164	sending a specially-crafted request	a dl request	0
+CVE-2013-4837++exploitdb++nvd-2509	upload arbitrary files	execute arbitrary code	0
+CVE-2011-4357++openwall++nvd-878	a specially-crafted input	format string specifiers that are not properly handled when creating cgi error messages using the cgi_error api function	0
+CVE-2009-0386++ibm++nvd-1314	persuading a victim to open a specially-crafted quicktime media file	crafted composition time to sample (ctts ) atom data in a malformed quicktime media	0
+CVE-2013-4200++ibm++openwall-818	"""possibly retrieve the user's session cookie"""	a specially-crafted url	0
+CVE-2008-7075++ibm++nvd-1260	send specially-crafted sql statements to multiple scripts	or (5 ) article.download.php ; and (6 ) the path_info to article.download.php	0
+CVE-2010-1601++ibm++nvd-983	send a specially-crafted url request to the index.php script using the view parameter to specify a malicious file from the local system	a .. (dot dot ) in the view parameter to index.php .	0
+CVE-2006-3931++ibm++exploitdb-2040	attempting to record a midi file with an overly long filename	using it in a finite-sized buffer	0
+CVE-2018-18557++ibm++exploitdb-1073	persuading a victim to open a specially-crafted file	perform an allocation of a size of his choosing	0
+CVE-2011-1071++ibm++nvd-1252	persuading the application into using the function	a long utf8 string that is used in an fnmatch call	0
+CVE-2001-0552++ibm++exploitdb-1309	send a specially-crafted trap	execute commands on a managed system with the privileges of the ovactiond process	0
+CVE-2020-12695++ibm++openwall-2544	the failure to forbid the acceptance of a subscription request with a delivery url on a different network segment	removing the upnp_iface parameter	0
+CVE-2018-11714++ibm++nvd-618	sending a specially-crafted request	improper session handling on the /cgi / folder or a /cgi file	0
+CVE-2011-0640++openwall++nvd-52	connect an object of their choice to a usb port	crafted usb data	1
+CVE-2008-2520++ibm++nvd-282	send a specially-crafted url request to the function.captcha.php	a url in the (1 ) globals[_bigace][dir][addon ] parameter to (a ) addon/smarty/plugins/function.captcha.php and (b ) system/classes/sql/adodbconnection.php ; and the (2 ) globals[_bigace][dir][admin ] parameter to (c ) item_information.php and (d ) jstree.php in system/application/util/	0
+CVE-2015-8079++ibm++openwall-1224	the disclosure of urls visited during private browsing mode in in webpageicons.db	using private browsing mode	0
+CVE-2006-0214++ibm++nvd-150	send a specially-crafted url request to the visitorupload.php script that specifies a malicious file on a local or remote system using the db_id parameter	the db_id parameter to visitorupload.php	1
+CVE-2016-7162++ibm++nvd-2352	creating a symbolic link from a temporary file to various files on the system	a symlink attack on a folder in an archive	1
+CVE-2015-1463++ibm++nvd-1672	using specially-crafted petite packer files	a crafted petite packer file	1
+CVE-2012-5329++ibm++nvd-1276	sending a specially-crafted appe	a long string in an appe command	0
+CVE-2008-2245++ibm++nvd-115	persuading a victim to open a specially-crafted image file	a crafted image file	1
+CVE-2014-5368++ibm++nvd-2800	"send a specially-crafted url request to the wp-source-control/downloadfiles/download.php script containing \\""dot dot\\"" sequences (/../) in the path parameter to view arbitrary files on the system"	a .. (dot dot ) in the path parameter .	1
+CVE-2007-2192++ibm++nvd-114	creating a specially-crafted tif file	a crafted	1
+CVE-2018-13417++exploitdb++nvd-209	hosting a specially crafted xml file at that location	access arbitrary files from the filesystem with the same permission as the user account running vuze	0
+CVE-2005-0944++ibm++nvd-2214	sending a specially-crafted .mdb database file	a crafted mdb file	1
+CVE-2009-1573++openwall++nvd-3239	the commandline	listing the process and its arguments	1
+CVE-2011-0640++openwall++nvd-48	malicious usb devices	crafted usb data	1
+CVE-2007-6746++ibm++openwall-1423	persuading a victim to visit a web site containing a specially-crafted certificate	not check ssl certificates	0
+CVE-2017-7411++ibm++openwall-740	using specially-crafted serialized objects	using the unserialize() function with a value	1
+CVE-2018-5391++ibm++nvd-875	sending specially crafted ip fragments with random offsets	sending specially crafted ip fragments	0
+CVE-2014-8681++ibm++exploitdb-2547	send specially-crafted sql statements to the issue.go script using the labels parameter	extract data with a binary search	0
+CVE-2010-4262++ibm++openwall-1243	persuading a victim to open a specially-crafted .fig file with color definition	processing fig	0
+CVE-2017-17620++exploitdb++nvd-2920	inject sql commands	the /lawyer-list city parameter	0
+CVE-2012-2573++exploitdb++nvd-1967	send an email to the victim with the payload in the email body	an e-mail message body with (1 ) a script element	0
+CVE-2017-16642++ibm++nvd-1449	sending a specially-crafted request	attackers able to supply date strings to leak information from the interpreter	0
+CVE-2007-2820++ibm++nvd-2036	persuading a victim to visit a specially-crafted web page	and (5 ) swat_login functions	0
+CVE-2009-1758++openwall++nvd-2600	"triggering a segmentation fault in ""certain address ranges"	"triggering a segmentation fault in ""certain address ranges."""	1
+CVE-2009-1943++ibm++nvd-1659	sending an overly long request to udp port 62514	a long request to udp port 62514	1
+CVE-2017-12920++ibm++openwall-1453	persuading a victim to open a specially-crafted file	a read memory access	0
+CVE-2000-0329++exploitdb++nvd-1061	process the unsigned cab file	"aka the ""active setup control "" vulnerability"	0
+CVE-2010-4111++ibm++nvd-2705	"""a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	unspecified vectors	0
+CVE-2013-2241++ibm++openwall-3105	improper user access verification by the data_rest core module	fixing two security flaws	0
+CVE-2000-0329++exploitdb++nvd-1059	execute vbscript from the same email message	"aka the ""active setup control "" vulnerability"	0
+CVE-2012-2573++exploitdb++nvd-1983	crating a new contact	(3 ) a css expression property in the style attribute of an arbitrary element	0
+CVE-2019-12415++ibm++openwall-554	an xml external entity (xxe ) error when processing xml data by tool xssfexporttoxml	a specially crafted document	0
+CVE-2015-5285++openwall++nvd-1003	inject arbitrary headers into the server responses	inject arbitrary http headers and conduct http response splitting attacks	0
+CVE-2010-4352++ibm++openwall-692	sending a specially-crafted d-bus message containing an overly large number of nested variants	a specially-crafted message sent to the system bus	0
+CVE-2006-0214++ibm++nvd-151	send a specially-crafted url request to the visitorupload.php script that specifies a malicious file on a local or remote system using the db_id parameter	as demonstrated using phpinfo and include function calls	1
+CVE-2008-7075++ibm++nvd-1259	send specially-crafted sql statements to multiple scripts	(4 ) article.publisher.php	0
+CVE-2009-2999++openwall++nvd-3178	a specific malformed sms message	an sms message containing a malformed wap push message that triggers an arrayindexoutofboundsexception exception	0
+CVE-2009-3579++openwall++nvd-1305	the value parameter in a get request to cookie/	the value parameter in a get request to cookie/.	1
+CVE-2004-0200++ibm++exploitdb-433	creating a specially-crafted jpeg file containing malicious code	put approx 2500 bytes of shellcode	0
+CVE-2015-6250++openwall++nvd-2001	properties of the captcha	running the same code on the client-side	0
+CVE-2006-6173++exploitdb++nvd-177	specially crafted arguments to a system call	or (2 ) a large number of ranges in the shared_region_make_private_np_args parameter	0
+CVE-2009-0751++ibm++nvd-2093	sending an overly large number of header requests	a request with a large number of headers	0
+CVE-2015-2562++ibm++nvd-2021	send specially-crafted sql statements using the search_category_id	or (3 ) filter_manufacturer_ids in a displayproducts action to index.php	0
+CVE-2015-8618++ibm++openwall-2592	sending a specially-crafted packet	crafting specific inputs	1
+CVE-2016-1568++ibm++nvd-1697	sending a specially crafted ahci native command queuing aio command	an invalid ahci native command queuing (ncq ) aio command	1
+CVE-2008-0394++ibm++nvd-807	"sending an overly long argument to the \\""rcpt to\\"" smtp command"	which is not properly handled by the makeuserkey function	0
+CVE-2009-1955++ibm++openwall-2951	consume all available memory resources	a denial of service	0
+CVE-2011-1493++ibm++nvd-3247	composing fac_national_digis data that specifies a large number of digipeaters	composing fac_national_digis data that specifies a large number of digipeaters	1
+CVE-2000-0329++exploitdb++nvd-1058	execute vbscript from the same email message	an attachment and an embedded script in an html mail	0
+CVE-2020-10648++ibm++openwall-3319	persuading a victim to open a specially-crafted fit image	craft another configuration with the same signature node	1
+CVE-2006-6173++exploitdb++nvd-176	specially crafted arguments to a system call	which causes insufficient memory allocation	0
+CVE-2017-0144++exploitdb++nvd-3242	open named pipe	crafted packets	0
+CVE-2010-2959++ibm++exploitdb-2735	sending specially-crafted can traffic	corrupting bcm op with truncated allocation	0
+CVE-2012-2573++exploitdb++nvd-1976	send an email to the victim with the payload in the e-mail body	(3 ) a css expression property in the style attribute of an arbitrary element	0
+CVE-2014-0172++ibm++nvd-944	persuading a victim to open a specially-crafted elf file	a malformed compressed debug section in an elf file	1
+CVE-2018-1002150++ibm++openwall-1931	sending a specially-crafted request	manipulation of the koji filesystem	0
+CVE-2009-0487++ibm++nvd-404	using forum posts to inject malicious script into a web page	a crafted forum post	0
+CVE-2008-1162++ibm++nvd-3103	send specially-crafted sql statements to the album.php script using the albumid parameter	the albumid parameter	1
+CVE-2015-8813++ibm++openwall-1201	improper validation of user-supplied input by the feedproxy.aspx script	using this payload change the port number to perform port scanning > of the > server	0
+CVE-2017-1002026++ibm++nvd-879	"""send specially-crafted sql statements using the 'id ' parameter"""	the $id parameter before passing it into an sql statement	1
+CVE-2015-6127++ibm++exploitdb-2125	persuading a victim to open a specially-crafted file	sent through the full disclosure mailing list	0
+CVE-2018-9059++ibm++nvd-1824	sending a specially crafted packet	a malicious login request to forum.ghp	0
+CVE-2014-1912++ibm++nvd-912	sending an overly long argument	a crafted string	0
+CVE-2012-0882++ibm++nvd-359	using unknown attack vectors	as demonstrated by vulndisco pack professional 9.17	1
+CVE-2020-10648++ibm++openwall-3321	persuading a victim to open a specially-crafted fit image	craft arbitrary fit images	1
+CVE-2014-2364++ibm++nvd-181	sending an overly long string to multiple parameters	(4 ) ccdparameter	0
+CVE-2008-4711++ibm++nvd-2489	send specially-crafted sql statements to multiple scripts using the id parameter	the id parameter to (1 ) view.blog.php	0
+CVE-2016-8740++ibm++nvd-2758	sending a specially crafted request	crafted continuation frames in an http/2 request	1
+CVE-2008-0853++ibm++nvd-3061	send specially-crafted sql statements to the index.php script using the id parameter	the id parameter to index.php	1
+CVE-2010-0519++ibm++nvd-1815	persuading a victim to open a specially-crafted flashpix encoded movie file	a flashpix image with a malformed subimage header stream containing a numberoftiles field with a large value	0
+CVE-2015-8618++openwall++nvd-653	crafting specific inputs	unspecified vectors	0
+CVE-2014-4998++openwall++nvd-620	the #{ user } and #{ password } variables	listing the process	0
+CVE-2013-4200++ibm++openwall-820	"""possibly retrieve the user's session cookie"""	forgotten password email functionality	0
+CVE-2010-3085++ibm++nvd-2622	persuading a victim to connect to a malicious mednafen server	unspecified vectors	0
+CVE-2013-4200++ibm++openwall-819	"""possibly retrieve the user's session cookie"""	specially-crafted archive	0
+CVE-2017-12923++ibm++openwall-80	persuading a victim to open a specially-crafted file	manipulating flashpix images	0
+CVE-2014-2364++exploitdb++nvd-2459	user controlled data through the getcolor function	(9 ) serverresponse	0
+CVE-2005-4049++ibm++nvd-2656	send specially-crafted sql statements to the index.php script using the cat parameter or to the blog.php script using the note parameter to add	(1 ) the cat parameter in index.php and (2 ) the note parameter in blog.php	1
+CVE-2009-0240++openwall++nvd-1741	not properly implement access control checks	a modified repname parameter	0
+CVE-2018-17141++ibm++openwall-811	the code handling fax page reception in jpeg support function	processing an specially crafted input	0
+CVE-2010-1635++ibm++openwall-2956	sending a specially-crafted session setup andx packet	"""a session setup andx request with the smb header > 'flags2 ' set to '0x8003 '"""	0
+CVE-2015-6127++exploitdb++nvd-539	sent through the full disclosure mailing list	a crafted	0
+CVE-2015-1328++ibm++openwall-1099	incorrect permission checks when creating new files in the upper filesystem directory by the overlayfs filesystem	"switching ""upper "" to be the lowerdir option"	0
+CVE-2014-9275++ibm++nvd-1658	persuading a victim to open a specially-crafted rtf file	a crafted rtf file	1
+CVE-2011-1761++ibm++nvd-2618	persuading a victim to open a specially-crafted abc file	a crafted abc file	1
+CVE-2016-6161++ibm++nvd-1990	sending specially crafted files	a crafted image	0
+CVE-2000-0329++exploitdb++nvd-1056	splitting up our code into two functions	an attachment and an embedded script in an html mail	0
+CVE-2010-1744++ibm++nvd-730	send specially-crafted sql statements to the products.html page using the id parameter	the id parameter	0
+CVE-2010-2752++ibm++nvd-1839	persuading a victim to visit a specially-crafted web site	placing many cascading style sheets (css ) values in an array	0
+CVE-2000-0329++exploitdb++nvd-1063	process the components of the cab file	"aka the ""active setup control "" vulnerability"	0
+CVE-2013-2108++ibm++exploitdb-2263	perform cross-site scripting attacks	perform certain unauthorized actions in the context of the affected application	1
+CVE-2011-3354++openwall++nvd-1836	sending specially crafted ctcp requests	as demonstrated in the wild in september 2011	0
+CVE-2006-1194++ibm++nvd-1573	send a specially-crafted packet containing a overly large value in the commandlength field to cause a denial of service	a packet with a large command length value	1
+CVE-2008-4870++ibm++nvd-824	the dovecot.conf file having world-readable permissions	uses world-readable permissions for dovecot.conf	0
+CVE-2019-0192++ibm++openwall-2999	sending a specially-crafted request	an http post request	0
+CVE-2011-1493++ibm++nvd-3248	composing fac_national_digis data that specifies a large number of digipeaters	and then sending this data to a rose socket	1
+CVE-2015-8612++ibm++nvd-3153	leveraging the dhcp_handler argument	the dhcp_handler argument	1
+CVE-2008-1080++ibm++openwall-3118	persuading a victim to visit a malicious web page and type target filename characters	typing the characters of the target filename into a file input	1
+CVE-2017-17581++ibm++nvd-2310	"""send specially-crafted sql statements to the itechd.php script using the 'productid ' parameter"""	the itechd.php productid parameter	1
+CVE-2017-9502++ibm++openwall-340	sending a specially-crafted file url	copy the path with a wrong offset	0
+CVE-2009-1194++openwall++nvd-3272	creating an overly large document.location value but only results in a process-terminating	as demonstrated by a long document.location value in firefox	0
+CVE-2011-3378++ibm++nvd-7	persuading a victim to check signatures of a specially crafted rpm package	(2 ) the headerload function	0
+CVE-2008-0394++ibm++nvd-806	"sending an overly long argument to the \\""rcpt to\\"" smtp command"	a long rcpt to command	0
+CVE-2011-4862++ibm++nvd-649	sending specially-crafted commands to the server	a long encryption key	0
+CVE-2013-3221++openwall++nvd-1617	queries like this	"as demonstrated by unintended interaction between the ""typed xml "" feature and a mysql database"	0
+CVE-2010-3880++ibm++nvd-1511	specially-crafted netlink requests	crafted inet_diag_req_bytecode instructions in a netlink message that contains multiple attribute elements	0
+CVE-2002-1542++ibm++exploitdb-2521	sending a udp datagram of 8193 byes or more	sending a udp packet to the server that is 8193 or more bytes	1
+CVE-2016-10027++ibm++nvd-1942	"stripping the \\""starttls\\"" feature from a server response"	"stripping the ""starttls "" feature from a server response"	1
+CVE-2010-2959++ibm++exploitdb-2734	sending specially-crafted can traffic	send specially crafted can traffic	0
+CVE-2019-14378++exploitdb++nvd-3033	fold back all the carry bits from the top 16 bits into the lower 16 bits	a large packet	0
+CVE-2016-2784++ibm++exploitdb-2193	sending a specially crafted http get request and poisoning the web server cache	the host header is not part of the web server routing process (e.g . if several domains are served by the same web server	0
+CVE-2011-0021++ibm++openwall-1848	persuading a victim to open a specially-crafted cd+g (cd+graphics ) media file	crafted cdg video	0
+CVE-2012-3274++ibm++nvd-286	sending a specially-crafted string to udp port 1811	vectors related to log data	0
+CVE-2013-1752++ibm++openwall-680	an unlimited readline() function call	needed vulnerability remediation	0
+CVE-2016-9639++ibm++openwall-3022	an error related to caching	"""accepting its key "" with a command on the master"	0
+CVE-2011-3378++ibm++nvd-8	persuading a victim to check signatures of a specially crafted rpm package	and (3 ) multiple functions in rpmio/rpmpgp.c	0
+CVE-2015-4700++ibm++nvd-3250	sending a specially crafted packet	creating a packet filter and then loading crafted bpf instructions that trigger late convergence	1
+CVE-2017-7541++ibm++nvd-1916	using a specially - a crafted nl80211_cmd_frame netlink packet	a crafted nl80211_cmd_frame netlink packet	1
+CVE-2000-0329++exploitdb++nvd-1064	build the cab file	an attachment and an embedded script in an html mail	0
+CVE-2011-1930++ibm++openwall-3174	an error when the dhcp options written by ipconfig to /tmp/net-$device.conf are not properly escaped	checking ipconfig backlog patches	0
+CVE-2016-5418++openwall++nvd-949	"the modified script does not ""cheat "" -- a corrupt snapshot"	a crafted archive file	0
+CVE-2015-3308++ibm++nvd-1956	a denial of service	cause a denial of service or possibly have unspecified other impact	0
+CVE-2010-4262++ibm++openwall-1204	improper bounds checking when processing fig images	processing fig	1
+CVE-2013-4160++ibm++nvd-1360	persuading a victim to open a specially-crafted image file	(3 ) cmsallocprofilesequencedescription	0
+CVE-2008-4711++ibm++nvd-2492	send specially-crafted sql statements to multiple scripts using the id parameter	(4 ) view.music.php	0
+CVE-2016-5418++openwall++nvd-947	a poisoned * file handle	a crafted archive file	0
+CVE-2014-2364++exploitdb++nvd-2457	user controlled data through the getcolor function	(7 ) getparameter	0
+CVE-2013-3221++openwall++nvd-1615	generate sql	"as demonstrated by unintended interaction between the ""typed xml "" feature and a mysql database"	0
+CVE-2003-1266++ibm++nvd-1899	cause the eserv server to crash	a large amount of data	0
+CVE-2011-0518++exploitdb++nvd-604	write a file on the remote disk	the system parameter to index.php	0
+CVE-2003-0614++ibm++nvd-2008	embed malicious script in a specially-crafted url to the search.php script	the searchstring parameter	0
+CVE-2011-2484++openwall++nvd-2291	triggerring numerous exits on a single cpu	a crafted application	0
+CVE-2008-2845++ibm++nvd-765	send specially-crafted sql statements to the index.php script using the cat parameter	the cat parameter	0
+CVE-2017-17095++ibm++exploitdb-521	persuading a victim to open a specially-crafted file	write data to output buffer	0
+CVE-2019-16758++ibm++nvd-2603	"send a specially-crafted url request containing \\""dot dot\\"" sequences (/../) to view arbitrary files on the system"	use a directory traversal technique	0
+CVE-2016-5418++ibm++openwall-1120	the improper handling of hardlink archive entries of non-zero size	allowing any file on the system to be overwritten	0
+CVE-2012-0033++ibm++nvd-698	sending a specially-crafted dcc commands to a malicious server	a crafted dcc resume request	0
+CVE-2012-2573++exploitdb++nvd-1986	crating a new contact	"(6 ) a crafted content attribute of an http-equiv=""refresh "" meta element"	0
+CVE-2017-6074++openwall++nvd-218	exploiting a double-free	an application that makes an ipv6_recvpktinfo setsockopt system call	0
+CVE-2012-2150++openwall++nvd-2401	not properly obfuscate data	does not properly obfuscate file data	1
+CVE-2017-7411++ibm++openwall-17	using specially-crafted serialized objects	specially crafted serialized objects	1
+CVE-2016-8752++ibm++nvd-1874	pointing to uris like /js and /img	pointing to uris like /js and /img	1
+CVE-2014-2364++exploitdb++nvd-2451	user controlled data through the getcolor function	a long string in the (1 ) projectname	0
+CVE-2015-2562++ibm++nvd-2020	send specially-crafted sql statements using the search_category_id	(2 ) sort_order	0
+CVE-2013-4508++ibm++openwall-2540	sniffing the network	using vulnerable cipher	0
+CVE-2014-8681++ibm++nvd-2429	send specially-crafted sql statements to the issue.go script using the labels parameter	the label parameter to user/repos/issues	1
+CVE-2013-4668++ibm++openwall-1303	send a specially-crafted url request to the extract_archive_thread() function in fr-archive-libarchive.c containing dot dot sequences (/../) to view and obtain arbitrary files on the system	a specially crafted archive file	0
+CVE-2015-2562++ibm++nvd-2022	sort_order and filter_manufacturer_ids parameter	the (1 ) search_category_id	0
+CVE-2014-2364++exploitdb++nvd-2456	user controlled data through the getcolor function	(6 ) alarmimage	0
+CVE-2003-0409++ibm++nvd-1129	send a specially-crafted long http head or http post request to overflow a buffer and cause the server to crash	a long http (1 ) post or (2 ) head request	0
+CVE-2015-6806++ibm++openwall-1490	sending a specially-crafted request	type (not paste ) a complex fontsize-increase command code	0
+CVE-2008-1962++ibm++nvd-213	using the class or file parameter to specify a malicious file from the local system	a .. (dot dot ) in the (1 ) class parameter to include/functions.inc.php and the (2 ) file parameter to include/common.inc.php .	1
+CVE-2014-0787++ibm++exploitdb-29	sending a specially-crafted packet to tcp port 12401	"""sending a specially crafted packet to the 'alarmserver ' (aeserver.exe ) service listening on port 12401"""	1
+CVE-2004-1973++exploitdb++nvd-3308	a malformed http get request	an http get request that contains a large number of / (slash ) characters	0
+CVE-2018-13417++ibm++exploitdb-2757	persuading a victim to open specially-crafted xml content	access arbitrary files from the filesystem with the same permission as the user account running vuze	0
+CVE-2012-2351++ibm++nvd-1494	persuading a victim to visit a specially-crafted web site	using the same internal username	0
+CVE-2015-1416++ibm++openwall-1654	the lack of validation of patch stream	providing the same functionality with the same code structure	0
+CVE-2008-3971++openwall++nvd-1890	crafted manual page	which is not properly handled during utf8 conversion	0
+CVE-2017-15944++ibm++nvd-466	using the management interface	vectors involving the management interface	1
+CVE-2017-2741++ibm++exploitdb-3011	sending a specially-crafted request	writing a shell script that is loaded on startup to /etc/profile.d	0
+CVE-2014-2599++openwall++nvd-3355	not check the size of its input and can tie up a physical cpu for extended periods of time	leveraging access to certain service domains for hvm guests and a large input	1
+CVE-2011-3352++ibm++openwall-483	"""using the themename parameter in a specially-crafted url to execute arbitrary html or web script code in a victim's web browser within the security context of the hosting web site"""	setting default	1
+CVE-2002-2258++ibm++nvd-1639	sending an http post request to the web server with an overly long http content-length header	which causes an access violation after a failed atoi function call	0
+CVE-2013-4837++exploitdb++nvd-2054	autodeploy on the webapps directory	aka zdi-can-1832	0
+CVE-2017-8683++ibm++nvd-2688	executing a specially-crafted program	"aka ""win32k graphics remote code execution vulnerability"". this cve id is unique from cve-2017-8682"	0
+CVE-2010-4262++ibm++openwall-2877	improper bounds checking when processing fig images	processing fig	0
+CVE-2008-2822++exploitdb++nvd-1813	"""write arbitrary files to locations outside of the ftp client's current directory"""	a .. (dot dot ) in a response to a (1 ) list or (2 ) mlsd command .	0
+CVE-2008-5652++ibm++nvd-3220	send specially-crafted sql statements to the ajaxp.php script using the username parameter	as reachable through the username parameter	1
+CVE-2017-5356++ibm++nvd-3227	using a string containing a formatting sequence without a closing bracket	a string containing a formatting sequence (%[) without a closing bracket (]).	1
+CVE-2017-12919++openwall++nvd-368	manipulating flashpix images	a crafted fpx image	1
+CVE-2003-1555++ibm++nvd-348	send a specially-crafted url request to the view.php scriptusing an invalid pg parameter	an invalid pg parameter in view.php	1
+CVE-2005-1480++ibm++nvd-1789	"send a specially-crafted request containing \\""dot dot\\"" sequences (/../) to traverse directories and delete arbitrary files on the system"	"a ""..\\\\"" (dot dot backslash ) in the urlget site command ."	1
+CVE-2017-6371++ibm++nvd-1002	sending specially-crafted http requests	a long string in the http referer header	0
+CVE-2000-0329++exploitdb++nvd-1060	process the unsigned cab file	an attachment and an embedded script in an html mail	0
+CVE-2014-0172++ibm++nvd-945	persuading a victim to open a specially-crafted elf file	which triggers a heap-based buffer overflow	0
+CVE-2012-1617++ibm++nvd-1019	sending a specially-crafted request	a .. (dot dot ) in the type parameter . note : this vulnerability can be leveraged to upload arbitrary files .	0
+CVE-2010-1042++ibm++nvd-2043	persuading a victim to open a specially-crafted .avi file	a crafted	0
+CVE-2015-3088++ibm++exploitdb-1267	persuading a victim to visit a specially-crafted web site	write a pointer to the string in the array	0
+CVE-2017-7047++ibm++exploitdb-1541	using a specially-crafted application	targetting the serialized method type signature	0
+CVE-2015-1463++ibm++nvd-1673	using specially-crafted petite packer files	"related to an ""incorrect compiler optimization."""	0
+CVE-2011-2720++openwall++nvd-2903	specially-crafted http post request	a crafted post request	1
+CVE-2014-2364++exploitdb++nvd-2453	user controlled data through the getcolor function	(3 ) nodename	0
+CVE-2011-3203++ibm++openwall-1649	a specially-crafted request to the index.php script in the attachment parameter	"the parameter ""attachment "" is not properly sanitized"	0
+CVE-2013-4160++ibm++nvd-1362	persuading a victim to open a specially-crafted image file	and (5 ) cmsnamed	0
+CVE-2015-6127++exploitdb++nvd-540	convincing him to open a malicious mcl file	a crafted	0
+CVE-2012-2573++exploitdb++nvd-1977	send an email to the victim with the payload in the e-mail body	(4 ) an onload attribute of a body element	0
+CVE-2000-1053++exploitdb++nvd-1074	access documents outside of the webroot	inserting it	0
+CVE-2014-2364++ibm++nvd-180	sending an overly long string to multiple parameters	(3 ) nodename	0
+CVE-2017-17576++ibm++nvd-1950	send specially-crafted sql statements to the browse-category.php	browse-scategory.php sc parameter	1
+CVE-2008-5028++openwall++nvd-160	http requests	unspecified http requests	1
+CVE-2017-16642++ibm++nvd-1450	sending a specially-crafted request	related to ext/date/lib/parse_date.c out-of-bounds reads affecting the php_parse_date function	0
+CVE-2006-1194++ibm++nvd-1574	send a specially-crafted packet containing a overly large value in the commandlength field to cause a denial of service	which leads to an invalid memory access	1
+CVE-2010-0319++ibm++nvd-2488	"""using the id parameter in a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	the id parameter	0
+CVE-2010-1173++openwall++nvd-592	processing an init chunk in which too many of its variable length parameters are in some way malformed	an sctpchunkinit packet containing multiple invalid parameters that require a large amount of error data	0
+CVE-2015-3253++openwall++nvd-2601	bake a special serialized object	a crafted serialized object	1
+CVE-2007-0758++ibm++nvd-2646	send a specially-crafted url request to the lang.php script using the lang parameter to specify a malicious file from a remote system	a url in the src attribute of an html element in the lang parameter	1
+CVE-2016-6185++openwall++nvd-315	uses caller() information to locate the .so file to load	a trojan horse library under the current working directory	0
+CVE-2014-0036++ibm++nvd-1952	persuading a victim to visit a web site containing a specially-crafted certificate	unspecified vectors	0
+CVE-2008-3546++ibm++nvd-339	persuading a victim to running a certain command against an overly long repository pathname	"""a path whose length is larger than the system's path_max when running git utilities such as git-diff or git-grep"""	0
+CVE-2008-3606++ibm++nvd-777	sending an overly long imap list command	a long argument to the list command	1
+CVE-2017-1000252++openwall++nvd-766	using kvm with posted interrupts on intel systems	an out-of bounds guest_irq value	0
+CVE-2011-0640++openwall++nvd-50	an end-user-consumable kernel update	crafted usb data	1
+CVE-2013-4200++ibm++openwall-823	"""possibly retrieve the user's session cookie"""	a specially-crafted (url )  request	0
+CVE-2008-5824++ibm++nvd-799	persuading a victim to open a specially-crafted .wav audio file	a crafted wav file	0
+CVE-1999-0178++exploitdb++nvd-3385	"""copy the website's readme.1st file"""	a long query string	0
+CVE-2007-2820++ibm++nvd-2033	persuading a victim to visit a specially-crafted web page	(2 ) swat_initex	0
+CVE-2020-0009++ibm++exploitdb-241	sending a specially-crafted request	which grabs the file pointer of an existing vma	0
+CVE-2014-2364++ibm++nvd-189	sending an overly long string to multiple parameters	(b ) dvs.ocx	0
+CVE-2017-11334++ibm++nvd-2013	leveraging the use of qemu_map_ram_ptr to access guest ram block area	leveraging use of qemu_map_ram_ptr to access guest ram block area	1
+CVE-2008-3546++ibm++openwall-219	persuading a victim to running a certain command against an overly long repository pathname	"""a path whose length is larger than the system's path_max"""	0
+CVE-2014-4157++ibm++nvd-3279	executing a malicious application without invoking a trace or audit subsystem	executing a crafted application	1
+CVE-2008-3971++openwall++nvd-1891	a crafted manpage in    gmanedit	a crafted man page	1
+CVE-2015-5185++ibm++openwall-1769	sending a specially-crafted packet	"a crafted packet without ""classname "" info"	0
+CVE-2006-6416++ibm++nvd-2246	send a specially-crafted url request to the config.php script using the cheminmini parameter to specify a malicious file from a remote system	a url in the cheminmini parameter to (1 ) consult/miniseul.php or (2 ) config.php	0
+CVE-2014-2364++exploitdb++nvd-2458	user controlled data through the getcolor function	(8 ) getcolor	0
+CVE-2015-5470++ibm++nvd-2375	sending specially-crafted dns packets	a request with a long name that refers to itself	0
+CVE-2017-5359++ibm++nvd-2655	"""sending a specially-crafted http request to the 'd$eval ' parameter"""	the d$eval parameter to the default uri	1
+CVE-2013-6356++ibm++exploitdb-480	persuading a victim to open a specially-crafted .reg file	the input string size is greater than the predefined size	0
+CVE-2008-5076++ibm++nvd-1124	using a specially-crafted process name	"a process name with ""crazy control strings."""	0
+CVE-2007-1615++ibm++nvd-1722	send specially-crafted sql statements to the index.php script using the catid parameter	the catid parameter	0
+CVE-2013-6356++ibm++exploitdb-1273	persuading a victim to open a specially-crafted .reg file	improper restriction of operations within the bounds of a memory buffer	0
+CVE-2017-7047++ibm++exploitdb-1542	using a specially-crafted application	use a type signature like this : that will cause 7 bytes of buffer space to be allocated for the parsed signature	0
+CVE-2020-10173++ibm++nvd-1474	sending a specially crafted request	shell metacharacters in the pingipaddress parameter to ping.cgi .	0
+CVE-2009-0390++exploitdb++nvd-1667	preventing the virtual machines from starting	populating the /tmp/enomalism2.pid file with command-line arguments for the kill program	0
+CVE-2012-2573++exploitdb++nvd-1979	send an email to the victim with the payload in the e-mail body	"(6 ) a crafted content attribute of an http-equiv=""refresh "" meta element"	0
+CVE-2010-1635++ibm++openwall-2957	sending a specially-crafted session setup andx packet	a crafted >	0
+CVE-2008-3432++openwall++nvd-2504	copying files	as demonstrated by the netrw.v3 test case	0
+CVE-2008-5235++openwall++nvd-2667	and h values    processed by the real_parse_audio_specific_data and    demux_real_send_chunk functions in demux_real.c ; and (3 ) an    unspecified combination of three values processed by the open_ra_file    function in demux_realaudio.c	a crafted real media file	0
+CVE-2014-5270++ibm++openwall-537	a side-channel attack on elgamal sub-keys	new attack channels	1
+CVE-2017-9871++ibm++nvd-166	persuading a victim to open a specially-crafted audio file	a crafted audio file	1
+CVE-2010-1205++exploitdb++openwall-109	create a png with 2 rows and mark	png image with malformed scal chunks	0
+CVE-2016-10033++openwall++nvd-306	"""a missing escaping of shell arguments in the sender's e-mail address"""	"a \\"" (backslash double quote ) in a crafted sender property"	0
+CVE-2014-2531++exploitdb++nvd-118	concatenating strings from the application with user input	the i parameter in a search action to the (1 ) nodeworx	0
+CVE-2012-2573++exploitdb++nvd-1975	send an email to the victim with the payload in the e-mail body	(2 ) a crafted cascading style sheets (css ) expression property	0
+CVE-2008-5652++ibm++nvd-3219	send specially-crafted sql statements to the ajaxp.php script using the username parameter	the rsargs parameter	1
+CVE-2009-2773++ibm++nvd-1626	send a specially-crafted url request to the home.php script using the page parameter to specify a malicious file from a remote system	a url in the page parameter	1
+CVE-2013-4508++ibm++openwall-2314	the configuration of weak ssl ciphers in the ssl.cipher-list	uses vulnerable cipher suites	0
+CVE-2013-3575++ibm++nvd-2514	send a specially-crafted url request to the pageview.php script using the path parameter	the path parameter	1
+CVE-2008-4580++openwall++nvd-2798	communicating with some remote device capable of cutting the system from power	a symlink attack on the fence_manual.fifo temporary file	0
+CVE-2013-6021++exploitdb++nvd-2597	send an http request	a long sessionid value in a cookie	0
+CVE-2015-5285++exploitdb++openwall-1647	"""the get 'came_from ' parameter in the login instance"""	inject arbitrary headers into the server response for certain urls	0
+CVE-1999-0875++ibm++exploitdb-1732	"""cause a system to direct its network traffic through a system of the attacker's choice"""	"""using the '-r ' flag and specifying a second router address entry"""	0
+CVE-2016-7098++ibm++openwall-2644	maintaining an http connection open	mirroring the complete original presentation	0
+CVE-2005-2002++exploitdb++nvd-356	"use ""sub select "" in any sql statement"	the user_rating parameter	0
+CVE-2008-3310++ibm++nvd-3066	send specially-crafted sql statements to the default.asp script using the catid parameter	the catid parameter	1
+CVE-2013-4200++exploitdb++openwall-1160	hijack user sessions and gain unauthorized access to the affected application	a denial of service	0
+CVE-2016-3376++ibm++exploitdb-2845	improper handling of objects in memory by the kernel-mode driver	operating on falsely large size	0
+CVE-2020-10648++ibm++openwall-3320	persuading a victim to open a specially-crafted fit image	adding several properties to corresponding signature nodes	1
+CVE-2013-6194++exploitdb++nvd-836	timeout due to a process process execution after file write on the target disconnect end end	unknown vectors	0
+CVE-2010-0012++ibm++openwall-3116	persuading a victim to open a specially-crafted .torrent file containing directory traversal sequences	processing crafted torrent files	0
+CVE-2011-1930++openwall++nvd-1567	checking ipconfig backlog patches	send a specially crafted dhcp reply	0
+CVE-2013-1775++ibm++openwall-2713	an error when a systems battery within the local clock has been fully drained	"using ""sudo -k "" instead of ""sudo -k "" will completely remove the time stamp file instead of just resetting it"	0
+CVE-2010-0427++ibm++nvd-1695	gain elevated privileges	gain privileges	1
+CVE-2008-4711++ibm++nvd-2491	send specially-crafted sql statements to multiple scripts using the id parameter	(3 ) view.group.php	0
+CVE-2006-5094++ibm++nvd-2051	send a specially-crafted url request to the functions_kb.php script using the phpbb_root_path parameter to specify a malicious file from a remote system	a different vector than cve-2006-4780 or cve-2006-4893	0
+CVE-2020-0009++ibm++exploitdb-239	sending a specially-crafted request	0 ) on an ashmem mapping	0
+CVE-2015-8960++ibm++nvd-132	using man-in-the-middle techniques	leveraging knowledge of the secret key for an arbitrary installed client x.509 certificate	0
+CVE-2020-0009++ibm++exploitdb-236	sending a specially-crafted request	size	0
+CVE-2013-6021++exploitdb++nvd-2598	send an http ping request building http requests testing shellcode against bad cahrs print	a long sessionid value in a cookie	0
+CVE-2018-8813++exploitdb++nvd-3382	a malformed url	a malformed url	1
+CVE-2008-3528++ibm++openwall-2153	mounting a filesystem containing corrupted data structures	performing either a read or write operation on the mounted image or partition	0
+CVE-2010-1635++openwall++nvd-1850	"""a session setup andx request with the smb header > 'flags2 ' set to '0x8003 '"""	a negotiate protocol request with a certain 0x0003 field value followed by a session setup andx request with a certain 0x8003 field value	0
+CVE-2008-1370++ibm++nvd-2197	send a specially-crafted url request to the index.php script using the page parameter to specify a malicious file from a remote system	a url in the page parameter	0
+CVE-2008-1080++ibm++openwall-134	persuading a victim to visit a malicious web page and type target filename characters	typing the characters of the target filename into a file input	1
+CVE-2018-20073++ibm++openwall-374	using the filesystem	extended filesystem attributes	0
+CVE-2015-8540++ibm++nvd-257	sending an overly long argument	a space character as a keyword in a png image	0
+CVE-2010-3880++ibm++nvd-1512	specially-crafted netlink requests	as demonstrated by inet_diag_bc_jmp instructions	0
+CVE-2008-3432++ibm++openwall-285	persuading a victim to open a specially-crafted file or directory with a malformed name	copying files	0
+CVE-2016-2848++ibm++nvd-2089	sending a specially crafted dns packet with malformed options	malformed options data in an opt resource record	0
+CVE-2008-4779++ibm++nvd-2953	opening a specially-crafted .zip file containing an overly long filename	a long filename in a	1
+CVE-2019-6442++ibm++nvd-2268	sending a specially-crafted request	write one byte out of bounds in ntpd via a malformed config request	0
+CVE-2017-7678++openwall++nvd-2229	visiting a link that points to a shared spark cluster and submits data including mhtml to the spark master	trick them into visiting a link	0
+CVE-2009-2573++ibm++nvd-2668	send specially-crafted sql statements to the index.phpand rss.php scripts using the user parameter	the (1 ) user parameter to (a ) index.php and (b ) rss.php	1
+CVE-2016-5116++ibm++nvd-2562	using a specially-crafted xbm image	a long name	1
+CVE-2017-17576++ibm++nvd-1949	send specially-crafted sql statements to the browse-category.php	the browse-category.php cat parameter	1
+CVE-2014-0978++ibm++openwall-1366	persuading a victim to open a specially-crafted file	a specially crafted file	1
+CVE-2013-0242++openwall++nvd-75	processing multibyte characters begin	crafted multibyte characters	1
+CVE-2011-1011++ibm++nvd-417	creating a symbolic link from a temporary file to various files on the system	running a setuid application that relies on /tmp	0
+CVE-2016-5116++ibm++nvd-56	using a specially-crafted xbm image	a long name	1
+CVE-2016-2037++ibm++nvd-233	persuading a victim to open a specially crafted file	a crafted cpio file	1
+CVE-2016-6835++ibm++nvd-1794	leveraging failure to check ip header length	leveraging failure to check ip header length	1
+CVE-2011-1164++ibm++openwall-2326	an error in vino-preferences dialog box when providing information on network accessibility	"""disallowing the 'none ' authentication method"""	0
+CVE-2020-0009++ibm++exploitdb-240	sending a specially-crafted request	the remap_file_pages() syscall	0
+CVE-2018-20073++openwall++nvd-891	extended filesystem attributes	the filesystem	0
+CVE-2001-0375++ibm++nvd-691	send multiple tacacs + authentication requests to the pix firewall to consume all of the firewall聮s available resources	a large number of authentication requests	0
+CVE-2001-1178++ibm++nvd-437	inserting 7 kb of characters into the manpath environment variable	a long manpath environment variable	1
+CVE-2009-1148++ibm++openwall-326	send a specially-crafted url request to specify a malicious file from a remote or the local system	the (1 ) c_type and possibly (2 ) file_type parameters	0
+CVE-2009-0039++ibm++nvd-1566	persuading an authenticated user to visit a malicious web site	(3 ) a shutdown request to console/portal//server/shutdown	0
+CVE-2006-4927++ibm++nvd-1527	sending a specially-crafted irp to the ioctl function	(2 ) 0x222ad7	0
+CVE-2015-6522++ibm++nvd-2508	send specially-crafted sql statements to the get_album_item.php script using the size parameter	the size parameter to get_album_item.php	1
+CVE-2010-4646++ibm++nvd-1234	"""a specially-crafted background attribute within a cell in a table element to execute script in a victim's web browser within the security context of the hosting web site"""	a crafted background attribute within a cell in a table element	1
+CVE-2016-2178++openwall++nvd-1142	a cache-timing > | attack to be sufficient for an attacker to recover the private dsa key	a timing side-channel attack	0
+CVE-2019-12415++openwall++nvd-1822	a specially crafted document	xml external entity (xxe ) processing	0
+CVE-2017-1000499++ibm++nvd-2240	persuading an authenticated user to visit a malicious web site	deceiving a user to click on a crafted url	0
+CVE-2009-3536++ibm++nvd-2267	persuading a victim to open a specially-crafted .mpl or .m3u playlist file containing an overly long string	a long string in a (1 )	0
+CVE-2000-0329++exploitdb++nvd-1053	attach the asdf.jpg file	"aka the ""active setup control "" vulnerability"	0
+CVE-2007-2820++ibm++nvd-2034	persuading a victim to visit a specially-crafted web page	(3 ) swat_initex2	0
+CVE-2008-3456++openwall++nvd-549	a cross-site framing attack	a cross-site framing attack	1
+CVE-2013-0242++openwall++nvd-76	a specially-crafted input	crafted multibyte characters	1
+CVE-2016-5126++ibm++nvd-1678	sending an ioctl call	a crafted iscsi asynchronous i/o ioctl call	0
+CVE-2011-0708++openwall++nvd-762	work with image metadata within their php code	an image with a crafted image file directory (ifd ) that triggers a buffer over-read	0
+CVE-2016-7954++ibm++nvd-1570	using a specially-crafted gem name collision on a secondary source	leveraging a gem name collision on a secondary source	1
+CVE-2012-4506++ibm++nvd-955	"send a specially-crafted url request containing \\""dot dot\\"" sequences (/../)"	a .. (dot dot ) in a repository name .	0
+CVE-2012-2573++exploitdb++nvd-1981	crating a new contact	an e-mail message body with (1 ) a script element	0
+CVE-2014-2364++ibm++nvd-190	sending an overly long string to multiple parameters	or (c ) webdact.ocx	0
+CVE-2010-5001++exploitdb++nvd-2495	send emails to all contacts or to a particular group of contacts with one mouse click	the id parameter	0
+CVE-2014-2364++ibm++nvd-182	sending an overly long string to multiple parameters	(5 ) setcolor	0
+CVE-2020-2732++ibm++nvd-2262	sending a specially-crafted request	accessing sensitive l1 resources	0
+CVE-2003-1555++ibm++nvd-349	send a specially-crafted url request to the view.php scriptusing an invalid pg parameter	which reveals the installation path in an error message	1
+CVE-2008-2088++ibm++nvd-3070	send specially-crafted sql statements to the admin.php script using the id parameter	the id parameter in the news module to admin.php	1
+CVE-2016-4485++ibm++nvd-2938	"using the \\""put_cmsg\\"""	reading a message	0
+CVE-2017-7047++ibm++exploitdb-2874	gain elevated privileges	escape privilege escalation	1
+CVE-2016-5418++openwall++nvd-946	symlink checks to be bypassed	a crafted archive file	0
+CVE-2008-7075++ibm++nvd-1257	send specially-crafted sql statements to multiple scripts	(1 ) the subcatid parameter to article.list.php ; or the artid parameter to (2 ) article.print.php	0
+CVE-2010-4820++ibm++nvd-2447	persuading a victim to open a specially-crafted postscript library file	a trojan horse postscript library file in encoding / under the current working directory	1
+CVE-2011-1011++ibm++nvd-3374	creating a symbolic link from a temporary file to various files on the system	as demonstrated	0
+CVE-2012-1125++ibm++nvd-363	sending a direct request using the folder parameter	a direct request to the file in the directory specified by the folder parameter	1
+CVE-2014-3119++ibm++exploitdb-346	send specially-crafted sql statements to multiple scripts using various parameters	injecting arbitrary sql code	1
+CVE-2005-3207++exploitdb++nvd-3283	issuing a specific http request	a userid parameter that contains a stop command	1
+CVE-2012-2020++ibm++nvd-247	sending specially-crafted packet	unknown vectors	0
+CVE-2008-3911++ibm++openwall-2817	sending a specially-crafted read system call for the /proc/sys/sunrpc/transports file	a crafted read system call for the /proc/sys/sunrpc/transports file	1
+CVE-2016-6349++ibm++nvd-3305	running the machinectl command	running that command	1
+CVE-2015-4133++ibm++nvd-682	sending a specially-crafted http request	a direct request to the file in uploads / directory	0
+CVE-2013-6356++ibm++exploitdb-1274	persuading a victim to open a specially-crafted .reg file	the input string size is greater than the predefined size	0
+CVE-2016-10155++ibm++nvd-2830	using a large number of device unplug operations	a large number of device unplug operations	1
+CVE-2017-7585++ibm++nvd-1554	persuading a victim to open a specially-crafted flac file	a specially crafted flac file	1
+CVE-2015-2782++openwall++nvd-1293	crashing on a arj file	a crafted arj archive	1
+CVE-2016-6250++ibm++nvd-939	persuading a victim to open a specially crafted file	which trigger a buffer overflow	0
+CVE-2014-2364++ibm++nvd-188	sending an overly long string to multiple parameters	or (11 ) ipaddress parameter to an activex control in (a ) webvact.ocx	0
+CVE-2007-3956++ibm++nvd-1539	sending a specially-crafted tcp request	long username and password parameters in a request to login	0
+CVE-2014-2312++ibm++nvd-1193	creating a symbolic link from a temporary file to various files on the system	a symlink attack on /tmp/thermald.pid	0
+CVE-2006-0214++ibm++nvd-1146	send a specially-crafted url request to the visitorupload.php script that specifies a malicious file on a local or remote system using the db_id parameter	as demonstrated using phpinfo and include function calls	0
+CVE-2008-3132++ibm++nvd-3	send specially-crafted sql statements to the index.php script using the pet parameter	the pet parameter to index.php	1
+CVE-2010-1173++openwall++nvd-591	allowing our implementation to only report a fixed number of errors	an sctpchunkinit packet containing multiple invalid parameters that require a large amount of error data	0
+CVE-2010-1173++openwall++nvd-593	red hat support	an sctpchunkinit packet containing multiple invalid parameters that require a large amount of error data	0
+CVE-2008-1281++ibm++exploitdb-2355	"send a specially-crafted tftp request containing \\""dot dot\\"" sequences (/../) (..\\\\) to view arbitrary files on the system"	download (upload is not allowed ) any file from the disk where is located the tftp folder	0
+CVE-2013-4160++ibm++nvd-1361	persuading a victim to open a specially-crafted image file	(4 ) curvesalloc	0
+CVE-2012-3548++ibm++openwall-2695	persuading a victim to open a specially-crafted packet trace file	a specially-crafted capture file	0
+CVE-2016-4437++ibm++openwall-1081	"the use of a default cipher key for the \\""remember me\\"" feature"	using a shiro.ini	0
+CVE-2020-11958++ibm++nvd-43	persuading a victim to open a specially-crafted file	a long lexeme	0
+CVE-2006-2094++exploitdb++nvd-3064	exploiting a race-condition when displaying modal security dialog boxes	construct a race condition	1
+CVE-2002-2296++ibm++exploitdb-746	"""steal the victim's cookie-based authentication credentials"	create a malicious link to the login page of a site hosting the web forum	0
+CVE-2008-3834++exploitdb++nvd-1998	a message containing a malformed signature	a message containing a malformed signature	1
+CVE-2000-0329++exploitdb++nvd-1067	"""transfer a cab file onto the client's machine"""	"aka the ""active setup control "" vulnerability"	0
+CVE-2012-3355++ibm++openwall-3159	creating a symbolic link from a temporary file to various files on the system	loading the html template files	1
+CVE-2009-2999++openwall++nvd-3180	a specific malicious application	an sms message containing a malformed wap push message that triggers an arrayindexoutofboundsexception exception	0
+CVE-2015-1378++ibm++nvd-245	sending a specially-crafted request	non-root users	0
+CVE-2017-7047++ibm++exploitdb-1540	using a specially-crafted application	send serialized nsinvocation objects representing the methods they wish to call on the remote objects	0
+CVE-2019-18634++ibm++nvd-1321	sending an overly long string to the stdin of getln() in tgetpass.c.	an administrator.) the attacker needs to deliver a long string to the stdin of getln() in tgetpass.c	1
+CVE-2010-3085++ibm++nvd-2623	persuading a victim to connect to a malicious mednafen server	"related to ""stack manipulation "" issues"	0
+CVE-2008-3834++exploitdb++nvd-1999	a message containing a malformed signature	which triggers a failed assertion error	1
+CVE-2007-3554++ibm++nvd-2247	persuading a victim to view a specially-crafted web page that passes an overly long argument to the queryhub parameter	a long argument to the queryhub function	0
+CVE-2017-8843++openwall++nvd-316	a read memory access	a crafted archive	0
+CVE-2019-18634++ibm++nvd-1138	sending an overly long string to the stdin of getln() in tgetpass.c.	an administrator.) the attacker needs to deliver a long string to the stdin of getln() in tgetpass.c	1
+CVE-2014-4703++exploitdb++nvd-1413	accessing a file that is not owned by them	a symlink attack on the configuration file in the extra-opts flag	0
+CVE-2011-0285++ibm++nvd-3108	sending specially-crafted packets to tcp port 749	a crafted request that triggers an error condition	0
+CVE-2006-1510++ibm++nvd-713	an attacker could overflow a buffer and execute arbitrary code on the system	a crafted	0
+CVE-2013-6618++exploitdb++nvd-2201	the rs post parameter	the rsargs parameter in an exec action	0
+CVE-2017-8797++ibm++openwall-396	sending a specially crafted nfsv4 pnfs layoutget command using udp	the provided input value is not properly validated	0
+CVE-2008-3712++ibm++nvd-2546	using the mosconfig_sitename parameter in a specially-crafted url	the (1 ) query string to mambots/editors/mostlyce/jscripts/tiny_mce/filemanager/connectors/php/connector.php and the (2 ) mosconfig_sitename parameter to administrator/popups/index3pop.php	1
+CVE-2016-5418++openwall++nvd-953	allowing any file on the system to be overwritten	a crafted archive file	0
+CVE-2012-2573++exploitdb++nvd-1974	send an email to the victim with the payload in the e-mail body	an e-mail message body with (1 ) a script element	0
+CVE-2001-0399++exploitdb++nvd-1927	a specially constructed http request	inserting a	0
+CVE-2006-2295++ibm++nvd-1518	"""send specially-crafted requests to the index.php or galerie.php script using the 'pfad ' parameter"""	an absolute path in the pfad parameter to (1 ) index.php and (2 ) galerie.php	0
+CVE-2010-3146++ibm++nvd-2147	persuading a victim to open a specially-crafted file from a webdav or smb share using a vulnerable application	a directory that contains a groove vcard (.vcg ) or groove tool archive (.gta ) file	0
+CVE-2017-2584++ibm++nvd-2241	using a specially-crafted application that leverages instruction emulation for fxrstor	a crafted application	0
+CVE-2010-1205++ibm++openwall-1586	sending an extra image row data beyond the reported height in the header	png image with malformed scal chunks	0
+CVE-2014-2892++ibm++openwall-2349	sending an overly long string	an overly long line of a mmsh (mms over http )	1
+CVE-2007-6581++ibm++nvd-2272	send a specially-crafted url request to multiple scripts using the global_lang parameter to specify a malicious file from the local system	(5 ) admin_header_blog.php	0
+CVE-2017-7678++openwall++nvd-2228	viewing elements of the spark web uis	trick them into visiting a link	0
+CVE-2009-3890++ibm++nvd-2158	posting an attachment with a multiple-extension filename	as demonstrated by a	0
+CVE-2008-3432++ibm++nvd-105	persuading a victim to open a specially-crafted file or directory with a malformed name	as demonstrated by the netrw.v3 test case	0
+CVE-2013-3221++openwall++nvd-1614	generate sql	a crafted value	0
+CVE-2007-4925++ibm++nvd-1275	send a specially-crafted paymentinfo command line argument in a popen() call containing shell metacharacters to inject and execute shell commands on the system with the privileges of the web server	shell metacharacters in the paymentinfo parameter to simplephplinux/3payment_receive.php	0
+CVE-2012-2127++ibm++nvd-2931	making many connections to a daemon that uses pid namespaces to isolate clients	making many connections to a daemon that uses pid namespaces to isolate clients	1
+CVE-2013-1775++ibm++openwall-1610	an error when a systems battery within the local clock has been fully drained	"using ""sudo -k "" instead of ""sudo -k "" will completely remove the time stamp file instead of just resetting it"	0
+CVE-2020-0009++ibm++exploitdb-235	sending a specially-crafted request	calling remap_file_pages(addr	0
+CVE-2010-2673++ibm++nvd-1964	send specially-crafted sql statements to the profile_view.php script using the id parameter	the id parameter	0
+CVE-2011-3378++ibm++nvd-6	persuading a victim to check signatures of a specially crafted rpm package	related to (1 ) the regionswab function	0
+CVE-2015-8104++openwall++nvd-3043	"triggering an infinite stream of ""debug check "" (#db ) exceptions"	triggering many #db (aka debug ) exceptions	1
+CVE-2009-4686++ibm++nvd-1893	"""the red_url parameter in a specially-crafted url to execute script in a victim's web browser within the security context of the hosting web site"""	the red_url parameter	0
+CVE-2010-3859++ibm++nvd-1370	sending a specially-crafted sendmsg() call using tipc sockets	related to the tipc_msg_build function in net/tipc/msg.c and the verify_iovec function in net/core/iovec.c	1
+CVE-2006-1926++ibm++nvd-729	send specially-crafted sql statements to the showtopic.php script using the pagenum parameter	the pagenum parameter	0
+CVE-2009-0386++ibm++nvd-2378	persuading a victim to open a specially-crafted quicktime media file	crafted composition time to sample (ctts ) atom data in a malformed quicktime media	1
+CVE-2006-0187++ibm++nvd-1900	create a visual studio project containing malicious user-defined control	tricking the user into opening a malicious visual studio project file	0
+CVE-2008-1083++ibm++nvd-1473	persuading a victim to open a specially-crafted emf or wmf file	"aka ""gdi heap overflow vulnerability."""	0
+CVE-2007-1773++ibm++nvd-2282	"send a specially-crafted url request to the whizzylink.php or whizzypic.php scripts containing \\""dot dot\\"" sequences (/../) in the \\""d\\"" parameter to view arbitrary files on the system"	a .. (dot dot ) in the d parameter to (1 ) whizzery/whizzypic.php or (2 ) whizzery/whizzylink.php	1
+CVE-2012-2573++exploitdb++nvd-1969	send an email to the victim with the payload in the email body	(3 ) a css expression property in the style attribute of an arbitrary element	0
+CVE-2017-9870++ibm++nvd-1909	persuading a victim to open a specially-crafted audio file	"a crafted audio file that is mishandled in the code for the ""block_type == 2 "" case"	0
+CVE-2017-17932++ibm++nvd-1425	sending an overly long string to tcp port 888	a long string to tcp port 888	1
+CVE-2011-3616++openwall++nvd-3171	malicious	a symlink attack on /tmp/.cesf	0
+CVE-2018-18021++ibm++nvd-3168	sending a specially-crafted request	an illegal exception return	0
+CVE-2005-1325++ibm++nvd-1397	send a specially-crafted url to the login.php script using the mylang parameter to specify a malicious file to be included from the local system which would allow the attacker to view or execute arbitrary code on the vulnerable system	the mylang parameter	0
+CVE-2015-2790++ibm++exploitdb-1696	persuading a victim to open a specially-crafted gif file with an invalid value in lzwminimumcodesize	a specially crafted gif file	0
+CVE-2016-3634++ibm++nvd-637	persuading a victim to open a specially crafted tiff image file	vectors related to field_tag matching	0
+CVE-2007-3227++ibm++nvd-3006	inject malicious script into a web page	the input values	0
+CVE-2016-2037++ibm++nvd-1529	persuading a victim to open a specially crafted file	a crafted cpio file	0
+CVE-2008-4711++ibm++nvd-2493	send specially-crafted sql statements to multiple scripts using the id parameter	(5 ) view.picture.php	0
+CVE-2009-4227++ibm++nvd-1679	persuading a victim to open a specially-crafted .fig file	a long string in a malformed	0
+CVE-2005-3207++exploitdb++nvd-854	issuing a specific http request	a userid parameter that contains a stop command	0
+CVE-2017-15367++exploitdb++nvd-97	depending on configuration	escalate privileges on the server	1
+CVE-2014-3635++ibm++nvd-1187	sending an overly long d-bus message	which triggers a heap-based buffer overflow or an assertion failure	0
+CVE-2013-4357++ibm++openwall-3154	sending an overly long name	a straight copy of a long name to a stack buffer	1
+CVE-2019-14378++exploitdb++nvd-3032	crafting fake icmp packet for leak	a large packet	1
+CVE-2013-4522++ibm++nvd-612	sending a specially-crafted request	requesting a file that had been previously retrieved	0
+CVE-1999-0875++ibm++exploitdb-640	"""cause a system to direct its network traffic through a system of the attacker's choice"""	"""using the '-r ' flag and specifying a second router address entry"""	0
+CVE-2006-4824++ibm++nvd-2534	send a specially-crafted url request to the activeutil.php script using the set[include_path ] parameter to specify a malicious file from a remote system	a url in the set[include_path ] parameter	1
+CVE-2010-0012++ibm++nvd-2589	persuading a victim to open a specially-crafted .torrent file containing directory traversal sequences	a .. (dot dot ) in a pathname within a .torrent file .	1
+CVE-2019-5443++ibm++nvd-1547	inputting code and a config file in a known non-privileged path	a privileged user it can do anything it wants	0
+CVE-2011-3483++exploitdb++nvd-973	malformed packet trace file	"related to a ""buffer exception handling vulnerability."""	0
+CVE-2009-2999++openwall++nvd-3179	a badly formatted wap push message	an sms message containing a malformed wap push message that triggers an arrayindexoutofboundsexception exception	0
+CVE-2007-4567++ibm++nvd-2621	cause a kernel panic	a crafted ipv6 packet	0
+CVE-2009-0386++openwall++nvd-2258	crafted composition time to sample (ctts ) atom data	crafted composition time to sample (ctts ) atom data in a malformed quicktime media	1
+CVE-2006-1510++ibm++nvd-712	creating a malicious .dll file	a crafted	0
+CVE-2017-15367++exploitdb++nvd-96	depending on configuration	depending on configuration	1
+CVE-2012-2573++exploitdb++nvd-1987	crating a new contact	"or (7 ) a data : url in the content attribute of an http-equiv=""refresh "" meta element"	0
+CVE-2016-6866++ibm++nvd-1572	using vectors involving invalid password hash	which triggers a null pointer dereference and crash	1
+CVE-2015-7516++ibm++openwall-2341	a null pointer dereference when using the ifwd app	handling jumbo ethernet frames	0
+CVE-2017-9871++ibm++nvd-1960	persuading a victim to open a specially-crafted audio file	a crafted audio file	0
+CVE-2016-10027++ibm++nvd-3193	"stripping the \\""starttls\\"" feature from a server response"	"stripping the ""starttls "" feature from a server response"	1
+CVE-2007-1615++ibm++nvd-1609	send specially-crafted sql statements to the index.php script using the catid parameter	the catid parameter	0
+CVE-2009-3323++ibm++nvd-3080	send a specially-crafted url request to the common_functions.php	and the main_path parameter to (2 ) lib_users.php	1
+CVE-2000-0347++ibm++nvd-149	making a netbios session request to a windows 95/98 host with a null netbios source name	a netbios session request packet with a null source name	1
+CVE-2012-0882++ibm++nvd-358	using unknown attack vectors	unspecified vectors	1
+CVE-2008-1483++openwall++nvd-1995	causing ssh to set display to :10	causing ssh to set display to :10	1
+CVE-2011-1944++ibm++nvd-1705	persuading a victim to open a specially-crafted xml file	related to handling of xpath expressions	0
+CVE-2015-2782++openwall++nvd-1294	a buffer overflow write access	a crafted arj archive	0
+CVE-2007-1539++ibm++nvd-2184	send a specially-crafted url request to the map.func.php script using the module_name parameter to specify a malicious file from the local system	a .. (dot dot ) sequence in the module_name parameter	0
+CVE-2014-0787++ibm++exploitdb-2743	sending a specially-crafted packet to tcp port 12401	"""sending a specially crafted packet to the 'alarmserver ' (aeserver.exe ) service listening on port 12401"""	1
+CVE-2008-5235++openwall++nvd-2664	a crafted real media file	a crafted real media file	1
+CVE-2012-4467++openwall++nvd-1674	passing the kernel stack pointer off as a user pointer	a crafted ioctl call	0
+CVE-2009-2999++openwall++nvd-3181	malformed sms	an sms message containing a malformed wap push message that triggers an arrayindexoutofboundsexception exception	0
+CVE-2007-3400++ibm++nvd-2028	persuading a victim to visit a specially-crafted web site and enable the activex control	the createfile method	0
+CVE-2011-1657++openwall++nvd-2025	crashes on invalid flags	certain flags arguments	0
+CVE-2015-5243++ibm++openwall-2190	sending a specially-crafted request	concatenating strings without proper sanitization	0

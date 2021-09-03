@@ -1,0 +1,1031 @@
+CVE-2006-6493++nvd++ibm-581	buffer overflow	buffer overflow	1
+CVE-2009-2294++ibm++openwall-3342	integer overflow	integer overflow	1
+CVE-2008-4864++exploitdb++openwall-399	buffer overflow	buffer overflow	1
+CVE-2015-8374++ibm++openwall-3369	information leak	information disclosure	1
+CVE-2007-2284++nvd++exploitdb-2513	buffer overflow	buffer overflow	1
+CVE-2007-3488++ibm++exploitdb-839	buffer overflow	activex viewer heap overflow	0
+CVE-2007-6080++ibm++exploitdb-1040	sql injection	sql-injection	1
+CVE-2008-4864++ibm++exploitdb-271	a buffer overflow	buffer overflow	1
+CVE-2008-3570++nvd++exploitdb-551	remote file inclusion	remote file inclusion========	1
+CVE-2008-6963++ibm++exploitdb-804	unauthorized administrative access	text link sales auth bypass	0
+CVE-2019-8390++ibm++exploitdb-2697	cross-site scripting	cross-site scripting	1
+CVE-2009-3691++nvd++exploitdb-856	integer overflows	integer overflow	1
+CVE-2009-3499++ibm++exploitdb-3302	sql injection	sql injection	1
+CVE-2007-3554++ibm++exploitdb-2556	a buffer overflow	activex control driver check buffer overflow	1
+CVE-1999-0182++nvd++exploitdb-1463	a buffer overflow	buffer overflow	1
+CVE-2016-5394++ibm++openwall-2151	cross-site scripting	cross-site scripting	1
+CVE-2016-0782++nvd++ibm-2046	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-15118++ibm++openwall-720	buffer overflow	stack buffer overflow	1
+CVE-2009-1957++ibm++openwall-914	pointer dereference	pointer dereference	1
+CVE-2009-4896++nvd++ibm-708	directory traversal	directory traversal	1
+CVE-2002-1847++nvd++exploitdb-173	buffer overflow	buffer overflow	1
+CVE-2006-2630++nvd++exploitdb-471	buffer overflow	stack buffer overflow	1
+CVE-2015-8863++ibm++openwall-2595	buffer overflow	heap buffer overflow	0
+CVE-2006-1495++ibm++exploitdb-2038	sql injection	sql injection	1
+CVE-2011-1010++nvd++ibm-1319	buffer overflow	buffer overflow	1
+CVE-2019-14895++nvd++ibm-2728	buffer overflow	buffer overflow	1
+CVE-2013-4852++nvd++ibm-3060	buffer overflow .	integer overflows	1
+CVE-2009-3726++ibm++openwall-3005	pointer dereference	pointer dereference	1
+CVE-2014-5461++nvd++openwall-672	buffer overflow	overflow	1
+CVE-2011-0167++exploitdb++nvd-1445	information disclosure	bypass the same origin policy	0
+CVE-2019-10089++ibm++openwall-1006	cross-site scripting	cross-site scripting	1
+CVE-2007-4645++ibm++exploitdb-1351	sql injection	sql injection	1
+CVE-2010-0304++exploitdb++openwall-2578	stack-based buffer overflow	buffer overflows	1
+CVE-2017-17095++nvd++exploitdb-3031	buffer overflow	heap buffer overflow	1
+CVE-2008-5917++nvd++openwall-275	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-2908++ibm++exploitdb-441	buffer overflow	stack buffer overflow	1
+CVE-2016-10134++nvd++ibm-268	sql injection	sql injection	1
+CVE-1999-0751++ibm++exploitdb-1599	a buffer overflow	buffer overflow	1
+CVE-2011-3378++ibm++openwall-347	a buffer overflow	memory corruption	0
+CVE-2011-1761++nvd++ibm-895	buffer overflows	buffer overflow	1
+CVE-2008-7257++nvd++ibm-1496	crlf injection	cross-site scripting	0
+CVE-2010-2422++nvd++ibm-738	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-10763++nvd++exploitdb-2222	cross-site scripting (xss )	authenticated cross site scripting (xss)	1
+CVE-2015-5745++ibm++openwall-715	buffer overflow	buffer overflow	1
+CVE-2007-0183++nvd++ibm-2873	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-10902++ibm++openwall-1089	double-free	memory corruption	0
+CVE-2012-2390++ibm++openwall-511	memory leak	memory leak	1
+CVE-2008-6572++nvd++exploitdb-2755	sql injection	sql-injection	1
+CVE-2017-15717++nvd++openwall-1291	cross-site scripting	cross-site scripting	1
+CVE-2012-4236++ibm++exploitdb-2859	cross-site scripting	cross-site scripting vulnerabilities	1
+CVE-2016-7995++nvd++openwall-1408	memory leak	memory leakage	1
+CVE-2008-1646++nvd++exploitdb-3258	sql injection	sql injection	1
+CVE-2004-1470++nvd++ibm-3217	crlf injection	cross-site scripting	0
+CVE-2006-3656++nvd++ibm-1375	memory corruption	memory corruption	1
+CVE-2005-3884++nvd++ibm-841	sql injection	sql injection	1
+CVE-2008-2908++nvd++ibm-735	buffer overflows	buffer overflow	1
+CVE-2014-5144++nvd++ibm-2365	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-5069++nvd++ibm-2908	sql injection	sql injection	1
+CVE-2013-4388++ibm++openwall-3035	a buffer overflow	heap buffer overflow	1
+CVE-2018-0901++nvd++exploitdb-2772	information disclosure	64-bit stack memory disclosure	0
+CVE-2010-3428++nvd++exploitdb-2821	sql injection	sql injection	1
+CVE-2013-6369++ibm++openwall-40	buffer overflow	buffer overflow	1
+CVE-2009-4470++nvd++exploitdb-3085	sql injection	sql-injection	1
+CVE-2007-1536++nvd++exploitdb-2538	buffer overflow	integer-underflow	1
+CVE-2017-14219++nvd++exploitdb-1937	cross-site scripting	cross-site scripting	1
+CVE-2009-3001++exploitdb++openwall-3038	5-byte stack disclosure	stack disclosure	1
+CVE-2020-8519++ibm++openwall-2242	sql injection	sql injection	1
+CVE-2012-3414++nvd++openwall-1908	cross-site scripting (xss )	cross-site request forgery	0
+CVE-2012-3401++nvd++openwall-2612	buffer overflow .	buffer access	1
+CVE-2009-4896++nvd++openwall-2390	directory traversal	directory traversal	1
+CVE-2015-2065++nvd++ibm-547	sql injection	sql injection	1
+CVE-2008-5008++nvd++ibm-1645	buffer overflow	a buffer overflow	1
+CVE-2006-2100++nvd++exploitdb-267	directory traversal	directory traversal	1
+CVE-2007-5601++ibm++exploitdb-2981	buffer overflow	activex control import playlist name stack buffer overflow	0
+CVE-2007-1536++nvd++exploitdb-1045	buffer overflow	command file_printf integer underflow	1
+CVE-2007-1536++nvd++exploitdb-2536	integer underflow	integer-underflow	1
+CVE-2012-0277++ibm++exploitdb-440	improper bounds checking	insufficient validation when decompressing pct images	1
+CVE-2017-7725++ibm++exploitdb-2467	cross-site scripting	host header injection	0
+CVE-2014-1619++nvd++exploitdb-1509	sql injection	full path disclosure	0
+CVE-2008-2719++nvd++exploitdb-919	off-by-one error	off-by-one buffer-overflow	1
+CVE-2006-2861++ibm++exploitdb-3386	sql injection	sql injection	1
+CVE-2008-4627++nvd++exploitdb-2752	sql injection	blind sql injection	1
+CVE-2012-3401++nvd++openwall-2610	buffer overflow .	heap-buffer overflow	0
+CVE-2010-0458++nvd++ibm-2379	sql injection	sql injection	1
+CVE-2010-1938++nvd++ibm-3212	off-by-one error	buffer overflow	0
+CVE-2014-1564++exploitdb++nvd-1525	information disclosure	obtain sensitive information from process memory	1
+CVE-2014-0131++nvd++openwall-921	memory corruption	information leak	1
+CVE-2008-4864++ibm++exploitdb-273	integer overflows	buffer overflow	1
+CVE-2014-0196++ibm++openwall-2091	race condition	memory corruption	0
+CVE-2008-3546++nvd++openwall-2973	buffer overflow	buffer overflow	1
+CVE-2017-8798++ibm++openwall-3146	an integer signedness error	integer signedness error	0
+CVE-2016-5364++nvd++openwall-872	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-1022++ibm++exploitdb-230	sql injection	sql-injection	1
+CVE-2019-12415++ibm++openwall-3190	xml external entity (xxe )	xssfexporttoxml	1
+CVE-2013-6839++ibm++exploitdb-2677	sql injection	sql injection	1
+CVE-2016-7168++nvd++openwall-1806	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-4089++ibm++exploitdb-2414	memory corruption	memory corruption	1
+CVE-2012-2099++exploitdb++openwall-2792	search field cross-site scripting	sql injection	0
+CVE-2008-2719++nvd++exploitdb-917	buffer overflow .	off-by-one buffer-overflow	1
+CVE-2016-6350++nvd++openwall-2997	pointer dereference	pointer access	1
+CVE-2011-0505++nvd++exploitdb-1189	directory traversal	remote file include	0
+CVE-2006-2179++ibm++exploitdb-1018	sql injection	sql-injection	1
+CVE-2008-0254++nvd++ibm-911	sql injection	sql injection	1
+CVE-2015-3110++ibm++exploitdb-2281	an integer overflow	could lead to a memory corruption	0
+CVE-2011-3979++ibm++exploitdb-2925	cross-site scripting	cross-site scripting	1
+CVE-2007-1536++nvd++exploitdb-1044	buffer overflow	integer-underflow	1
+CVE-2008-4778++ibm++exploitdb-2364	sql injection	sql injection	1
+CVE-2008-5365++nvd++exploitdb-2945	sql injection	blind sql injection	1
+CVE-2007-1142++ibm++exploitdb-2299	cross-site scripting	cross-site scripting	1
+CVE-2016-5394++ibm++openwall-1245	cross-site scripting	cross-site scripting	1
+CVE-2010-4883++ibm++exploitdb-1886	cross-site scripting	local file-include	0
+CVE-2018-12602++nvd++ibm-3315	cross-site request forgery	cross-site scripting	1
+CVE-2008-4864++ibm++exploitdb-274	integer overflows	buffer-overflow	1
+CVE-2008-1430++nvd++ibm-1401	sql injection	sql injection	1
+CVE-2017-5633++nvd++exploitdb-2587	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2017-7720++nvd++ibm-619	buffer overflow	a buffer overflow	1
+CVE-2018-10763++nvd++ibm-1324	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-4717++nvd++ibm-671	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2013-4579++exploitdb++openwall-3331	information disclosure	retrieve the original mac address	0
+CVE-2009-4168++nvd++openwall-2854	cross-site scripting (xss )	cross-site scripting	1
+CVE-2004-1882++ibm++exploitdb-2206	cross-site scripting	remote cross-site scripting	1
+CVE-2013-4852++nvd++ibm-3059	integer overflow	integer overflows	1
+CVE-2012-4472++nvd++openwall-996	file upload	access bypass	0
+CVE-2014-5289++nvd++exploitdb-1031	buffer overflow	remote buffer overflow	1
+CVE-2007-0882++ibm++exploitdb-1810	authentication bypass	remote authentication bypass	1
+CVE-2007-2641++nvd++exploitdb-2588	sql injection	sql injection	1
+CVE-2013-6021++nvd++ibm-2936	buffer overflow	buffer overflow	1
+CVE-2005-0684++nvd++exploitdb-3029	buffer overflows	get buffer overflow	1
+CVE-2019-16758++nvd++exploitdb-2809	directory traversal	directory traversal	1
+CVE-2009-1759++ibm++exploitdb-2143	buffer overflow	local buffer overflow	1
+CVE-2009-1943++nvd++exploitdb-2654	buffer overflow	ike service buffer overflow	1
+CVE-2010-4883++ibm++exploitdb-1885	cross-site scripting	cross-site scripting	1
+CVE-2011-3625++nvd++openwall-155	buffer overflow	buffer overflow	1
+CVE-2003-0614++ibm++exploitdb-697	cross-site scripting	search engine cross-site scripting	1
+CVE-2011-0045++nvd++exploitdb-1353	integer truncation	wmitracemessageva integer truncation	0
+CVE-2014-5289++ibm++exploitdb-372	a buffer overflow	overflow	0
+CVE-2009-2844++nvd++ibm-2346	pointer dereference	pointer dereference	1
+CVE-2016-6250++ibm++openwall-205	integer overflow	buffer overflow	1
+CVE-2008-6813++nvd++ibm-1418	sql injection	sql injection	1
+CVE-2012-2390++ibm++openwall-728	memory leak	memory leak	1
+CVE-2009-4497++nvd++exploitdb-1783	cross-site scripting (xss )	cross-site scripting vulnerabilities	1
+CVE-2007-5120++ibm++exploitdb-3156	cross-site scripting	cross-site scripting	1
+CVE-2008-6269++ibm++exploitdb-2104	unauthorized administrative access	insecure cookie handling	0
+CVE-2009-3623++ibm++openwall-3287	pointer dereference	null dereference	1
+CVE-2007-6080++nvd++exploitdb-307	sql injection	sql injection	1
+CVE-2014-9101++nvd++ibm-3299	cross-site scripting (xss )	cross-site request forgery	1
+CVE-2017-1000499++ibm++exploitdb-1786	cross-site request forgery	cross-site request forgery	1
+CVE-2015-5707++nvd++ibm-1368	integer overflow	integer overflow	1
+CVE-2009-0490++ibm++exploitdb-2746	buffer overflow	universal buffer overflow	1
+CVE-2004-1665++nvd++exploitdb-2421	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-2854++nvd++exploitdb-303	remote file inclusion	remote file include	1
+CVE-2006-2225++ibm++exploitdb-2406	a buffer overflow	buffer overflow	1
+CVE-2007-0020++ibm++exploitdb-1038	buffer overflow	url handler heap buffer overflow	1
+CVE-2017-1000499++nvd++exploitdb-1407	csrf weakness	cross-site request forgery	0
+CVE-2018-7203++nvd++ibm-1894	cross-site scripting (xss )	cross-site scripting	1
+CVE-2006-7069++nvd++exploitdb-2738	remote file inclusion	remote file inclusion	1
+CVE-2019-10089++ibm++openwall-2144	cross-site scripting	cross-site scripting	1
+CVE-2008-0015++ibm++exploitdb-832	buffer overflow	memory corruption	0
+CVE-2014-9101++nvd++ibm-3298	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-6963++ibm++exploitdb-805	unauthorized administrative access	text link sales authentication bypass	0
+CVE-2010-3146++nvd++exploitdb-2473	library loading	dll hijacking	0
+CVE-2016-5126++nvd++openwall-318	buffer overflow	heap buffer overflow	1
+CVE-2005-3518++nvd++ibm-3152	sql injection	sql injection	1
+CVE-2008-4408++ibm++openwall-2353	cross-site scripting	cross-site scripting	1
+CVE-2006-6332++ibm++exploitdb-1265	buffer overflow	remote kernel buffer overflow	1
+CVE-2010-0304++exploitdb++openwall-2576	lwres dissector getaddrsbyname_request buffer overflow	buffer overflows	1
+CVE-2011-1523++nvd++openwall-2417	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-2142++nvd++exploitdb-473	remote file inclusion	remote file inclusion	1
+CVE-2009-4227++nvd++exploitdb-941	buffer overflow	stack-based buffer overflow	1
+CVE-2016-7477++nvd++openwall-3163	pointer dereference	pointer dereference	1
+CVE-2007-2586++nvd++ibm-892	overflows	authentication bypass	0
+CVE-2015-0841++ibm++openwall-392	off-by-one error	out of bounds	1
+CVE-2013-1410++nvd++ibm-1392	cross-site scripting	cross-site scripting	1
+CVE-2008-5917++nvd++openwall-276	cross-site scripting (xss )	cross-site scripting (xss )	1
+CVE-2014-3635++nvd++openwall-3213	buffer overflow	heap overflow	0
+CVE-2010-4850++nvd++ibm-1576	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-2456++ibm++exploitdb-3176	race condition	heap overflow	0
+CVE-2012-5648++nvd++openwall-1531	sql injection	sql injection	1
+CVE-2008-4072++nvd++ibm-2428	sql injection	sql injection	1
+CVE-2015-0841++ibm++openwall-393	off-by-one error	off-by-one error	1
+CVE-2007-3227++nvd++ibm-677	cross-site scripting (xss )	cross-site scripting	1
+CVE-2011-4122++nvd++exploitdb-1826	directory traversal	local privilege-escalation	0
+CVE-2008-4897++ibm++exploitdb-906	sql injection	sql injection	1
+CVE-2007-0641++nvd++ibm-2525	buffer overflow	a buffer overflow	1
+CVE-2013-5697++ibm++exploitdb-1878	sql injection	blind sql injection	1
+CVE-2014-9765++ibm++openwall-562	a buffer overflow	buffer overflow	1
+CVE-2006-0564++nvd++exploitdb-989	buffer overflow	stack buffer overflow	1
+CVE-2005-1374++nvd++exploitdb-255	cross-site scripting (xss )	remote file include	1
+CVE-2008-2088++nvd++exploitdb-3345	sql injection	sql injection	1
+CVE-2008-1530++ibm++openwall-323	memory corruption	memory corruption	1
+CVE-2012-2020++ibm++exploitdb-2449	buffer overflow	0x8c buffer overflow	1
+CVE-2012-2099++ibm++openwall-416	cross-site scripting	sql injection	0
+CVE-2017-5854++nvd++openwall-2579	pointer dereference	pointer dereference	1
+CVE-2002-1364++nvd++exploitdb-1214	buffer overflow	stack overflow	1
+CVE-2017-7725++ibm++exploitdb-2466	cross-site scripting	header injection	0
+CVE-2009-4227++nvd++exploitdb-943	buffer overflow	remote buffer overflow	1
+CVE-2014-1947++nvd++ibm-265	buffer overflow	a buffer overflow	1
+CVE-2016-10087++nvd++openwall-367	pointer dereference	pointer dereference	1
+CVE-2014-5461++nvd++openwall-673	buffer overflow	stack overflow	1
+CVE-2005-0782++nvd++exploitdb-1127	cross-site scripting (xss )	cross-site scripting	0
+CVE-2008-3456++nvd++openwall-2582	cross-site framing	cross-site framing	1
+CVE-2008-6572++ibm++exploitdb-321	sql injection	cross-site scripting	0
+CVE-2015-4142++nvd++openwall-779	integer underflow	a buffer read overflow	1
+CVE-2001-0833++nvd++exploitdb-794	buffer overflow	buffer overflow	1
+CVE-2015-8863++ibm++openwall-1233	buffer overflow	off-by-one error	0
+CVE-2008-1878++ibm++openwall-2438	buffer overflow	buffer overflow	1
+CVE-2008-5264++nvd++ibm-1325	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-2820++ibm++exploitdb-1749	buffer overflows	activex control remote buffer overflow	0
+CVE-2007-3638++ibm++exploitdb-1934	a buffer overflow	address book remote buffer overflow	1
+CVE-2008-0647++nvd++exploitdb-87	buffer overflows	activex buffer overflow	1
+CVE-2013-6839++ibm++openwall-2851	sql injection	sql injection	1
+CVE-2006-6158++ibm++exploitdb-1520	cross-site scripting	cross-site scripting	1
+CVE-2013-6839++ibm++exploitdb-2676	sql injection	blind sql injection	1
+CVE-2009-2573++nvd++exploitdb-2146	sql injection	sql injections	1
+CVE-2009-0447++nvd++exploitdb-116	sql injection	authentication bypass	0
+CVE-2014-9862++nvd++ibm-627	integer signedness	buffer overflow	1
+CVE-2016-2090++nvd++ibm-3346	buffer overflow	buffer overflow	1
+CVE-2019-14298++ibm++exploitdb-1215	cross-site scripting	persistent cross-site scripting	1
+CVE-2017-9502++ibm++openwall-1819	buffer overflow	letter buffer overflow	1
+CVE-2003-0614++nvd++exploitdb-1466	cross-site scripting (xss )	search engine cross-site scripting	1
+CVE-2004-1326++nvd++exploitdb-242	buffer overflow	local buffer overflow	1
+CVE-2008-5365++ibm++exploitdb-1395	sql injection	blind sql injection	1
+CVE-2010-1628++nvd++openwall-2309	memory corruption	overflowed	1
+CVE-2011-4330++nvd++openwall-2029	buffer overflow	a buffer overflow	1
+CVE-2008-2854++nvd++exploitdb-2198	remote file inclusion	remote file include	1
+CVE-2002-1364++nvd++exploitdb-1212	buffer overflow	local buffer overflow	1
+CVE-2014-5169++ibm++openwall-1801	cross-site scripting	cross site scripting (xss )	1
+CVE-2011-1482++nvd++ibm-1915	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2000-1053++ibm++exploitdb-705	gain administrative privileges on the system	arbitrary code execution	0
+CVE-2008-5949++nvd++exploitdb-3041	remote file inclusion	remote file inclusion	1
+CVE-2018-20125++nvd++openwall-2212	pointer dereference	pointer dereference	1
+CVE-2012-4236++nvd++openwall-263	cross-site scripting (xss )	cross-site scripting	1
+CVE-2009-3280++nvd++ibm-1651	integer signedness	integer signedness	1
+CVE-2005-3902++nvd++ibm-2017	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-1926++nvd++openwall-2963	argument injection	log injection	1
+CVE-2008-6475++ibm++exploitdb-519	sql injection	blind sql injection	1
+CVE-2008-2564++ibm++exploitdb-3337	sql injection	blind sql injection	1
+CVE-2014-9862++nvd++ibm-626	integer signedness	integer signedness	1
+CVE-2014-1947++nvd++openwall-991	buffer overflow	buffer overflow	1
+CVE-2007-5780++nvd++exploitdb-2287	remote file inclusion	remote file inclusion	1
+CVE-2006-6158++nvd++ibm-568	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-5234++nvd++openwall-431	buffer overflows	heap overflows	0
+CVE-2006-2225++ibm++exploitdb-2407	a buffer overflow	remote buffer overflow	1
+CVE-2009-2573++nvd++exploitdb-2145	sql injection	sql injection	1
+CVE-2018-12602++ibm++exploitdb-107	cross-site scripting	cross-site request forgery	1
+CVE-2009-0241++nvd++ibm-3062	buffer overflow	buffer overflow	1
+CVE-2007-2641++nvd++exploitdb-2954	sql injection	sql injection	1
+CVE-2007-1159++nvd++ibm-1355	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-3456++nvd++openwall-2583	spoofing	cross-site scripting (xss )	0
+CVE-2012-5854++ibm++openwall-329	buffer overflow	buffer overflow	1
+CVE-2012-4472++nvd++openwall-998	file upload	cross site scripting	0
+CVE-2008-3184++nvd++exploitdb-660	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-3971++nvd++ibm-212	buffer overflow	buffer overflow	1
+CVE-2019-14895++ibm++openwall-2994	buffer overflow	heap overflowã\x80\x82	0
+CVE-1999-1113++ibm++exploitdb-3195	buffer overflow	buffer overflow	1
+CVE-2006-6029++nvd++exploitdb-978	sql injection	remote authentication bypass	0
+CVE-2006-3948++ibm++exploitdb-2609	cross-site scripting	cross-site scripting	1
+CVE-2006-2507++nvd++exploitdb-3063	remote file inclusion	remote file inclusion	1
+CVE-2017-7725++ibm++exploitdb-2470	http header injection	header injection	1
+CVE-2002-0239++nvd++ibm-2984	buffer overflow	buffer overflow	1
+CVE-2008-1878++ibm++exploitdb-910	buffer overflow	nsf demuxer stack overflow	1
+CVE-2009-2588++ibm++exploitdb-3086	cross-site scripting	cross-site scripting	1
+CVE-2018-4089++ibm++exploitdb-2413	memory corruption	use-after-free security	0
+CVE-2005-1374++nvd++exploitdb-2362	cross-site scripting (xss )	cross-site scripting	1
+CVE-2016-5157++nvd++ibm-2807	buffer overflow	buffer overflow	1
+CVE-2012-2914++ibm++exploitdb-1857	cross-site scripting	cross-site scripting	1
+CVE-2013-4397++ibm++openwall-1095	integer overflow	integer overflow	1
+CVE-2014-9215++ibm++exploitdb-508	sql injection	sql injection	1
+CVE-2010-0409++nvd++openwall-3294	buffer overflow	buffer overflows	1
+CVE-2015-7504++nvd++ibm-2005	buffer overflow	buffer overflow	1
+CVE-2014-2892++ibm++openwall-2129	buffer overflow	buffer overflow	1
+CVE-2008-5816++ibm++exploitdb-224	sql injection	blind sql injection	1
+CVE-2009-3890++nvd++exploitdb-2712	file upload	unrestricted file upload	1
+CVE-2015-2063++ibm++openwall-2030	improper bounds checking	trying to test integrity of the attached file	0
+CVE-2006-4871++nvd++ibm-1384	sql injection	sql injection	1
+CVE-2010-4850++nvd++exploitdb-2986	cross-site scripting (xss )	cross-site scripting	1
+CVE-2015-2065++ibm++exploitdb-3350	sql injection	sql injection	1
+CVE-2013-4168++nvd++ibm-2606	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-9482++nvd++openwall-3102	memory corruption	use after free	0
+CVE-2015-5609++nvd++openwall-332	absolute path traversal	directory traversal	1
+CVE-2004-1857++nvd++exploitdb-3075	directory traversal	directory traversal	1
+CVE-2014-5465++nvd++exploitdb-390	directory traversal	local file inclusion	0
+CVE-2001-0554++nvd++ibm-2002	buffer overflow	a buffer overflow	1
+CVE-2008-2950++openwall++nvd-2804	uninitialized pointer	a crafted pdf document	0
+CVE-2009-3225++nvd++exploitdb-758	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-9651++ibm++openwall-1739	buffer overflow	buffer overrun	1
+CVE-2009-1617++ibm++exploitdb-1569	unauthorized administrative access	insecure cookie handling	0
+CVE-2013-6369++nvd++openwall-1253	buffer overflow	buffer overflow	1
+CVE-2015-8863++ibm++openwall-2594	buffer overflow	buffer overflow	1
+CVE-2007-2449++ibm++exploitdb-925	cross-site scripting	example web applications cross-site scripting	1
+CVE-2010-5003++nvd++exploitdb-3019	sql injection	sql injection	1
+CVE-2015-9273++ibm++openwall-2419	cross-site scripting	cross-site scripting	1
+CVE-2008-6475++nvd++exploitdb-457	sql injection	blind sql injection	1
+CVE-2012-6430++ibm++exploitdb-111	cross-site scripting	cross-site scripting	1
+CVE-2017-7725++ibm++exploitdb-2468	hijacking	header injection	0
+CVE-2012-0989++ibm++exploitdb-2607	cross-site scripting	cross-site scripting	1
+CVE-2006-5276++nvd++ibm-450	buffer overflow	buffer overflow	1
+CVE-2011-4938++ibm++openwall-2010	cross-site scripting	cross-site scripting	1
+CVE-2018-10751++nvd++ibm-429	memory corruption	integer overflow	0
+CVE-2005-0691++nvd++exploitdb-259	remote file inclusion	remote testing file inclusion	1
+CVE-2010-1964++nvd++exploitdb-1821	buffer overflow	local buffer overflow	1
+CVE-2015-0552++nvd++ibm-2195	directory traversal	directory traversal	1
+CVE-2017-3195++nvd++ibm-1183	buffer overflow	buffer overflow	1
+CVE-2015-2065++ibm++exploitdb-338	sql injection	sql injection	1
+CVE-2008-1083++nvd++exploitdb-3326	buffer overflow	heap overflow	1
+CVE-2008-5187++nvd++openwall-785	buffer overflow	buffer overflow	1
+CVE-2015-5158++ibm++openwall-206	overflow	stack buffer overflow	1
+CVE-2010-0304++exploitdb++openwall-1261	overflows	buffer overflows	1
+CVE-2012-2099++exploitdb++openwall-2787	cross-site scripting	cross-site scripting	1
+CVE-2012-2099++ibm++openwall-415	cross-site scripting	sql-injection	0
+CVE-2009-2632++nvd++ibm-1940	integer signedness	buffer overflow	0
+CVE-2013-4237++ibm++openwall-1870	a buffer overflow	out-of buffer bounds	0
+CVE-2007-0882++nvd++exploitdb-1070	argument injection	argument injection	1
+CVE-2008-1083++nvd++exploitdb-3327	integer overflow	heap overflow	1
+CVE-2003-0614++nvd++exploitdb-1465	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-5289++ibm++exploitdb-748	sql injection	blind sql injection	1
+CVE-2008-6572++ibm++exploitdb-322	sql injection	sql-injection	1
+CVE-2015-2788++ibm++openwall-2554	a buffer overflow	buffer overflow	1
+CVE-2000-1120++nvd++exploitdb-277	buffer overflow	local buffer overflow	1
+CVE-2011-2203++nvd++ibm-2373	pointer dereference	pointer dereference	1
+CVE-2004-1470++ibm++exploitdb-2389	cross-site scripting	http response splitting	0
+CVE-2018-10763++nvd++exploitdb-2221	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-8926++nvd++ibm-2659	buffer overflow	buffer overflow	1
+CVE-2017-12920++nvd++ibm-2444	pointer dereference	pointer dereference	1
+CVE-2011-1087++nvd++openwall-3261	buffer overflow	buffer overflow	1
+CVE-2009-1853++nvd++exploitdb-287	sql injection	remote sql injection	1
+CVE-2003-1533++ibm++exploitdb-3303	sql injection	sql injection	1
+CVE-2018-20125++nvd++openwall-565	pointer dereference	pointer dereference	1
+CVE-2017-5473++nvd++ibm-1875	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2006-0564++nvd++ibm-601	buffer overflow	buffer overflow	1
+CVE-2012-4414++ibm++openwall-3127	sql injection	sql injections	1
+CVE-2014-4717++nvd++ibm-670	cross-site request forgery (csrf )	cross-site scripting	1
+CVE-2016-4001++ibm++openwall-3380	a buffer overflow	buffer overflow	1
+CVE-2001-1178++ibm++exploitdb-1745	a buffer overflow	buffer overflow	1
+CVE-2012-5529++nvd++ibm-1750	pointer dereference	pointer dereference	1
+CVE-2010-4528++nvd++ibm-1126	pointer dereference	pointer dereference	1
+CVE-2008-1162++ibm++exploitdb-2850	sql injection	sql injection	1
+CVE-2015-7512++ibm++openwall-3182	a buffer overflow	a buffer overflow	1
+CVE-2017-12930++ibm++exploitdb-103	sql injection	sql injection	1
+CVE-2004-1882++ibm++exploitdb-2207	authentication bypass	cross-site scripting	0
+CVE-2014-5289++nvd++exploitdb-1030	buffer overflow	overflow	1
+CVE-2003-0755++ibm++exploitdb-252	a buffer overflow	remote buffer overflow	1
+CVE-2007-6580++nvd++exploitdb-3068	sql injection	sql injection	1
+CVE-2008-3184++nvd++ibm-1335	cross-site scripting (xss )	cross-site scripting	1
+CVE-2011-4926++ibm++openwall-2430	cross-site scripting	cross-site scripting	1
+CVE-2008-5841++nvd++ibm-223	sql injection	sql injection	1
+CVE-2003-1175++nvd++ibm-351	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-14152++nvd++ibm-381	buffer overflow	buffer overflow	1
+CVE-2007-5780++nvd++exploitdb-2286	remote file inclusion	remote file include	1
+CVE-2007-1773++nvd++exploitdb-615	directory traversal	directory-traversal	1
+CVE-2006-3563++nvd++ibm-2384	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-4089++ibm++exploitdb-556	memory corruption	memory corruption	1
+CVE-2013-4397++ibm++openwall-1094	buffer overflow	integer overflow	1
+CVE-2008-0606++nvd++exploitdb-327	sql injection	sql injection	1
+CVE-2019-12518++ibm++exploitdb-1533	a buffer overflow	buffer overflow	1
+CVE-2019-8662++nvd++exploitdb-2762	memory corruption	memory corruption	1
+CVE-2003-0446++nvd++ibm-936	cross-site scripting (xss )	cross-site scripting	1
+CVE-2010-5325++nvd++ibm-1869	buffer overflow	buffer overflow	1
+CVE-2011-1938++ibm++exploitdb-3113	buffer overflow	local buffer overflow	1
+CVE-2009-0039++ibm++exploitdb-1226	cross-site scripting	crosssite scripting	1
+CVE-2008-1914++ibm++exploitdb-1414	buffer overflow	stack buffer overflow	1
+CVE-2015-0838++ibm++openwall-867	a buffer overflow	a buffer overflow	1
+CVE-2012-2099++exploitdb++openwall-2790	search field cross-site scripting	cross-site scripting	1
+CVE-2011-1150++nvd++ibm-289	cross-site scripting	cross-site scripting	1
+CVE-2010-0409++nvd++ibm-2179	buffer overflow	a buffer overflow	1
+CVE-2015-2788++ibm++openwall-2553	a buffer overflow	a buffer overflow	1
+CVE-2017-17620++nvd++exploitdb-1955	sql injection	sql injection	1
+CVE-2014-1619++nvd++exploitdb-1508	sql injection	local file inclusion	0
+CVE-2008-5234++nvd++openwall-432	buffer overflows	buffer overflows	1
+CVE-2015-2046++ibm++openwall-311	cross-site scripting	cross-site scripting	1
+CVE-2008-5057++ibm++exploitdb-2550	sql injection	sql-injection	1
+CVE-2006-1849++ibm++exploitdb-2312	sql injection	sql-injection	1
+CVE-2014-9115++nvd++ibm-2307	sql injection	sql injection	1
+CVE-2010-2495++nvd++ibm-1618	pointer dereference	pointer dereference	1
+CVE-2015-4142++nvd++openwall-778	integer underflow	integer underflow	1
+CVE-2007-2807++nvd++openwall-1134	buffer overflow	stack-based buffer overflow	1
+CVE-2008-5187++ibm++openwall-803	buffer overflow	buffer overflow	1
+CVE-2017-15717++nvd++openwall-603	cross-site scripting	cross-site scripting	1
+CVE-2009-2365++nvd++exploitdb-869	sql injection	remote sql injection	1
+CVE-2008-5189++nvd++ibm-2110	crlf injection	cross-site scripting	0
+CVE-2006-6083++nvd++exploitdb-831	sql injection	sql-injection	1
+CVE-2017-15118++ibm++openwall-721	buffer overflow	buffer overflow	1
+CVE-2008-6572++nvd++exploitdb-2753	sql injection	sql injection	1
+CVE-2007-6471++nvd++exploitdb-1433	directory traversal	local file-include	0
+CVE-2014-4717++nvd++ibm-669	cross-site scripting (xss )	cross-site request forgery	1
+CVE-2009-0039++ibm++exploitdb-1227	cross-site request forgery	cross-site request forgery	1
+CVE-2015-8041++ibm++openwall-3322	a buffer overflow	integer overflow	1
+CVE-2015-1265++ibm++nvd-2049	an integer overflow	multiple unspecified vulnerabilities	0
+CVE-2008-3953++ibm++exploitdb-3094	sql injection	sql injection	1
+CVE-2006-3670++nvd++ibm-893	buffer overflow	buffer overflow	1
+CVE-2000-1054++nvd++exploitdb-2498	buffer overflow	ssh protocol mismatch	0
+CVE-2010-0607++nvd++ibm-1216	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-2889++nvd++exploitdb-2420	sql injection	sql injection	1
+CVE-2009-3691++nvd++exploitdb-858	buffer overflow	integer overflow	1
+CVE-2005-1374++nvd++exploitdb-2363	cross-site scripting (xss )	remote file include	0
+CVE-2010-0304++exploitdb++openwall-1264	stack-based buffer overflow	buffer overflows	1
+CVE-2011-0644++nvd++exploitdb-194	sql injection	sql injection	1
+CVE-2008-5569++ibm++exploitdb-2901	cross-site scripting	cross-site scripting	1
+CVE-2014-4014++exploitdb++openwall-1313	privilege escalation	escalate privileges	1
+CVE-2014-3111++nvd++ibm-1545	cross-site scripting (xss )	cross-site scripting	1
+CVE-2011-4622++ibm++openwall-1787	pointer dereference	pointer dereference	1
+CVE-2003-1533++nvd++exploitdb-170	sql injection	sql injection	1
+CVE-2011-1938++ibm++openwall-331	buffer overflow	buffer overflow	1
+CVE-2008-2190++ibm++exploitdb-1278	sql injection	sql injection	1
+CVE-2009-4138++nvd++ibm-3257	pointer dereference	pointer dereference	1
+CVE-2010-4248++nvd++ibm-3359	race condition	race condition	1
+CVE-2008-3310++nvd++ibm-614	sql injection	sql injection	1
+CVE-2006-2179++ibm++exploitdb-1017	sql injection	sql injection	1
+CVE-2019-8662++nvd++ibm-1068	memory corruption	memory corruption	1
+CVE-2016-1568++ibm++openwall-435	memory corruption	memory corruption	1
+CVE-2015-4142++nvd++openwall-781	out-of-bounds read	a buffer read overflow	1
+CVE-2011-4077++ibm++openwall-1904	a buffer overflow	buffer overflow	1
+CVE-2008-5824++nvd++ibm-862	buffer overflow	buffer overflow	1
+CVE-2019-14895++ibm++openwall-2992	buffer overflow	heap overflow	0
+CVE-2005-3884++ibm++exploitdb-873	sql injection	sql injection	1
+CVE-2011-2938++nvd++ibm-2816	cross-site scripting (xss )	cross-site scripting	1
+CVE-2011-1938++nvd++ibm-2042	buffer overflow	buffer overflow	1
+CVE-2011-3856++ibm++exploitdb-1770	cross-site scripting	cross-site scripting	1
+CVE-2008-3202++nvd++exploitdb-1080	cross-site scripting (xss )	cross-site scripting	1
+CVE-2010-1635++nvd++ibm-138	pointer dereference	variable read	0
+CVE-2007-6080++ibm++exploitdb-1039	sql injection	sql injection	1
+CVE-2008-5432++nvd++openwall-1041	cross-site scripting (xss )	cross site scripting (xss )	1
+CVE-2015-4658++ibm++exploitdb-678	sql injection	authentication bypass	0
+CVE-2012-0202++nvd++exploitdb-1312	buffer overflows	remote overflow	1
+CVE-2019-14895++ibm++openwall-2989	overflow	heap overflow	0
+CVE-2006-7052++nvd++exploitdb-3334	remote file inclusion	remote file inclusions	1
+CVE-2008-0540++nvd++ibm-1620	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-8504++ibm++openwall-2889	buffer overflow	stack buffer overflow	1
+CVE-2009-4261++nvd++openwall-1660	directory traversal	input validation	0
+CVE-2008-2832++nvd++exploitdb-3221	file upload	remote file upload	1
+CVE-2000-0166++nvd++ibm-198	buffer overflow	a buffer overflow	1
+CVE-2010-1658++nvd++exploitdb-926	directory traversal	local file inclusion	0
+CVE-2006-0564++nvd++exploitdb-988	buffer overflow	cotent buffer overflow	1
+CVE-2016-4912++nvd++ibm-1799	pointer dereference	pointer dereference	1
+CVE-2008-7053++nvd++ibm-249	memory corruption	buffer overflows	1
+CVE-2010-3084++ibm++nvd-3367	improper bounds checking	buffer overflow in the niu_get_ethtool_tcam_all function in drivers/net/niu.c	0
+CVE-2008-1722++nvd++openwall-1485	memory corruption	buffer overflow	1
+CVE-2007-0911++nvd++ibm-1441	off-by-one error	off-by-one error	1
+CVE-2012-5854++nvd++ibm-2167	buffer overflow	buffer overflow	1
+CVE-2017-5896++nvd++openwall-1024	buffer overflow	buffer overflow	1
+CVE-2008-0379++nvd++ibm-624	a buffer overflow	a buffer overflow	1
+CVE-2009-3189++nvd++exploitdb-1600	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-6892++nvd++exploitdb-2726	sql injection	remote sql injection	1
+CVE-2005-2414++nvd++ibm-2325	race condition	race condition	1
+CVE-2018-12827++ibm++exploitdb-3288	out-of-bounds read	out-of-bounds read	1
+CVE-2012-2920++nvd++ibm-2796	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-5196++nvd++ibm-1181	sql injection	sql injection	1
+CVE-2018-20125++nvd++openwall-563	pointer dereference	null dereference	1
+CVE-2005-2219++ibm++exploitdb-2476	authentication bypass	change credit limit	0
+CVE-2008-5057++ibm++exploitdb-2549	sql injection	sql injection	1
+CVE-2018-12602++ibm++exploitdb-108	cross-site request forgery	cross-site request forgery	1
+CVE-2007-0811++nvd++ibm-2436	pointer dereference	pointer dereference	1
+CVE-2008-0647++nvd++exploitdb-968	buffer overflows	activex buffer overflow	0
+CVE-2017-7555++nvd++openwall-1855	buffer overflow	memory corruption	0
+CVE-2014-2892++ibm++openwall-2130	buffer overflow	overflowing	1
+CVE-2017-17932++ibm++exploitdb-2101	a buffer overflow	remote buffer overflow	1
+CVE-1999-1208++nvd++exploitdb-1334	buffer overflow	buffer overflow	1
+CVE-2007-5601++ibm++exploitdb-2982	buffer overflow	stack-based buffer-overflow	1
+CVE-2010-1964++nvd++exploitdb-2472	buffer overflow	local buffer overflow	1
+CVE-2008-3794++ibm++openwall-1943	buffer overflow	a buffer overflow	1
+CVE-2017-7725++ibm++exploitdb-2471	http header injection	host header injection	1
+CVE-2014-9651++nvd++openwall-3042	buffer overflow	buffer overrun	1
+CVE-2014-9862++nvd++ibm-629	buffer overflow	buffer overflow	1
+CVE-2009-0326++ibm++exploitdb-2382	sql injection	sql injection	1
+CVE-2018-17394++ibm++exploitdb-1439	sql injection	sql injection	1
+CVE-2011-1589++nvd++ibm-2150	directory traversal	directory traversal	1
+CVE-2016-1813++nvd++exploitdb-2966	pointer dereference	null dereference	1
+CVE-2006-3524++ibm++exploitdb-3388	a buffer overflow	buffer overflow	1
+CVE-1999-1557++nvd++exploitdb-688	buffer overflow	buffer overflow	1
+CVE-2016-7392++nvd++ibm-2511	buffer overflow	buffer overflow	1
+CVE-2010-1156++nvd++openwall-2159	pointer dereference	pointer dereferences	1
+CVE-2008-2719++nvd++exploitdb-918	off-by-one error	off-by-one buffer overflow	1
+CVE-2009-4220++nvd++exploitdb-2396	remote file inclusion	remote file include	1
+CVE-2019-8662++nvd++ibm-74	memory corruption	memory corruption	1
+CVE-2005-1173++nvd++ibm-1552	buffer overflow	a buffer overflow	1
+CVE-2006-0115++nvd++ibm-889	sql injection	sql injection	1
+CVE-2001-1178++ibm++exploitdb-1744	a buffer overflow	manpath environment variable buffer overflow	1
+CVE-2009-4220++nvd++exploitdb-2006	remote file inclusion	remote file include	1
+CVE-2008-0633++nvd++ibm-1733	the overflow	a buffer overflow	1
+CVE-2012-4424++nvd++ibm-890	buffer overflow	buffer overflow	1
+CVE-2007-6270++nvd++ibm-77	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-17932++ibm++exploitdb-2100	a buffer overflow	stack buffer overflow	1
+CVE-2011-3625++nvd++exploitdb-751	buffer overflow	subtitle file buffer overflow	1
+CVE-2019-3863++nvd++ibm-611	of bounds	integer overflow	1
+CVE-2011-1523++nvd++openwall-2418	cross-site scripting (xss )	cross-site scripting (xss )	1
+CVE-2010-5004++ibm++exploitdb-2674	sql injection	sql injection	1
+CVE-2009-4349++nvd++ibm-2486	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2016-3971++nvd++ibm-992	cross-site scripting (xss )	cross-site scripting	0
+CVE-2014-3635++nvd++openwall-3215	off-by-one error	heap overflow	0
+CVE-2011-4622++nvd++ibm-621	pointer dereference	pointer dereference	1
+CVE-2008-1083++nvd++exploitdb-3325	overflow	heap overflow	1
+CVE-2008-4667++nvd++exploitdb-1394	directory traversal	local file inclusion	0
+CVE-2010-2653++nvd++ibm-1758	race condition	race condition	1
+CVE-2016-3172++nvd++ibm-1823	sql injection	sql injection	1
+CVE-2015-1041++ibm++openwall-1793	cross-site scripting	reflecting xss	1
+CVE-2009-3968++nvd++exploitdb-2904	sql injection	blind sql injection	1
+CVE-2010-2494++nvd++ibm-336	buffer underflows	off-by-one error	0
+CVE-2008-5652++nvd++ibm-2624	sql injection	sql injection	1
+CVE-2009-0295++ibm++exploitdb-1701	sql injection	blind sql injection	1
+CVE-2008-1914++ibm++exploitdb-1415	buffer overflow	remote buffer overflow	1
+CVE-2008-2564++nvd++ibm-2943	sql injection	sql injection	1
+CVE-2012-2099++ibm++openwall-414	cross-site scripting	cross-site scripting	1
+CVE-2006-4796++ibm++exploitdb-2408	cross-site scripting	cross-site scripting	1
+CVE-2020-2096++nvd++exploitdb-1419	cross-site scripting	reflected cross-site scripting	1
+CVE-2007-0580++nvd++exploitdb-1443	remote file inclusion	remote file inclusion	1
+CVE-2014-0196++ibm++openwall-2090	race condition	race condition	1
+CVE-2005-2985++nvd++ibm-2614	sql injection	sql injection	1
+CVE-2012-4547++ibm++openwall-2366	cross-site scripting	cross-site scripting	1
+CVE-2009-4470++nvd++exploitdb-3084	sql injection	sql injection	1
+CVE-2008-2493++nvd++ibm-786	cross-site scripting (xss )	cross-site scripting	1
+CVE-2004-1666++ibm++exploitdb-1363	a buffer overflow	buffer overflow	1
+CVE-2015-5158++nvd++openwall-2336	buffer overflow	stack buffer overflow	1
+CVE-2017-3195++ibm++exploitdb-725	buffer overflow	stack buffer overflow	1
+CVE-2008-3679++ibm++exploitdb-2929	cross-site scripting	cross-site scripting	1
+CVE-2010-5022++ibm++exploitdb-1788	sql injection	sql injection	1
+CVE-2002-0968++nvd++exploitdb-1534	buffer overflow	buffer overflow	1
+CVE-2008-2785++nvd++ibm-344	data structure	a buffer overflow	0
+CVE-2015-8863++ibm++openwall-1232	buffer overflow	heap buffer overflow	0
+CVE-2011-3202++nvd++openwall-3025	cross-site scripting (xss )	cross site	1
+CVE-2000-0125++ibm++exploitdb-1429	input validation	sql command input	0
+CVE-2015-8613++nvd++ibm-595	buffer overflow	buffer overflow	1
+CVE-2011-3202++nvd++openwall-3026	cross-site scripting (xss )	cross site scripting	1
+CVE-2010-1997++nvd++exploitdb-497	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-7319++nvd++ibm-3016	sql injection	sql injection	1
+CVE-2012-1124++nvd++ibm-579	sql injection	sql injection	1
+CVE-2012-5517++nvd++openwall-865	pointer dereference	pointer dereference	1
+CVE-2017-11420++nvd++ibm-1706	buffer overflow	buffer overflow	1
+CVE-2011-1482++nvd++ibm-1914	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2009-4686++ibm++exploitdb-2437	cross-site scripting	cross-site scripting	1
+CVE-2016-4912++ibm++openwall-2440	pointer dereference	pointer deref	1
+CVE-2007-3227++nvd++exploitdb-1687	cross-site scripting (xss )	script-injection	1
+CVE-2011-2706++ibm++openwall-2558	cross-site scripting	cross-site scripting	1
+CVE-2005-3902++nvd++exploitdb-2794	cross-site scripting (xss )	cross-site scripting	1
+CVE-2016-6265++ibm++openwall-1036	use-after-free error	library use after free	1
+CVE-2015-2305++nvd++openwall-61	integer overflow	heap overflow?	0
+CVE-2009-2164++nvd++exploitdb-617	sql injection	blind sql injection	1
+CVE-2011-0505++nvd++exploitdb-1190	directory traversal	remote file inclusion	0
+CVE-2002-2296++nvd++exploitdb-775	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-0882++nvd++exploitdb-1069	argument injection	remote authentication bypass	0
+CVE-2004-1587++nvd++exploitdb-3164	buffer overflow	local buffer overflow	1
+CVE-2015-4697++nvd++ibm-847	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2005-1374++nvd++exploitdb-254	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-6575++ibm++exploitdb-2831	sql injection	sql injection	1
+CVE-2016-9829++nvd++ibm-141	buffer overflow	buffer overflow	1
+CVE-2012-3382++nvd++openwall-3372	cross-site scripting (xss )	cross-site scripting	1
+CVE-2010-3294++nvd++ibm-700	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-20242++nvd++ibm-16	hijacking	hijacking	1
+CVE-2010-2959++nvd++exploitdb-2890	integer overflow	integer overflow	1
+CVE-2019-10207++ibm++openwall-3310	pointer dereference	pointer dereference	1
+CVE-2006-6804++nvd++exploitdb-1606	sql injection	sql injection	1
+CVE-2009-4220++nvd++exploitdb-2397	remote file inclusion	remote file inclusion	1
+CVE-2008-6642++nvd++exploitdb-2372	sql injection	sql injection	1
+CVE-2017-2885++nvd++openwall-3014	buffer overflow	buffer overflow	1
+CVE-2010-4160++nvd++openwall-1710	integer overflows	buffer allocation size overflows	1
+CVE-2005-3259++nvd++ibm-1071	sql injection	sql injection	1
+CVE-2007-1439++nvd++exploitdb-1196	remote file inclusion	remote file inclusion	1
+CVE-2015-8863++ibm++openwall-2596	buffer overflow	off-by-one error	0
+CVE-2014-4162++nvd++ibm-3295	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2011-3625++nvd++exploitdb-752	buffer overflow	stack-based buffer overflow	1
+CVE-2008-3578++nvd++ibm-1564	pointer dereference	buffer overflow	0
+CVE-2007-1022++nvd++ibm-970	sql injection	sql injection	1
+CVE-2020-8608++nvd++ibm-1740	a buffer overflow	buffer overflow	1
+CVE-2009-3499++nvd++exploitdb-2883	sql injection	sql injection	1
+CVE-2010-2094++nvd++exploitdb-46	format string	format-string	1
+CVE-2013-6021++ibm++exploitdb-2742	buffer overflow	remote buffer overflow	1
+CVE-2009-3869++nvd++exploitdb-3030	buffer overflow	jre awt setdifficm buffer overflow	1
+CVE-2013-6839++nvd++openwall-36	sql injection	sql injection	1
+CVE-2014-1471++nvd++openwall-990	sql injection	cross-site request forgery	0
+CVE-2008-4051++nvd++exploitdb-2980	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-1142++nvd++ibm-2701	cross-site scripting (xss )	cross-site scripting	1
+CVE-2019-13029++nvd++ibm-1530	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-1000367++ibm++nvd-2751	"""overwrite any file on the filesystem with his command's output and gain root privileges on the system"""	information disclosure	0
+CVE-2012-5002++ibm++exploitdb-165	buffer overflow	ftp user command buffer overflow	1
+CVE-2010-2939++ibm++exploitdb-1735	use-after-free error	use-after-free memory corruption	1
+CVE-2007-5428++ibm++exploitdb-222	cross-site scripting	cross-site scripting	1
+CVE-2016-3972++nvd++openwall-3354	directory traversal	directory traversal	1
+CVE-2009-0574++nvd++ibm-1007	sql injection	sql injection	1
+CVE-2010-1938++nvd++ibm-2380	off-by-one error	buffer overflow	0
+CVE-2009-1943++nvd++exploitdb-3100	buffer overflow	ike service buffer overflow	1
+CVE-2009-4349++nvd++ibm-2485	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2010-0936++ibm++exploitdb-436	cross-site scripting	cross-site scripting	1
+CVE-2009-2847++exploitdb++nvd-2557	information disclosure	obtain sensitive information from the kernel stack	1
+CVE-2008-6260++nvd++ibm-3241	sql injection	sql injection	1
+CVE-2009-0658++ibm++openwall-755	a buffer overflow	pointer dereference	0
+CVE-2015-7768++nvd++exploitdb-1627	buffer overflow	cwd command overflow	0
+CVE-2010-2094++nvd++exploitdb-47	format string	format string	1
+CVE-2015-5707++nvd++openwall-101	integer overflow	overflow	1
+CVE-2014-3635++nvd++openwall-3214	buffer overflow	buffer access	1
+CVE-2007-3227++nvd++exploitdb-1686	cross-site scripting (xss )	script injection	1
+CVE-2006-6761++ibm++exploitdb-622	buffer overflow	imap subscribe buffer overflow	1
+CVE-2012-3294++nvd++ibm-3136	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2004-1882++ibm++exploitdb-2208	authentication bypass	remote cross-site scripting	0
+CVE-2016-7392++nvd++openwall-710	buffer overflow	heap-buffer-overflow	1
+CVE-2008-1714++nvd++ibm-3065	sql injection	sql injection	1
+CVE-2007-0020++nvd++ibm-2487	buffer overflow	buffer overflow	1
+CVE-2012-5574++ibm++openwall-2465	view and read arbitrary files on the system and obtain other sensitive information	information disclosure	1
+CVE-2008-6730++nvd++exploitdb-1077	sql injection	authentication bypass	0
+CVE-2010-0319++ibm++exploitdb-221	cross-site scripting	cross-site scripting	1
+CVE-2012-1153++nvd++exploitdb-1765	file upload	unrestricted file upload	1
+CVE-2015-8041++ibm++openwall-3323	a buffer overflow	length validation	0
+CVE-2010-4160++nvd++openwall-561	integer overflows	buffer allocation size overflows	1
+CVE-2013-0197++nvd++openwall-1994	cross-site scripting (xss )	cross site scripting (xss )	1
+CVE-2013-4388++ibm++openwall-3034	a buffer overflow	buffer overflow	1
+CVE-2009-3287++ibm++openwall-1897	spoofing	client ip spoofing	0
+CVE-2007-5725++nvd++exploitdb-928	cross-site scripting (xss )	cross-site scripting	1
+CVE-2002-0263++nvd++ibm-2171	buffer overflow	a buffer overflow	1
+CVE-2011-3625++nvd++exploitdb-750	buffer overflow	"""subtitle file buffer overflow'"""	1
+CVE-2015-7747++nvd++ibm-1297	buffer overflow	buffer overflow	1
+CVE-2008-6572++ibm++exploitdb-320	sql injection	sql injection	1
+CVE-2008-2960++ibm++openwall-2443	cross-site scripting	cross-site scripting	1
+CVE-2010-0458++nvd++exploitdb-1601	sql injection	sql injection	1
+CVE-2012-0202++nvd++exploitdb-1311	buffer overflows	stack buffer overflow	1
+CVE-2008-5654++nvd++ibm-208	sql injection	sql injection	1
+CVE-2017-2885++nvd++openwall-3015	stack overflow	buffer overflow	1
+CVE-2007-2807++ibm++exploitdb-2827	buffer overflows	buffer overflow	1
+CVE-2016-4805++nvd++ibm-2106	memory corruption	memory corruption	1
+CVE-2016-5116++ibm++openwall-3133	memory leak	stack overflow	1
+CVE-2008-0633++nvd++ibm-1734	buffer overflow	a buffer overflow	1
+CVE-2014-2892++ibm++openwall-2131	buffer overflow	memory overrun	1
+CVE-2018-20125++nvd++openwall-2211	pointer dereference	excessive memory	0
+CVE-1999-0751++ibm++exploitdb-1598	a buffer overflow	accept buffer overflow	1
+CVE-2008-5187++ibm++openwall-2139	buffer overflow	buffer overflow	1
+CVE-2012-4414++nvd++ibm-1764	sql injection	sql injection	1
+CVE-2006-1849++nvd++ibm-2170	sql injection	sql injection	1
+CVE-2009-0312++nvd++ibm-112	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-1722++nvd++openwall-1484	integer overflows	buffer overflow	1
+CVE-2008-0334++nvd++exploitdb-143	cross-site scripting (xss )	cross-site scripting vulnerabilities	1
+CVE-2017-7541++nvd++ibm-1888	overflow	buffer overflow	1
+CVE-2019-14895++ibm++openwall-2990	overflow	heap overflows	0
+CVE-2009-0039++ibm++exploitdb-1225	cross-site scripting	cross-site request forgery	1
+CVE-2009-2294++ibm++openwall-3341	integer overflow	heap overflow	1
+CVE-2005-2414++nvd++ibm-646	race condition	race condition	1
+CVE-2010-3056++nvd++ibm-769	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-0515++nvd++exploitdb-2519	buffer overflow	buffer overflow	1
+CVE-2018-20125++nvd++openwall-2210	pointer dereference	null dereference	1
+CVE-2004-1985++exploitdb++nvd-569	arbitrary command execution	inject arbitrary html or web script	0
+CVE-2010-1491++nvd++exploitdb-305	directory traversal	local file inclusion	1
+CVE-2016-5116++ibm++openwall-3132	memory leak	memory leak	1
+CVE-2010-4942++nvd++ibm-3260	sql injection	sql injection	1
+CVE-2001-0815++nvd++ibm-2632	buffer overflow	overflow	1
+CVE-2007-6080++nvd++exploitdb-308	sql injection	sql-injection	1
+CVE-2014-4992++openwall++nvd-2862	command injection	obtain sensitive information	0
+CVE-2015-2788++ibm++openwall-2555	a buffer overflow	buffer overflows	1
+CVE-2012-3294++nvd++ibm-3137	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2005-4081++nvd++ibm-370	sql injection	sql injection	1
+CVE-2013-4200++exploitdb++openwall-1161	hijack user sessions and gain unauthorized access to the affected application	authentication bypass	0
+CVE-2013-4344++nvd++openwall-864	buffer overflow	buffer overflow	1
+CVE-2018-9106++nvd++ibm-1802	csv injection (aka	csv injection	1
+CVE-2010-1874++nvd++exploitdb-1910	sql injection	sql injection	1
+CVE-2009-1379++ibm++openwall-419	memory corruption	after free	0
+CVE-2009-4437++nvd++ibm-394	sql injection	sql injection	1
+CVE-2014-2892++ibm++openwall-2128	buffer overflow	a buffer overflow	1
+CVE-2018-12689++nvd++ibm-3172	ldap injection	ldap injection	1
+CVE-2007-1159++nvd++ibm-2625	cross-site scripting (xss )	cross-site scripting	1
+CVE-2010-1628++nvd++openwall-2308	memory corruption	overflow	1
+CVE-2016-5126++nvd++openwall-317	buffer overflow	buffer overflow	1
+CVE-2007-5120++ibm++exploitdb-3157	cross-site scripting	cross-site scripting vulnerabilities	1
+CVE-2007-5998++nvd++exploitdb-1230	sql injection	sql injection	1
+CVE-2009-4474++nvd++ibm-4	sql injection	sql injection	1
+CVE-2012-2864++nvd++openwall-1046	array overflow.	array overflow	0
+CVE-2008-0379++nvd++ibm-625	race condition	a buffer overflow	1
+CVE-2017-7533++nvd++ibm-722	race condition	race condition	1
+CVE-2013-4153++nvd++ibm-1918	double free	double-free error	1
+CVE-2015-3169++ibm++openwall-411	cross-site scripting	cross-site scripting	1
+CVE-2007-1978++nvd++ibm-3051	sql injection	sql injection	1
+CVE-2014-9765++nvd++ibm-496	buffer overflow	a buffer overflow	1
+CVE-2000-0706++nvd++ibm-2445	buffer overflows	a buffer overflow	1
+CVE-2005-3314++nvd++ibm-2334	buffer overflow	buffer overflows	1
+CVE-2018-20242++nvd++ibm-14	cross-site scripting	hijacking	1
+CVE-2009-1943++nvd++exploitdb-3099	buffer overflow	stack buffer overflow	1
+CVE-2002-2296++nvd++ibm-2673	cross-site scripting (xss )	cross-site scripting	1
+CVE-2013-3302++ibm++openwall-1169	pointer dereference	pointer dereference	1
+CVE-2008-2908++ibm++exploitdb-442	buffer overflow	activex control buffer overflow	1
+CVE-2005-0684++nvd++exploitdb-3028	buffer overflows	stack buffer overflow	1
+CVE-2008-4864++ibm++exploitdb-272	a buffer overflow	buffer-overflow	1
+CVE-2005-0782++exploitdb++nvd-1085	session hijacking	inject arbitrary web script or html	0
+CVE-2009-4497++nvd++exploitdb-1784	cross-site scripting (xss )	cross referencer	1
+CVE-2007-5817++nvd++ibm-422	cross-site scripting (xss )	cross-site scripting	1
+CVE-2009-4433++nvd++ibm-553	cross-site scripting (xss )	cross-site scripting	1
+CVE-2013-5117++ibm++exploitdb-966	sql injection	sql injection	1
+CVE-2009-2113++nvd++exploitdb-1154	sql injection	blind sql injection	1
+CVE-2017-17095++ibm++exploitdb-662	buffer overflow	heap buffer overflow	1
+CVE-1999-1208++nvd++exploitdb-1333	buffer overflow	local buffer overflow	1
+CVE-2006-6493++nvd++ibm-580	buffer overflow	crash.\\r\\n\\r\\nnote	0
+CVE-2009-1389++ibm++nvd-933	the improper handling of packets by rtl8169 nic	buffer overflow	0
+CVE-2014-0515++nvd++exploitdb-2520	buffer overflow	shader buffer overflow	1
+CVE-2010-3211++nvd++ibm-2152	sql injection	sql injection	1
+CVE-2018-9206++nvd++openwall-3134	file upload	file upload	1
+CVE-2014-9101++nvd++ibm-3301	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2017-12193++nvd++ibm-35	pointer dereference	pointer dereference	1
+CVE-2006-5114++nvd++ibm-2174	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-4775++exploitdb++openwall-3039	cross-site scripting	cross-site scripting	1
+CVE-2009-1389++ibm++nvd-545	the improper handling of packets by rtl8169 nic	buffer overflow	0
+CVE-2008-0772++ibm++exploitdb-405	sql injection	sql injection	1
+CVE-2017-17095++ibm++exploitdb-2102	the application to crash	heap overflow	0
+CVE-2015-7801++nvd++ibm-1121	memory corruption	use-after-free error	0
+CVE-2009-3152++nvd++ibm-1240	cross-site scripting (xss )	cross-site scripting	1
+CVE-2012-6129++nvd++ibm-2608	buffer overflow	buffer overflow	1
+CVE-2010-2957++nvd++openwall-1282	cross-site scripting (xss )	cross-site scripting	1
+CVE-2011-0105++nvd++exploitdb-558	a buffer overflow	buffer overflow	1
+CVE-2009-0490++ibm++exploitdb-993	buffer overflow	universal buffer overflow	1
+CVE-2000-0437++nvd++ibm-2681	buffer overflow	a buffer overflow	1
+CVE-2008-3310++ibm++exploitdb-2306	sql injection	sql injection	1
+CVE-2010-0304++exploitdb++openwall-1263	stack-based	buffer overflows	1
+CVE-2013-3205++nvd++exploitdb-3330	memory corruption	memory corruption	1
+CVE-2012-2099++exploitdb++openwall-2789	cross-site scripting	sql injection	0
+CVE-2009-3691++nvd++exploitdb-857	buffer overflow	file integer overflow	1
+CVE-2017-17586++nvd++ibm-1675	sql injection	sql injections	1
+CVE-2002-0968++nvd++exploitdb-1535	buffer overflow	web server buffer overflow	1
+CVE-2015-8863++ibm++openwall-1231	buffer overflow	buffer overflow	1
+CVE-2017-12923++ibm++openwall-1492	pointer dereference	pointer dereference	1
+CVE-2009-4227++nvd++exploitdb-940	buffer overflow	buffer-overflow	1
+CVE-2017-7725++ibm++exploitdb-2469	hijacking	host header injection	0
+CVE-2017-17592++ibm++exploitdb-1437	sql injections	sql injection	1
+CVE-2010-4868++nvd++ibm-2324	cross-site scripting (xss )	cross-site scripting	1
+CVE-2011-0105++nvd++exploitdb-560	data initialization	buffer overflow	1
+CVE-2012-2099++exploitdb++openwall-2791	search field cross-site scripting	sql-injection	0
+CVE-2015-7512++ibm++openwall-3183	a buffer overflow	buffer overflow	1
+CVE-2007-2807++ibm++exploitdb-2828	buffer overflows	remote buffer overflow	1
+CVE-2009-1548++ibm++exploitdb-3240	sql injection	sql injection	1
+CVE-2007-2284++nvd++exploitdb-2512	buffer overflow	local buffer overflow	1
+CVE-2012-1021++nvd++ibm-1448	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-1471++ibm++openwall-216	sql injection	cross-site request forgery	0
+CVE-2014-5144++nvd++ibm-78	cross-site scripting (xss )	cross-site scripting	1
+CVE-2000-1054++nvd++exploitdb-2499	buffer overflow	remote buffer overflow	1
+CVE-2008-1926++nvd++openwall-2961	argument injection	"log injection."""	1
+CVE-2017-17095++ibm++exploitdb-73	buffer overflow	heap buffer overflow	1
+CVE-2006-7069++nvd++exploitdb-2737	remote file inclusion	remote file include	1
+CVE-2015-4658++nvd++ibm-2249	sql injection	sql injection	1
+CVE-2008-1926++nvd++openwall-2960	log injection.	log injection	1
+CVE-2006-6387++nvd++ibm-1432	sql injection	sql injection	1
+CVE-2006-7052++nvd++exploitdb-3333	remote file inclusion	remote file include	1
+CVE-2007-0054++ibm++exploitdb-1538	cross-site scripting	cross-site scripting	1
+CVE-2014-0515++nvd++exploitdb-1390	buffer overflow	shader buffer overflow	1
+CVE-1999-0673++ibm++exploitdb-2345	a buffer overflow	remote buffer overflow	1
+CVE-2015-2305++nvd++openwall-62	buffer overflow .	heap overflow?	0
+CVE-2014-8681++nvd++ibm-585	sql injection	sql injection	1
+CVE-2008-1413++nvd++exploitdb-1404	cross-site scripting (xss )	cross-site scripting	1
+CVE-2008-4092++ibm++exploitdb-2740	sql injection	sql injection	1
+CVE-2017-14648++ibm++openwall-2698	buffer overflow	a write overflow	1
+CVE-2001-0833++nvd++exploitdb-795	buffer overflow	home environment variable buffer overflow	1
+CVE-2012-4414++ibm++openwall-3126	sql injection	sql injection	1
+CVE-2008-5032++nvd++exploitdb-3336	buffer overflow	local buffer overflow	1
+CVE-2011-0105++nvd++exploitdb-557	a buffer overflow	local buffer overflow	1
+CVE-2008-1878++ibm++exploitdb-909	buffer overflow	stack-based buffer overflow	1
+CVE-2016-7477++nvd++openwall-3162	pointer dereference	pointer access	1
+CVE-2012-4472++nvd++openwall-997	file upload	cross site request forgery	0
+CVE-2012-1600++nvd++ibm-1694	cross-site scripting (xss )	cross-site scripting	1
+CVE-2012-0549++ibm++exploitdb-366	buffer overflow	activex control setmarkupmode buffer overflow	1
+CVE-2008-6260++nvd++exploitdb-2301	sql injection	sql injection	1
+CVE-2019-14895++ibm++openwall-2991	overflow	heap overflowã\x80\x82	0
+CVE-2019-12518++ibm++exploitdb-1532	a buffer overflow	stack buffer overflow	1
+CVE-2015-7805++exploitdb++openwall-3189	local heap overflow	heap overflow	1
+CVE-2008-6314++nvd++ibm-3072	sql injection	sql injection	1
+CVE-2009-4462++nvd++ibm-2200	buffer overflow	buffer overflow	1
+CVE-2013-4200++exploitdb++openwall-1166	hijack user sessions and gain unauthorized access to the affected application	information exposure	0
+CVE-2007-6471++nvd++exploitdb-1434	directory traversal	windows installations local file inclusion	0
+CVE-2007-1022++ibm++exploitdb-229	sql injection	sql injection	1
+CVE-2015-3110++ibm++exploitdb-2280	an integer overflow	an error in the the gif parser	0
+CVE-2009-0447++ibm++exploitdb-813	sql injection	authentication bypass	0
+CVE-2005-1612++nvd++exploitdb-3356	sql injection	sql injection	1
+CVE-2011-3856++ibm++exploitdb-1771	cross-site scripting	cross-site-scripting	1
+CVE-2008-3456++nvd++openwall-2584	spoofing	cross-site framing	0
+CVE-2006-5910++nvd++exploitdb-2865	remote file inclusion	remote file inclusion	1
+CVE-2008-2854++nvd++exploitdb-2199	remote file inclusion	remote file inclusion	1
+CVE-2007-1536++nvd++exploitdb-1042	integer underflow	integer-underflow	1
+CVE-2016-6604++ibm++openwall-3218	pointer dereference	pointer dereference	1
+CVE-2016-4569++nvd++openwall-1629	data structure	information leak	0
+CVE-2011-4077++ibm++openwall-246	a buffer overflow	buffer overflow	1
+CVE-2012-4414++nvd++ibm-2599	sql injection	sql injection	1
+CVE-2015-5707++nvd++openwall-102	integer overflow	integer overflow	1
+CVE-1999-1113++ibm++exploitdb-3196	buffer overflow	remote buffer overflow	1
+CVE-2008-5234++nvd++openwall-430	buffer overflows	heap overflow	0
+CVE-2019-10087++nvd++openwall-1873	cross-site scripting	cross-site scripting	1
+CVE-2005-3397++exploitdb++nvd-2140	information disclosure	inject arbitrary web script or html	0
+CVE-2006-1327++nvd++exploitdb-1754	sql injection	blind sql injection	1
+CVE-2018-18803++ibm++exploitdb-2880	sql injections	sql injection	1
+CVE-2017-14989++ibm++openwall-2446	memory corruption	heap use-after-free	0
+CVE-2017-12923++ibm++openwall-1493	pointer dereference	memory access	0
+CVE-2017-14738++nvd++exploitdb-3177	remote sql injection	sql injection	1
+CVE-2014-5289++ibm++exploitdb-373	a buffer overflow	remote buffer overflow	1
+CVE-2010-0304++exploitdb++openwall-2575	overflows	buffer overflows	1
+CVE-2016-2539++nvd++exploitdb-2274	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2004-1587++nvd++exploitdb-3165	buffer overflow	buffer overflow	1
+CVE-2006-6205++ibm++exploitdb-91	cross-site scripting	cross-site scripting vulnerabilities	1
+CVE-2008-5196++nvd++exploitdb-1191	sql injection	sql injection	1
+CVE-2015-5158++ibm++openwall-207	buffer overflow	stack buffer overflow	1
+CVE-2012-1835++ibm++openwall-578	cross-site scripting	cross-site request forgery	0
+CVE-2009-3590++nvd++exploitdb-3191	sql injection	sql injection	1
+CVE-2007-0871++nvd++exploitdb-1514	file upload	file upload	1
+CVE-2014-4717++nvd++ibm-668	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-9029++nvd++openwall-530	buffer overflow .	overflows	1
+CVE-2006-1849++ibm++exploitdb-2311	sql injection	cross-site scripting	0
+CVE-2006-1327++nvd++exploitdb-658	sql injection	blind sql injection	1
+CVE-2010-4808++nvd++ibm-641	sql injection	sql injection	1
+CVE-2011-2203++nvd++openwall-567	pointer dereference	pointer dereference	1
+CVE-2007-3188++nvd++exploitdb-3306	sql injection	sql injection	1
+CVE-2009-4893++nvd++ibm-1256	buffer overflow	a buffer overflow	1
+CVE-2005-0691++nvd++exploitdb-260	remote file inclusion	remote file inclusion	1
+CVE-2005-4254++ibm++exploitdb-3262	sql injection	sql injection	1
+CVE-2003-0614++ibm++exploitdb-696	cross-site scripting	cross-site scripting	1
+CVE-2014-2531++ibm++exploitdb-2870	sql injection	sql injection	1
+CVE-2003-0232++nvd++ibm-2750	a buffer overflow	a buffer overflow	1
+CVE-1999-0767++ibm++exploitdb-934	buffer overflow	libc buffer overflow	1
+CVE-2011-1761++nvd++ibm-894	buffer overflows	crash.\\r\\n\\r\\nnote	0
+CVE-2012-2020++ibm++exploitdb-2450	buffer overflow	buffer overflow	1
+CVE-2011-3352++nvd++openwall-127	cross-site scripting	cross-site scripting	1
+CVE-2008-3184++nvd++exploitdb-661	cross-site scripting (xss )	html-injection	0
+CVE-2006-5276++ibm++exploitdb-1736	buffer overflow	remote buffer overflow	1
+CVE-2006-2100++nvd++exploitdb-266	directory traversal	directory-traversal	1
+CVE-2012-2099++exploitdb++openwall-2788	cross-site scripting	sql-injection	0
+CVE-2004-2037++nvd++ibm-3058	buffer overflow	a buffer overflow	1
+CVE-2013-5697++ibm++exploitdb-1879	sql injection	apache module injection	1
+CVE-2017-6958++nvd++ibm-2934	cross-site scripting	cross-site scripting	1
+CVE-2017-2456++ibm++exploitdb-899	race condition	heap overflow	0
+CVE-2007-5184++nvd++exploitdb-2	format string	remote format string	1
+CVE-2017-1000499++ibm++exploitdb-1785	cross-site scripting	cross-site request forgery	1
+CVE-2008-0334++nvd++exploitdb-652	cross-site scripting (xss )	cross-site scripting vulnerabilities	1
+CVE-2019-9496++ibm++openwall-2169	pointer dereference	message validation	0
+CVE-2004-1882++ibm++exploitdb-2205	cross-site scripting	cross-site scripting	1
+CVE-2007-0020++ibm++exploitdb-2690	buffer overflow	url handler heap buffer overflow	1
+CVE-2009-1907++nvd++exploitdb-1642	cross-site scripting (xss )	cross-site scripting	1
+CVE-2004-1666++ibm++exploitdb-876	a buffer overflow	buffer overflow	1
+CVE-2015-8562++nvd++exploitdb-1211	php object injection	object injection	1
+CVE-2010-4808++nvd++ibm-3335	sql injection	sql injection	1
+CVE-2016-7995++nvd++openwall-1409	memory leak	memory leak	1
+CVE-2013-6164++nvd++exploitdb-1184	sql injection	sql injection	1
+CVE-2009-1943++nvd++exploitdb-2653	buffer overflow	stack buffer overflow	1
+CVE-2016-8637++nvd++openwall-1707	information disclosure	information disclosure	1
+CVE-2019-14895++ibm++openwall-2993	buffer overflow	heap overflows	0
+CVE-2013-6839++ibm++openwall-154	sql injection	sql injection	1
+CVE-2006-3524++ibm++exploitdb-3389	a buffer overflow	cseq buffer overflow	1
+CVE-2011-1938++ibm++openwall-330	buffer overflow	overflow	1
+CVE-2006-1193++nvd++ibm-2907	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-4162++nvd++ibm-3296	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2011-5213++ibm++exploitdb-1831	sql injection	sql injection	1
+CVE-2012-1600++nvd++ibm-1805	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-3618++nvd++ibm-1905	buffer overflow	buffer overflow	1
+CVE-2014-9175++ibm++exploitdb-454	sql injection	sql injection	1
+CVE-2011-4315++nvd++openwall-2826	buffer overflow	heap overflow	1
+CVE-2009-0950++ibm++exploitdb-904	buffer overflow	remote buffer overflow	1
+CVE-2012-3401++nvd++openwall-2611	buffer overflow .	buffer overflow	1
+CVE-2008-2854++nvd++exploitdb-304	remote file inclusion	remote file inclusion	1
+CVE-2011-0167++exploitdb++nvd-1446	information disclosure	and force the upload of arbitrary local files from a client computer	0
+CVE-2014-5289++ibm++exploitdb-371	a buffer overflow	partial bypass	0
+CVE-2013-5697++ibm++exploitdb-1880	sql injection	sql injection	1
+CVE-2012-3414++nvd++openwall-1907	cross-site scripting (xss )	object injection	0
+CVE-2016-9794++ibm++openwall-2215	use-after-free error	memory corruption	0
+CVE-2007-6471++nvd++exploitdb-1436	incomplete blacklist	windows installations local file inclusion	0
+CVE-2013-1772++nvd++openwall-1208	overflow	buffer overflow	1
+CVE-2005-3875++nvd++ibm-1396	sql injection	sql injection	1
+CVE-2008-1926++nvd++openwall-2959	log injection.	argument injection	1
+CVE-2018-12602++nvd++ibm-3316	cross-site request forgery	cross-site request forgery	1
+CVE-2011-0105++nvd++exploitdb-559	data initialization	local buffer overflow	1
+CVE-2019-5443++ibm++openwall-2285	code injection	code injection	1
+CVE-2020-1711++nvd++ibm-742	buffer access	buffer overflow	1
+CVE-2016-1568++ibm++openwall-434	memory corruption	use after free(kind	0
+CVE-2008-5726++ibm++exploitdb-3376	sql injection	sql injection	1
+CVE-2004-1857++nvd++exploitdb-3074	directory traversal	script directory traversal	1
+CVE-2019-14895++nvd++ibm-2727	buffer overflow	overflow	1
+CVE-2011-0045++nvd++exploitdb-1352	a buffer overflow	wmitracemessageva integer truncation	0
+CVE-2009-4220++nvd++exploitdb-2007	remote file inclusion	remote file inclusion	1
+CVE-2007-1536++nvd++exploitdb-2537	integer underflow	command file_printf integer underflow	1
+CVE-2006-4494++ibm++exploitdb-1752	memory corruption	com object instantiation	0
+CVE-2008-4778++nvd++exploitdb-1316	sql injection	sql injection	1
+CVE-2008-5025++nvd++ibm-1290	buffer overflow	a buffer overflow	1
+CVE-2008-6202++nvd++exploitdb-2096	sql injection	sql injections	1
+CVE-2017-9742++nvd++exploitdb-2604	overflow	buffer overflow	1
+CVE-2009-0753++openwall++nvd-1271	arbitrary file download	read arbitrary files	1
+CVE-2015-0838++nvd++openwall-756	buffer overflow	a buffer overflow	1
+CVE-2019-6135++nvd++ibm-2983	memory leak	memory leak	1
+CVE-2008-6500++nvd++ibm-357	cross-site scripting (xss )	cross-site scripting	1
+CVE-2012-3510++nvd++openwall-2204	memory corruption	memory corruption	1
+CVE-2009-2365++nvd++exploitdb-870	sql injection	authentication bypass	0
+CVE-2018-10751++nvd++ibm-428	integer overflow	integer overflow	1
+CVE-2008-6362++nvd++exploitdb-2448	sql injection	sql injection	1
+CVE-2020-1711++nvd++ibm-743	out-of-bounds	buffer overflow	1
+CVE-2009-1853++nvd++exploitdb-719	sql injection	sql injections	1
+CVE-2014-9029++nvd++openwall-531	off-by-one	buffer overflows	0
+CVE-2018-20242++nvd++ibm-13	cross-site scripting	cross-site scripting	1
+CVE-2018-20125++nvd++openwall-564	pointer dereference	excessive memory	0
+CVE-2012-0277++nvd++ibm-840	buffer overflow	buffer overflow	1
+CVE-2014-5289++nvd++exploitdb-1029	buffer overflow	partial bypass	0
+CVE-2006-6029++nvd++exploitdb-977	sql injection	sql injection	1
+CVE-2010-3146++nvd++exploitdb-2474	untrusted search path	dll hijacking	0
+CVE-2014-3186++nvd++openwall-9	buffer overflow	driver overflow	1
+CVE-2017-14842++ibm++exploitdb-2257	sql injection	sql injection	1
+CVE-2007-1979++nvd++ibm-137	sql injection	sql injection	1
+CVE-2016-6523++nvd++openwall-2404	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-9215++nvd++ibm-2358	sql injection	sql injection	1
+CVE-2004-1666++ibm++exploitdb-877	a buffer overflow	remote buffer overflow	1
+CVE-2006-2630++nvd++exploitdb-472	buffer overflow	remote buffer overflow	1
+CVE-2009-1853++nvd++exploitdb-288	sql injection	sql injections	1
+CVE-2015-7603++nvd++exploitdb-389	directory traversal	directory traversal	1
+CVE-2010-0304++exploitdb++openwall-2577	stack-based	buffer overflows	1
+CVE-2013-1772++nvd++openwall-1207	overflow	a buffer overflow	1
+CVE-2011-1925++nvd++ibm-1796	pointer dereference	pointer dereference	1
+CVE-2006-5276++ibm++exploitdb-3392	buffer overflow	remote buffer overflow	1
+CVE-2017-6191++nvd++ibm-401	buffer overflow	buffer overflow	1
+CVE-2006-6083++nvd++exploitdb-830	sql injection	sql injection	1
+CVE-2015-8981++nvd++openwall-1502	buffer overflow	heap overflow	0
+CVE-2014-9862++nvd++ibm-628	buffer overflow	integer signedness	1
+CVE-2006-6761++ibm++exploitdb-623	buffer overflow	stack buffer overflow	1
+CVE-2014-9101++nvd++ibm-3300	cross-site request forgery (csrf )	cross-site scripting	1
+CVE-2018-6126++ibm++exploitdb-2305	buffer overflow	heap overflow	1
+CVE-2002-1652++nvd++exploitdb-726	buffer overflow	buffer overflow	1
+CVE-2015-2805++nvd++ibm-1557	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2015-1039++nvd++openwall-1254	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-5725++nvd++exploitdb-929	cross-site scripting (xss )	cross-site scripting vulnerabilities	1
+CVE-2008-3587++ibm++exploitdb-3125	cross-site scripting	cross-site scripting	1
+CVE-2017-9373++ibm++openwall-1255	memory consumption	memory leakage	1
+CVE-2009-3337++ibm++openwall-1008	sql injection	sql injection	1
+CVE-2017-8926++ibm++nvd-3243	a buffer overflow when handling malicious files	buffer overflow	1
+CVE-2015-5185++nvd++ibm-1198	pointer dereference	pointer dereference	1
+CVE-2017-11124++ibm++openwall-2658	pointer dereference	memory access	0
+CVE-2008-3547++nvd++ibm-353	buffer overflow	a buffer overflow	1
+CVE-2002-1364++nvd++exploitdb-1213	buffer overflow	buffer overflow	1
+CVE-2007-0882++ibm++exploitdb-1811	authentication bypass	argument injection	0
+CVE-2009-2632++nvd++ibm-1941	buffer overflow	buffer overflow	1
+CVE-2014-9651++nvd++ibm-523	buffer overflow	buffer overflow	1
+CVE-2008-1926++nvd++openwall-2962	argument injection	argument injection	1
+CVE-2016-7567++openwall++nvd-2590	memory corruption	have unspecified impact	0
+CVE-2003-0755++ibm++exploitdb-251	a buffer overflow	buffer overflow	1
+CVE-2008-4864++exploitdb++openwall-400	buffer-overflow	buffer overflow	1
+CVE-2008-6647++nvd++exploitdb-1959	sql injection	sql injection	1
+CVE-2009-0490++nvd++ibm-1751	buffer overflow	buffer overflow	1
+CVE-1999-1557++nvd++exploitdb-689	buffer overflow	imapd buffer overflow	1
+CVE-2016-3619++ibm++openwall-1500	out-of-bounds read	out-of-bounds read	1
+CVE-2008-3445++nvd++exploitdb-1877	sql injection	sql injection	1
+CVE-2009-3337++ibm++openwall-1767	sql injection	sql injection	1
+CVE-2015-1433++nvd++openwall-243	cross-site scripting (xss )	cross-site scripting	1
+CVE-2018-20242++nvd++ibm-15	hijacking	cross-site scripting	1
+CVE-2012-2759++nvd++ibm-1565	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-2449++ibm++exploitdb-924	cross-site scripting	cross-site scripting	1
+CVE-2012-4236++ibm++exploitdb-2858	cross-site scripting	cross-site scripting	1
+CVE-2008-3971++nvd++ibm-211	overflow	buffer overflow	1
+CVE-2018-7203++nvd++ibm-456	cross-site scripting (xss )	cross-site scripting	1
+CVE-2013-0197++nvd++openwall-1993	cross-site scripting (xss )	cross-site scripting	1
+CVE-2015-7613++nvd++ibm-749	race condition	authentication bypass	0
+CVE-2015-2805++nvd++ibm-1556	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2009-0039++ibm++exploitdb-1228	cross-site request forgery	crosssite scripting	1
+CVE-2008-3383++ibm++exploitdb-319	sql injection	blind sql injection	1
+CVE-2008-3941++nvd++ibm-842	cross-site scripting (xss )	cross-site scripting	1
+CVE-2009-4437++ibm++exploitdb-1456	sql injection	blind sql injection	1
+CVE-2007-1536++nvd++exploitdb-1043	integer underflow	command file_printf integer underflow	1
+CVE-2008-3310++nvd++exploitdb-2027	sql injection	sql injection	1
+CVE-2002-1951++nvd++exploitdb-1804	buffer overflow	buffer overflow	1
+CVE-2015-1494++ibm++exploitdb-2535	cross-site scripting	persistent cross-site scripting	1
+CVE-2008-6916++ibm++exploitdb-1376	authentication bypass	authentication bypass	1
+CVE-2014-9029++nvd++openwall-532	off-by-one	overflows	0
+CVE-2008-2719++nvd++exploitdb-916	buffer overflow .	off-by-one buffer overflow	1
+CVE-2011-3979++nvd++exploitdb-2018	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-3635++nvd++openwall-3216	off-by-one error	buffer access	0
+CVE-1999-0182++nvd++exploitdb-1464	a buffer overflow	remote buffer overflow	1
+CVE-2012-6082++ibm++openwall-516	cross-site scripting	cross-site scripting	1
+CVE-2017-14039++ibm++openwall-2860	buffer overflow	buffer overflow	1
+CVE-2016-4485++nvd++openwall-1887	data structure	information leak	0
+CVE-2012-4472++nvd++openwall-995	file upload	sql injection	0
+CVE-2009-2098++nvd++exploitdb-3155	sql injection	sql injection	1
+CVE-2014-1619++nvd++exploitdb-1507	sql injection	sql injection	1
+CVE-2007-1142++nvd++ibm-2148	cross-site scripting (xss )	cross-site scripting	1
+CVE-2017-9243++nvd++ibm-3004	cross-site scripting	cross-site scripting	1
+CVE-1999-0767++ibm++exploitdb-935	buffer overflow	buffer overflow	1
+CVE-2019-9496++ibm++openwall-2168	pointer dereference	pointer dereference	1
+CVE-2008-4775++exploitdb++openwall-3040	cross-site scripting	cross-site scripting (xss )	1
+CVE-2006-1495++ibm++exploitdb-2039	authentication bypass	sql injection	0
+CVE-2007-4939++ibm++exploitdb-2340	buffer overflow	malformed avi header multiple remote vulnerabilities	0
+CVE-2001-0815++nvd++ibm-2631	buffer overflow	a buffer overflow	1
+CVE-2004-1666++ibm++exploitdb-1364	a buffer overflow	remote buffer overflow	1
+CVE-2015-3110++nvd++ibm-376	integer overflow	integer overflow	1
+CVE-2002-1652++nvd++exploitdb-727	buffer overflow	remote buffer overflow	1
+CVE-2009-0326++ibm++exploitdb-2383	sql injection	authentication bypass	0
+CVE-2017-11124++ibm++openwall-2657	pointer dereference	pointer dereference	1
+CVE-2008-4072++ibm++exploitdb-2172	sql injection	bypass sql injection	1
+CVE-2007-0871++nvd++exploitdb-1141	file upload	file upload	1
+CVE-2005-1030++nvd++exploitdb-199	cross-site scripting (xss )	cross-site scripting	1
+CVE-2010-1888++nvd++exploitdb-3351	data initialization	race condition	1
+CVE-2017-5896++nvd++ibm-3186	buffer overflow	out-of-bounds read error	0
+CVE-2009-2684++nvd++exploitdb-2814	cross-site scripting (xss )	cross-site scripting	1
+CVE-2015-4142++nvd++openwall-780	out-of-bounds read	integer underflow	1
+CVE-2013-3205++nvd++exploitdb-3329	memory corruption	ccaret use-after-free	0
+CVE-2007-2449++ibm++exploitdb-1559	cross-site scripting	cross-site scripting	1
+CVE-2016-10247++nvd++ibm-969	buffer overflow	buffer overflow	1
+CVE-2017-2630++ibm++nvd-1729	improper bounds checking	a stack buffer overflow flaw was found	0
+CVE-2008-2785++nvd++ibm-343	counter overflow	a buffer overflow	1
+CVE-2013-4465++nvd++openwall-770	file upload	file inclusion	1
+CVE-2008-2893++nvd++exploitdb-1898	sql injection	sql injection	1
+CVE-2008-1926++nvd++openwall-2958	log injection.	"log injection."""	1
+CVE-2009-4227++nvd++exploitdb-942	buffer overflow	buffer overflow	1
+CVE-2015-4697++nvd++ibm-846	cross-site request forgery (csrf )	cross-site scripting	0
+CVE-2002-1847++nvd++exploitdb-174	buffer overflow	filename buffer overflow	1
+CVE-2013-1599++nvd++exploitdb-2388	command injection	os command	1
+CVE-2008-2088++ibm++exploitdb-753	sql injection	sql injection	1
+CVE-2019-16758++nvd++exploitdb-2810	directory traversal	a directory	0
+CVE-2005-3315++nvd++ibm-477	sql injection	sql injection	1
+CVE-2017-5473++nvd++ibm-1876	cross-site request forgery (csrf )	cross-site request forgery	1
+CVE-2001-0144++ibm++nvd-744	use to gain root privileges on the system	an integer overflow	0
+CVE-2017-15118++ibm++exploitdb-1768	buffer overflow	stack buffer overflow	1
+CVE-2009-3691++nvd++exploitdb-855	integer overflows	file integer overflow	1
+CVE-2005-0782++nvd++ibm-123	cross-site scripting (xss )	cross-site scripting	1
+CVE-2007-6471++nvd++exploitdb-1435	incomplete blacklist	local file-include	0
+CVE-2016-7168++ibm++openwall-379	cross-site scripting	cross-site scripting	1
+CVE-2012-0549++ibm++exploitdb-365	buffer overflow	stack based buffer overflow	1
+CVE-2010-2844++nvd++ibm-1137	cross-site scripting (xss )	cross-site scripting	1
+CVE-2010-0304++exploitdb++openwall-1262	lwres dissector getaddrsbyname_request buffer overflow	buffer overflows	1
+CVE-2005-4254++nvd++ibm-3010	sql injection	sql injection	1
+CVE-2005-3902++nvd++exploitdb-2795	cross-site scripting (xss )	error message cross-site scripting	1
+CVE-2010-1888++nvd++exploitdb-3352	race condition	race condition	0
+CVE-2006-5910++nvd++exploitdb-2864	remote file inclusion	remote file include	1
+CVE-2018-4089++ibm++exploitdb-555	memory corruption	use-after-free security	0
+CVE-2008-3456++nvd++openwall-2581	cross-site framing	cross-site scripting (xss )	1
+CVE-2015-5609++nvd++openwall-333	absolute path traversal	"directory traversal."""	1
+CVE-2008-5196++nvd++exploitdb-204	sql injection	sql injection	1
+CVE-2017-14648++ibm++openwall-2699	buffer overflow	buffer overflow	1
+CVE-2011-1478++nvd++ibm-2892	pointer dereference	pointer dereference	1
+CVE-2007-2449++ibm++exploitdb-1560	cross-site scripting	example web applications cross-site scripting	1
+CVE-2020-11958++nvd++openwall-2332	buffer overflow	heap overflow	1
+CVE-2009-2850++nvd++ibm-2003	buffer overflows	buffer overflows	1
+CVE-2012-1469++nvd++ibm-2689	cross-site scripting (xss )	cross-site scripting	1
+CVE-2014-9029++nvd++openwall-529	buffer overflow .	buffer overflows	1
+CVE-2014-0515++nvd++exploitdb-1389	buffer overflow	buffer overflow	1
+CVE-2008-3570++nvd++exploitdb-552	remote file inclusion	remote file inclusion	1
+CVE-2006-2884++nvd++ibm-2899	sql injection	sql injection	1
+CVE-2013-1860++nvd++ibm-2563	buffer overflow	buffer overflow	1
+CVE-2016-2090++nvd++ibm-3347	off-by-one	buffer overflow	0
+CVE-2008-6572++nvd++exploitdb-2754	sql injection	cross-site scripting	0
+CVE-2016-9559++nvd++ibm-158	pointer dereference	pointer dereference	1
+CVE-2007-1536++nvd++exploitdb-2539	buffer overflow	command file_printf integer underflow	1
+CVE-2009-1853++nvd++exploitdb-718	sql injection	remote sql injection	1
+CVE-2011-5213++ibm++exploitdb-1832	sql injection	cross-site scripting	0
+CVE-2011-5213++ibm++exploitdb-1833	sql injection	sql-injection	1

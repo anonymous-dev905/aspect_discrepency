@@ -1,0 +1,494 @@
+CVE-2009-3290++ibm++nvd-888	the failure to reject mmu hypercalls form unprivileged guests by the kvm_emulate_hypercall() function	does not prevent access to mmu hypercalls from ring 0	0
+CVE-2019-3814++ibm++openwall-1178	the improper authentication of valid trusted certificates	using regular username/password combination	0
+CVE-2013-4494++ibm++openwall-1945	a lock order reversal error in page_alloc_lock and grant_table.lock	lack of embargo	0
+CVE-2016-8909++ibm++openwall-2732	an error in the intel_hda_xfer function in hw/audio/intel-hda.c	infinite loop in processing dma	0
+CVE-2012-2150++openwall++nvd-2400	names between 5 and 8 characters in length inclusively are partially obfuscated	does not properly obfuscate file data	0
+CVE-2017-1000410++openwall++nvd-676	bluetooth	and configresponse messages	0
+CVE-2016-7567++exploitdb++openwall-84	the buffer->curpos pointer is dereferenced	lack of bound check	0
+CVE-2014-2855++ibm++nvd-164	a logic error in the check_secret() function	does not exist in the secrets file	0
+CVE-2015-1480++ibm++exploitdb-880	the failure to validate access on certain administrative functionality	the need to provide round-the-clock quality information security services and solutions to our customers	0
+CVE-2012-2369++ibm++openwall-67	a format string error in the log_message_cb() function	static void	1
+CVE-2010-3077++ibm++exploitdb-3056	improper validation of user-supplied input by the icon_browser.php script	fails to sufficiently sanitize user-supplied data	1
+CVE-2008-3963++exploitdb++openwall-220	fails to handle empty binary string literals	empty bit-string literal server crash	1
+CVE-2009-0887++openwall++nvd-3129	parsing of non-ascii usernames in the pam configuration files	integer signedness error in the _pam_strtok function in libpam/pam_misc.c	1
+CVE-2012-6111++openwall++nvd-1578	locked memory is never written to disk	does not discard stored secrets when using gnome_keyring_lock_all_sync function	0
+CVE-2013-4073++ibm++nvd-1475	the failure to properly verify ssl certificates by the ssl client	"""does not properly handle a '\\0 ' character in a domain name in the subject alternative name field of an x.509 certificate"""	0
+CVE-2010-4243++ibm++nvd-3390	an error in the execve() system call implementation	does not enable the oom killer to assess use of stack memory by arrays representing the (1 ) arguments and (2 ) environment	0
+CVE-2018-13417++ibm++exploitdb-2985	improper handling of xml external entity (xxe ) declarations by the xml parsing engine in the ssdp/upnp function	the discovery process	0
+CVE-2017-8798++ibm++openwall-3139	an integer signedness error	a heap corruption	0
+CVE-2015-8345++openwall++nvd-3184	infinite loop in processing command block list	the eepro100 emulator in qemu qemu-kvm blank	0
+CVE-2011-0021++openwall++nvd-733	heap corruption	cause a denial of service (application crash ) or possibly execute arbitrary code	0
+CVE-2015-1416++ibm++openwall-1653	the lack of validation of patch stream	"""uses quotearg's shell quoting style"""	0
+CVE-2010-1146++openwall++nvd-2132	permissions are not enforced in that tree	does not restrict read or write access to the	0
+CVE-2016-5418++ibm++openwall-1116	the improper handling of hardlink archive entries of non-zero size	static void make_archive(char *	0
+CVE-2008-5025++ibm++nvd-1709	improper bounds checking by the hfs_cat_find_brec() function	overflow in the hfs_cat_find_brec function in fs/hfs/catalog.c	1
+CVE-2019-3814++ibm++openwall-1176	the improper authentication of valid trusted certificates	exim ) currently send the cert_username field	0
+CVE-2018-11574++openwall++nvd-2949	using the memcheck verification tool of the primus microexecution framework	improper input validation together with an integer overflow in the eap-tls protocol implementation	0
+CVE-2008-2931++ibm++openwall-89	improper verification of caller cap_sys_admin capability in the do_change_type function	a missing check for capable(cap_sys_admin).	1
+CVE-2015-7613++openwall++nvd-2680	object contains    unitialized garbage	race condition in the ipc object implementation	1
+CVE-2013-2241++ibm++openwall-3107	improper user access verification by the data_rest core module	"""last condition wasn't being properly enforced"""	0
+CVE-2005-0944++ibm++nvd-369	improper bounds checking of user-supplied input	insufficient data validation	1
+CVE-2017-14489++ibm++exploitdb-1602	a flaw in the iscsi_if_rx function in drivers/scsi/scsi_transport_iscsi.c	unable to handle kernel null pointer dereference	0
+CVE-2012-1177++openwall++nvd-2354	not verify ssl certificates	does not validate ssl certificates	1
+CVE-2016-5418++ibm++openwall-1107	the improper handling of hardlink archive entries of non-zero size	"""doesn't zero * the size field during _extraction"""	0
+CVE-2017-12193++ibm++nvd-1834	a null pointer dereference in the assoc_array implementation	mishandles node splitting	0
+CVE-2019-1262++exploitdb++nvd-2403	does not properly sanitize a specially crafted web request to an affected sharepoint server	does not properly sanitize a specially crafted web request to an affected sharepoint server	1
+CVE-2019-10183++ibm++openwall-2387	"a flaw in the \\""--unattended\\"" option in virt-install utility"	command line argument	0
+CVE-2016-9954++openwall++nvd-195	excessive resource consumption in the portable irregex (irregular expressions )	the backtrack compilation code in the irregex package	1
+CVE-2012-2238++ibm++openwall-1603	the improper verification of access permissions	missing permissions check in button model	0
+CVE-2011-0539++openwall++nvd-2393	the nonce field was not being correctly filled with random data but was left uninitialised	does not initialize the nonce field	0
+CVE-2014-3552++ibm++nvd-1171	the failure to restrict empty sessions and confusing sessions	does not check whether a session id is empty	0
+CVE-2016-5418++ibm++openwall-1114	the improper handling of hardlink archive entries of non-zero size	the modified script	0
+CVE-2018-1000001++ibm++openwall-110	a buffer underflow in the __realpath() function in stdlib/canonicalize.c	not fully posix    compliant	0
+CVE-2007-3896++ibm++exploitdb-541	improper handling of certain uniform resource identifiers (uris)	fails to properly sanitize input	1
+CVE-2013-1410++ibm++exploitdb-2761	improper validation of user-supplied input	fails to properly sanitize user-supplied input	1
+CVE-2014-7975++ibm++nvd-1310	an error in do_umount function in fs/namespace.c	does not require the cap_sys_admin capability for do_remount_sb calls that change the root filesystem to read-only	0
+CVE-2010-0307++ibm++nvd-44	an error in the load_elf_binary() function when core dumps is enabled	does not ensure that the elf interpreter is available before a call to the set_personality macro	1
+CVE-2012-5642++openwall++nvd-543	escape the content of <matches >	does not properly handle the content of the matches tag	1
+CVE-2008-3972++ibm++openwall-361	the failure to apply security updates	fixed security update	1
+CVE-2017-15118++exploitdb++openwall-960	perhaps in combination with other cves	long export name	0
+CVE-2017-8798++ibm++openwall-3149	an integer signedness error	chunksize being negative	0
+CVE-2014-8730++ibm++openwall-2866	the failure to check the contents of the padding bytes	tls-compliant implementation could avoid a padding check without violating    the tls spec	1
+CVE-2017-1002151++ibm++nvd-2233	improper authorization issue	improper authorization	1
+CVE-2019-16275++openwall++nvd-1742	silently ignore management frame from unexpected source address	mishandled . this is a denial of service that should have been prevented by pmf (aka management frame protection).	0
+CVE-2011-1935++ibm++openwall-1499	a flaw in the pcap-linux.c	widelands directory traversal	0
+CVE-2019-1262++ibm++nvd-2323	improper validation of user-supplied input	does not properly sanitize a specially crafted web request to an affected sharepoint server	0
+CVE-2007-5837++ibm++exploitdb-2561	improper validation	fails to properly sanitize user-supplied input	1
+CVE-2015-6806++ibm++openwall-1491	sending a specially-crafted request	"using ""cat -v "" on untrusted files"	0
+CVE-2017-7539++ibm++openwall-2852	an assertion-failure flaw in the network block device (nbd ) server	assertion failure	0
+CVE-2009-4222++ibm++nvd-2484	improper restrictions on the admin.php script	does not require administrative authentication for admin/admin.php	0
+CVE-2013-2099++ibm++openwall-2917	an error in the ssl.match_hostname() function when matching certificates with multiple wildcard characters	original message	0
+CVE-2017-6074++openwall++nvd-217	using some of the kernel heap spraying techniques	an application that makes an ipv6_recvpktinfo setsockopt system call	0
+CVE-2011-0539++ibm++openwall-504	an uninitialized variable in the key_certify() function when generating legacy certificates	consider rotating any ca key used	0
+CVE-2016-3376++ibm++exploitdb-2844	improper handling of objects in memory by the kernel-mode driver	insufficient verification of the security descriptor length passed to the nt!rtlvalidrelativesecuritydescriptor function	1
+CVE-2013-6114++ibm++nvd-1685	an integer overflow in the ozdocument::parseelement() function	integer overflow in the ozdocument::parseelement function	1
+CVE-2012-3409++ibm++nvd-1249	the insecure mounting of filesystems without the ms_nosuid and ms_nodev flags	nodev which creates a possible privilege escalation	1
+CVE-2019-10863++ibm++exploitdb-2276	an error in the exec.php script	the malicious php code sent is executed instantaneously and is not saved on the server	0
+CVE-2017-1001000++ibm++nvd-2774	a type juggling vulnerability in the register_routes function in wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php in the rest api	does not require an integer identifier	0
+CVE-2013-4550++ibm++openwall-3307	an error in the bio_new_fp() function within connection.c file when handling failed ssl handshakes	the scope change	0
+CVE-2015-3419++ibm++openwall-2377	the improper validation of input	an input validation failure	1
+CVE-2019-15031++ibm++openwall-606	improper handling of an interrupt	high interrupt loads	0
+CVE-2016-2217++ibm++openwall-1033	the hard coded 1024 bit dh p parameter not being prime	the hard coded 1024 bit dh p parameter was not prime	1
+CVE-2018-17977++ibm++nvd-2857	a flaw in the ipsec module	mishandles certain interaction among xfrm netlink messages	0
+CVE-2010-3713++ibm++openwall-3253	improper handling of forum configurations	unauthorized access to content	0
+CVE-2017-15717++ibm++nvd-3255	improper validation of user-supplied input by the xss protection api	a flaw in the way urls are escaped and encoded in the org	0
+CVE-2017-15118++exploitdb++openwall-959	exploit the stack smash into arbitrary execution is a lot more difficult (but still theoretically possible to a determined attacker	long export name	0
+CVE-2010-2474++openwall++nvd-1872	the execution of a service with a different domain	does not properly consider the security domain with which a service is secured	0
+CVE-2014-4014++openwall++nvd-1551	a cursory inspection of my fedora box	does not properly consider that namespaces are inapplicable to inodes	0
+CVE-2020-12137++openwall++nvd-3096	the way file attachments are handled	uses the .obj extension for scrubbed application/octet-stream mime parts	1
+CVE-2012-6088++ibm++nvd-448	the improper verification of rpm signatures	""" which allows remote attackers to bypass rpm signature checks via a crafted package"	0
+CVE-2007-3569++ibm++exploitdb-1829	improper validation of user-supplied input when performing a search or when logging in	fails to properly sanitize user-supplied input	1
+CVE-2015-2687++ibm++openwall-2183	the failure of live migration	a disconnected physical network interface	0
+CVE-2016-5243++openwall++nvd-648	memory after the null    byte is not initialized	does not properly copy a certain string	0
+CVE-2017-14497++ibm++nvd-309	the improper handling of vnet headers issue in the tpacket_rcv function in net/packet/af_packet.c	mishandles vnet headers	1
+CVE-2012-6329++openwall++nvd-1860	not properly quote metacharacters	does not properly handle backslashes and fully qualified method names during compilation of bracket notation	1
+CVE-2016-1246++openwall++nvd-1921	error reporting	buffer overflow in the dbd::mysql module before 4.037 for perl	0
+CVE-2014-7975++openwall++nvd-2811	does pretty much the same thing as andy	does not require the cap_sys_admin capability for do_remount_sb calls that change the root filesystem to read-only	0
+CVE-2007-1903++ibm++exploitdb-1170	improper validation of user-supplied input by the search.php script	the application fails to properly sanitize user-supplied input	0
+CVE-2018-11574++openwall++nvd-2947	improper input validation together with an integer overflow	improper input validation together with an integer overflow in the eap-tls protocol implementation	0
+CVE-2009-2621++ibm++nvd-1922	an unspecified error when processing http headers	"does not properly enforce ""buffer limits and related bound checks"	0
+CVE-2008-3972++ibm++openwall-362	the failure to apply security updates	a too strict check	0
+CVE-2020-9488++openwall++nvd-976	making ssl settings configurable for smtps mail sessions	a man-in-the-middle attack which could leak any log messages sent through that appender	0
+CVE-2015-5243++ibm++openwall-2192	sending a specially-crafted request	insufficient sanitization of returned whois data	0
+CVE-2012-2134++openwall++nvd-3078	a specially-crafted dns query is issued	does not properly handle ldap query errors	0
+CVE-2014-7154++ibm++nvd-610	an error in the hvmop_track_dirty_vram() function	does not ensure possession of the guarding lock for dirty video ram tracking	0
+CVE-2012-3548++ibm++openwall-2694	persuading a victim to open a specially-crafted packet trace file	infinite loop	0
+CVE-2010-2947++ibm++nvd-142	improper bounds checking	overflow in the hx_split function in string.c	0
+CVE-2014-4027++ibm++nvd-3391	the failure to properly initialize a certain data structure	does not properly initialize a certain data structure	1
+CVE-2012-4284++ibm++nvd-1595	the setuid-set viscosityhelper binary executes specific scripts	a path name validation issue in the setuid-set viscosityhelper binary	0
+CVE-2009-4895++ibm++openwall-1699	a race condition in the tty_fasync function	null pointer	0
+CVE-2017-5208++ibm++openwall-1440	an integer overflow in the wrestool program	an exploitable crash in wrestool from the icoutils	0
+CVE-2016-5418++ibm++openwall-1108	the improper handling of hardlink archive entries of non-zero size	immediately extracts it without any hash verification	0
+CVE-2012-3358++ibm++openwall-1524	improper bounds checking when parsing malicious jpeg 2000 files	performed parsing of jpeg2000 having certain number of tiles and tilesizes	0
+CVE-2019-6215++ibm++exploitdb-701	a type confusion in the webkit component	a mismatch between the value of the property and its attributes	0
+CVE-2005-3797++exploitdb++nvd-1343	unauthorized access	execute arbitrary php code	0
+CVE-2016-7567++exploitdb++openwall-83	the occurence of the bug the application actually detects the error and ignores the malicious packet	lack of bound check	0
+CVE-2011-4347++ibm++openwall-1001	the failure to check user privileges when requesting pci device assignment by the kvm_vm_ioctl_assign_device function	not check if    the user requesting assignment was privileged or not	0
+CVE-2013-2241++ibm++openwall-3104	improper user access verification by the data_rest core module	"guess the ""full "" image file link without thinking too hard"	0
+CVE-2018-17141++ibm++openwall-809	the code handling fax page reception in jpeg support function	no bounds check before writing to and incrementing recvrow	0
+CVE-2020-12137++openwall++nvd-3097	file attachments in list archives	uses the .obj extension for scrubbed application/octet-stream mime parts	1
+CVE-2017-8681++exploitdb++nvd-3245	we can immediately observe various kernel-mode addresses in the dumped memory area	improperly handles objects in memory	0
+CVE-2017-14497++ibm++openwall-292	the improper handling of vnet headers issue in the tpacket_rcv function in net/packet/af_packet.c	bad access	0
+CVE-2008-0983++ibm++nvd-784	an error when calculating allocated file descriptor arrays	does not properly calculate the size of a file descriptor array	0
+CVE-2013-4812++exploitdb++nvd-3363	failed to get a valid session	does not properly validate the filename argument	0
+CVE-2010-3077++exploitdb++openwall-2615	fails to sufficiently sanitize user-supplied data	"""improper sanitization of 'subdir ' url parameter"""	1
+CVE-2011-2201++ibm++nvd-3002	an error in the form validation	does not properly preserve the taint attribute of data	1
+CVE-2007-6746++openwall++nvd-2482	not check ssl certificates	does not verify (1 ) that the issuer is a trusted ca	0
+CVE-2018-6180++exploitdb++nvd-256	a flaw in the profile section of online voting system	a flaw in the profile section	1
+CVE-2014-7145++ibm++openwall-2620	a null pointer dereference in smb2_tcon	a remote null pointer dereference on the client	1
+CVE-2011-0539++ibm++openwall-500	an uninitialized variable in the key_certify() function when generating legacy certificates	"""the contents of the stack at this point in ssh-keygen's execution do not appear to leak the ca private key or other sensitive data"""	0
+CVE-2014-0100++ibm++nvd-1337	a race condition in the inet_frag_intern function	race condition in the inet_frag_intern function in net/ipv4/inet_fragment.c	1
+CVE-2011-0539++openwall++nvd-2391	"""the contents of the stack at this point in ssh-keygen's execution do not appear to leak the ca private key or other sensitive data"""	does not initialize the nonce field	0
+CVE-2013-4163++ibm++openwall-1919	an error while appending data to an ipv6 socket with udp_corked option set	panic while appending	0
+CVE-2018-11210++ibm++openwall-520	improper bounds checking by xmldocument::parse function in libtinyxml2.so	not check that the precondition is satisfied	0
+CVE-2015-7516++ibm++openwall-2342	a null pointer dereference when using the ifwd app	no answer	0
+CVE-2017-1000382++ibm++nvd-1896	world readable files	ignores umask	0
+CVE-2017-8798++ibm++openwall-3141	an integer signedness error	provides a negative chunksize	0
+CVE-2012-6150++ibm++openwall-452	the handling of invalid require_membership_of group names by the winbind_name_list_to_sid_string_list function	fails open begin pgp signed message	0
+CVE-2015-3419++ibm++openwall-2376	the improper validation of input	input validation failure	1
+CVE-2008-4775++ibm++exploitdb-1132	improper validation of user-supplied input by the pmd_pdf.php script	fails to sufficiently sanitize user-supplied data	0
+CVE-2013-4812++ibm++exploitdb-2987	the improper validation of the filename argument by the updatecertificatesservlet	failed to get a valid session	0
+CVE-2011-0539++ibm++openwall-2914	an uninitialized variable in the key_certify() function when generating legacy certificates	legacy certificates have been issued with a vulnerable openssh version	0
+CVE-2012-3450++ibm++openwall-2361	persuading a victim to visit a specially-crafted web site	prepared statements	0
+CVE-2019-16275++openwall++nvd-1743	inject a specially constructed unauthenticated ieee 802.11 frame to the access point	mishandled . this is a denial of service that should have been prevented by pmf (aka management frame protection).	0
+CVE-2011-1478++ibm++openwall-169	a null pointer dereference in the generic receive offload (gro ) code	reset dev pointer on reuse	1
+CVE-2018-17141++ibm++openwall-810	the code handling fax page reception in jpeg support function	not perform a full test or audit on the software	0
+CVE-2011-0539++openwall++nvd-2392	legacy certificates generated by openssh might contain data from the stack	does not initialize the nonce field	0
+CVE-2015-8345++openwall++nvd-3185	an infinite loop	the eepro100 emulator in qemu qemu-kvm blank	0
+CVE-2017-7533++exploitdb++nvd-2818	incorrect alignment	race condition in the fsnotify implementation	1
+CVE-2020-12137++openwall++nvd-3098	not try to sniff the file type	uses the .obj extension for scrubbed application/octet-stream mime parts	1
+CVE-2012-2134++openwall++nvd-3077	performed ldap connection errors handling attempted to recover	does not properly handle ldap query errors	0
+CVE-2009-3726++ibm++exploitdb-853	a null pointer dereference error in the nfs4_proc_lock() function	unable to handle kernel null pointer dereference	1
+CVE-2013-1775++ibm++openwall-1613	an error when a systems battery within the local clock has been fully drained	does not require a password and is not logged	0
+CVE-2016-5418++ibm++openwall-1111	the improper handling of hardlink archive entries of non-zero size	error exit delayed from previous errors	0
+CVE-2015-8012++ibm++openwall-533	an error in the assert() function	large management address	0
+CVE-2012-4284++ibm++exploitdb-2398	the setuid-set viscosityhelper binary executes specific scripts	the hullabaloo from the tunnelblick local root	1
+CVE-2013-4485++ibm++openwall-3204	the improper handling of ger attr search requests	improper handling of ger attr searches	1
+CVE-2016-3156++openwall++nvd-3266	"""don't do expensive useless work during inetdev"""	mishandles destruction of device objects	1
+CVE-2011-0708++ibm++openwall-2532	the improper validation of input by the exif_read_data() function during image header parsing	a memory access violation	0
+CVE-2001-1246++ibm++nvd-2255	does not properly cleanse the 5th parameter to the mail() function	does not properly cleanse the 5th parameter to the mail() function	1
+CVE-2007-6746++openwall++nvd-1760	not check ssl certificates	does not verify (1 ) that the issuer is a trusted ca	0
+CVE-2013-1809++openwall++nvd-1277	failure to create tmp dir safely	insecure temporary directories	1
+CVE-2019-1150++ibm++nvd-3170	improper handling of embedded fonts	improperly handles specially crafted embedded fonts	1
+CVE-2010-0397++ibm++openwall-3121	a null pointer dereference error in the xmlrpc_decode_request() function	"""null pointer dereference in php's xmlrpc extension"""	1
+CVE-2012-5519++ibm++openwall-2708	the improper dropping of privileges for systemgroup members	not run cupsd web server as root	0
+CVE-2009-3152++ibm++exploitdb-2711	improper validation of user-supplied input by the index.php script	fails to sufficiently sanitize user-supplied data	0
+CVE-2018-4089++ibm++exploitdb-2718	a memory corruption in the webkit component	invalid path to external symbolizer	0
+CVE-2014-9904++openwall++nvd-2427	fix an integer overflow check	does not properly check for an integer overflow	1
+CVE-2018-11574++openwall++nvd-2950	the length could have a negative value	improper input validation together with an integer overflow in the eap-tls protocol implementation	0
+CVE-2014-4717++ibm++nvd-2567	improper validation of user-supplied input by the options-general.php script	not properly handled in the homepage	0
+CVE-2002-1178++ibm++exploitdb-1563	a vulnerability in the cgiservlet	a flaw in the cgiservlet in jetty	1
+CVE-2012-3450++openwall++nvd-956	prepared statements	not properly determine the end of the query string during parsing of prepared statements	0
+CVE-2016-2856++ibm++exploitdb-814	the lack of a namespace check associated with file-descriptor passing in the ptchownarbitraryptsaccessviausernamespace document	failed gid map write	0
+CVE-2012-2134++openwall++nvd-3076	an error in the ldap backend	does not properly handle ldap query errors	0
+CVE-2002-2296++ibm++exploitdb-1393	improper filtering of urls	insufficient sanitization of uri parameters in some scripts	0
+CVE-2016-9011++ibm++openwall-1519	memory allocation failure in the wmf_malloc function in api.c	failed to allocate	0
+CVE-2013-4494++openwall++nvd-1238	lack of embargo	does not take the page_alloc_lock and grant_table.lock in the same order	0
+CVE-2017-9373++ibm++openwall-2165	repeatedly hot-unplugging the ahci device	a host memory leakage issue	0
+CVE-2012-2369++ibm++openwall-66	a format string error in the log_message_cb() function	followups to the otr-users mailing list	1
+CVE-2007-2083++exploitdb++nvd-499	insufficient check of function arguments in the driver of the firewall	does not validate certain arguments before being passed to hooked ssdt function handlers	1
+CVE-2011-0708++ibm++openwall-2531	the improper validation of input by the exif_read_data() function during image header parsing	two images (case a and b ) have been properly crafted	0
+CVE-2015-6748++ibm++openwall-462	improper validation of user-supplied input	incomplete tags at eof	0
+CVE-2011-2903++openwall++nvd-2048	a command line argument	a long command line argument	1
+CVE-2019-20382++ibm++nvd-465	a memory leak in zrle_compress_data in ui/vnc-enc-zrle.c	has a memory leak in zrle_compress_data in ui/vnc-enc-zrle.c	1
+CVE-2013-4449++openwall++nvd-402	query the directory and immediately unbind from the server	does not properly count references	0
+CVE-2016-1576++exploitdb++openwall-2846	place an userns overlayfs mount over a fuse mount	using the elevated privileges within the container	1
+CVE-2009-3691++ibm++exploitdb-2645	improper bounds checking when processing	the protosize or serversize fields	0
+CVE-2007-3956++ibm++nvd-2329	an error in the login.tscmd script	does not validate parameter value lengths and	0
+CVE-2016-10027++ibm++openwall-231	a race condition in the xmpp library when the securitymode.required tls setting has been set	required not always enforced	0
+CVE-2005-3797++exploitdb++nvd-835	unauthorized access	execute arbitrary php code	0
+CVE-2013-0250++ibm++openwall-26	an error in the initialization of hmac key	improper hmac initialization	1
+CVE-2010-4262++ibm++openwall-1205	improper bounds checking when processing fig images	the privileges of the user running the executable	0
+CVE-2014-8177++ibm++openwall-3197	the failure to enforce metadata constraints	different codebases	0
+CVE-2011-3856++ibm++exploitdb-1354	improper validation of user-supplied input	fails to properly sanitize user-supplied input	1
+CVE-2016-1576++exploitdb++openwall-2848	copy_up including all file attributes	using the elevated privileges within the container	1
+CVE-2017-8798++ibm++openwall-3143	an integer signedness error	provide an arbitrarily large `content_length `	0
+CVE-2016-3156++openwall++nvd-3267	a full nf conntrack table purge for every address	mishandles destruction of device objects	1
+CVE-2016-5418++ibm++openwall-1109	the improper handling of hardlink archive entries of non-zero size	the symlink checks are effectively disabled for long pathnames	0
+CVE-2006-1364++ibm++nvd-2921	improper referencing of com and com + objects	does not properly handle when the aspcompat directive is not used when referencing com components in asp.net	0
+CVE-2016-1576++exploitdb++openwall-2847	place an userns overlayfs mount over a fuse mount	having control over the fuse process simulating the filesystem	1
+CVE-2015-2780++exploitdb++openwall-2586	"""the file upload didn't require authentication ."""	"""file upload didn't require authentication"""	1
+CVE-2016-5395++ibm++openwall-3394	improper validation of user-supplied input by the create user functionality in the policy admin tool	a stored cross-site scripting in the create user functionality	1
+CVE-2015-1328++ibm++openwall-1096	incorrect permission checks when creating new files in the upper filesystem directory by the overlayfs filesystem	incorrect permission checks	0
+CVE-2018-17182++ibm++exploitdb-2295	the improper handling of sequence number overflows by the vmacache_flush_all function	the vma cache references a vma struct that has been reallocated to another process in the meantime	0
+CVE-2013-0250++ibm++openwall-25	an error in the initialization of hmac key	improper    hmac initialization	1
+CVE-2013-0250++ibm++openwall-27	an error in the initialization of hmac key	the hmac key was not initialized properly	1
+CVE-2017-8296++openwall++nvd-378	divulging the password in clear text	creates a history file in ~/.kedpm/history that is written in cleartext . all of the commands performed in the password manager	0
+CVE-2009-1895++ibm++nvd-642	the per_clear_on_setid mask not including addr_compat_layout or mmap_page_zero	does not clear the addr_compat_layout and mmap_page_zero flags when executing a setuid or setgid program	0
+CVE-2008-4775++exploitdb++openwall-659	fails to sufficiently sanitize user-supplied data	"""doesn't (or can't ) follow solid configuration practices"""	0
+CVE-2010-4262++ibm++openwall-1206	improper bounds checking when processing fig images	image with crafted color definition	0
+CVE-2006-4541++ibm++exploitdb-1457	an error in the ntopensection() function in the rapdrv.sys driver	the application fails to properly sanitize user-supplied input	0
+CVE-2011-2499++ibm++openwall-2180	improper validation of user-supplied input	multiple parameters are not properly sanitized	1
+CVE-2012-6111++openwall++nvd-1580	not discard stored secrets	does not discard stored secrets when using gnome_keyring_lock_all_sync function	0
+CVE-2016-2856++ibm++openwall-446	the lack of a namespace check associated with file-descriptor passing in the ptchownarbitraryptsaccessviausernamespace document	user namespaces greatly increases the attack surface	0
+CVE-2012-6111++openwall++nvd-1579	* hunkering down and discarding all secrets	does not discard stored secrets when using gnome_keyring_lock_all_sync function	0
+CVE-2012-4564++openwall++nvd-3364	not check the return value of tiffscanlinesize() function	does not check the return value of the tiffscanlinesize function	1
+CVE-2010-4524++openwall++nvd-3199	failed to properly escape certain html sequences	a malformed start tag and end tag for a script element	0
+CVE-2015-8239++ibm++openwall-2052	improper digest verification when matching rules	a race condition	0
+CVE-2017-14497++ibm++openwall-293	the improper handling of vnet headers issue in the tpacket_rcv function in net/packet/af_packet.c	mishandles vnet headers	0
+CVE-2012-5896++ibm++nvd-1103	an uninitialized pointer	does not properly implement the add method	0
+CVE-2009-3525++ibm++nvd-2806	the improper validation of the password at startup time when the grub.conf file is configured with password protection	does not support the password option in grub.conf for para-virtualized guests	0
+CVE-2011-4099++ibm++nvd-3232	"""does not change the process ' current working directory after being executed with the --chroot option"""	does not change the current working directory when the --chroot option is specified	1
+CVE-2006-0783++ibm++exploitdb-1926	improper validation of user-supplied input by the page.php script	fails to properly sanitize user-supplied input before using it in dynamically generated content	0
+CVE-2008-1868++ibm++nvd-1284	improper restrictions on the sauvbase.php script	does not require authentication	0
+CVE-2017-8798++ibm++openwall-3147	an integer signedness error	missing an error check for `realloc `	0
+CVE-2019-1262++exploitdb++nvd-1730	does not properly sanitize a specially crafted web request to an affected sharepoint server	does not properly sanitize a specially crafted web request to an affected sharepoint server	1
+CVE-2009-2851++ibm++openwall-2439	improper validation of user-supplied input	unescaped html urls	0
+CVE-2017-9470++ibm++nvd-923	persuading a victim to open a specially-crafted file	a crafted file	0
+CVE-2007-6746++openwall++nvd-2483	"""not check the server's ssl/tls certificate for validity"""	does not verify (1 ) that the issuer is a trusted ca	0
+CVE-2014-7975++openwall++nvd-2813	"""doesn't require privilege to run"""	does not require the cap_sys_admin capability for do_remount_sb calls that change the root filesystem to read-only	0
+CVE-2016-7161++openwall++nvd-848	the netclientstate object in heap will be overflowed	a large ethlite packet	0
+CVE-2016-3156++openwall++nvd-3268	destroy destroy of network interface with huge number of ipv4 addresses keeps rtnl_lock for a very long time	mishandles destruction of device objects	1
+CVE-2018-20669++openwall++nvd-3292	"a lack of ""access_ok()"" checks"	an issue where a provided address with access_ok() is not checked	0
+CVE-2013-1670++exploitdb++nvd-534	ultimately inject malicious javascript code into a context running with chrome:// privileges .	does not prevent acquisition of chrome privileges during calls to content level constructors	1
+CVE-2016-10027++ibm++openwall-232	a race condition in the xmpp library when the securitymode.required tls setting has been set	"stripping the ""starttls "" feature from the server response with a man-in-the-middle tool"	0
+CVE-2016-5418++ibm++openwall-1119	the improper handling of hardlink archive entries of non-zero size	char *); static void	0
+CVE-2019-3871++openwall++nvd-1516	insufficient validation	insufficient validation of data coming from the user when building a http request from a dns query in the http connector of the remote backend	0
+CVE-2013-4449++openwall++nvd-403	the rwm overlay not doing reference counting properly	does not properly count references	1
+CVE-2018-10900++ibm++openwall-2876	improper input validation	perfect forward secrecy	0
+CVE-2019-3814++ibm++openwall-1179	the improper authentication of valid trusted certificates	suitable client certificate	0
+CVE-2018-16862++ibm++nvd-2173	a flaw in the way that the cleancache subsystem clears an inode after the final file truncation	a security flaw was found in the linux kernel	0
+CVE-2012-0842++ibm++openwall-482	the creation of cookie files with insecure world-readable permissions	does not protect its cookie jar against access read access from    other local users	1
+CVE-2018-11574++openwall++nvd-2948	uses packages with variable lengths and passing a short package message	improper input validation together with an integer overflow in the eap-tls protocol implementation	0
+CVE-2016-2856++ibm++openwall-445	the lack of a namespace check associated with file-descriptor passing in the ptchownarbitraryptsaccessviausernamespace document	not intercept all keystrokes and display faked output from commands never really executed	0
+CVE-2010-2491++ibm++openwall-1195	improper validation of user-supplied input	processing pagetemplate template for	0
+CVE-2009-4989++ibm++exploitdb-2422	improper validation of user-supplied input by the index.php script	fails to properly sanitize user-supplied input	0
+CVE-2010-1890++exploitdb++nvd-1482	the routine nt!seobjectcreatesaclaccessbits omits proper bounds checking	does not properly validate acls on kernel objects	0
+CVE-2012-3500++ibm++openwall-354	a toctou race condition	performed management of its temporary files used for standard output and standard error output	0
+CVE-2008-5983++openwall++nvd-2930	failure to provide specified functionality	does not contain a path separator	0
+CVE-2015-8375++ibm++openwall-1323	improper validation of user-supplied input by the robots.php script	fails to sanitize the robots.txt file content as it loads	0
+CVE-2019-9496++openwall++nvd-3223	missing state validation	an invalid authentication sequence	1
+CVE-2013-2100++ibm++openwall-654	the improper validation of ssl certificates	binary package installer	0
+CVE-2017-10989++ibm++openwall-2869	improper bounds checking by getnodesize function in ext/rtree/rtree.c	identifiable information	0
+CVE-2017-8112++ibm++openwall-1461	a flaw in hw/scsi/vmw_pvscsi.c	infinite loop	0
+CVE-2009-1670++ibm++nvd-2294	improper restrictions	does not require administrative authentication	0
+CVE-2015-7940++openwall++nvd-1683	invalid curve attack on bouncycastle	does not validate a point is withing the elliptic curve	0
+CVE-2012-4564++openwall++nvd-3365	when tiffscanlinesize encountered    an integer-overflow and returned zero	does not check the return value of the tiffscanlinesize function	0
+CVE-2018-11574++openwall++nvd-2946	every check advances the pointer and decrements the length	improper input validation together with an integer overflow in the eap-tls protocol implementation	0
+CVE-2016-6835++ibm++openwall-1431	a buffer-over-read issue in vmxnet_tx_pkt_parse_headers function in hw/net/vmxnet_tx_pkt.c	does not check for ip header length	0
+CVE-2010-3442++openwall++nvd-509	a large enough size	a crafted (1 ) sndrv_ctl_ioctl_elem_add or (2 ) sndrv_ctl_ioctl_elem_replace ioctl call	0
+CVE-2011-0708++ibm++openwall-2533	the improper validation of input by the exif_read_data() function during image header parsing	a casting vulnerability that occurs during the image header parsing	0
+CVE-2018-17141++ibm++openwall-808	the code handling fax page reception in jpeg support function	uninitialized pointer write	0
+CVE-2015-8396++ibm++openwall-2475	using a specially-crafted image data	copies dicom image data to a buffer	1
+CVE-2012-0813++ibm++openwall-464	an error in configmanager.py	wicd writes sensitive information	0
+CVE-2007-5962++ibm++exploitdb-2256	a large number of cwd commands	fails to free allocated memory	0
+CVE-2016-5418++ibm++openwall-1117	the improper handling of hardlink archive entries of non-zero size	char *	0
+CVE-2017-7558++openwall++nvd-884	an out-of-bound read	a kernel data leak due to an out-of-bound read was found in the linux kernel	0
+CVE-2008-5983++ibm++nvd-1329	an untrusted search path vulnerability related to the pysys_setargv() function when setting sys.path	does not contain a path separator	0
+CVE-2008-5028++ibm++openwall-3353	improper validation of user-supplied input by the cmd.cgi script	disabling monitoring of the network	1
+CVE-2009-4114++ibm++nvd-1192	a null pointer dereference in kl1.sys.v	does not properly validate input to ioctl 0x0022c008	0
+CVE-2010-1643++openwall++nvd-2717	a null pointer	does not properly handle the export of shmemfs objects by knfsd	0
+CVE-2011-0539++ibm++openwall-503	an uninitialized variable in the key_certify() function when generating legacy certificates	legacy certificates have been issued with a vulnerable openssh version	0
+CVE-2014-2653++ibm++openwall-1467	an error in the ssh client when handling a hostcertificate	"""doesn't then check the dns for sshfp records"""	0
+CVE-2012-6703++ibm++nvd-1988	an integer overflow in the snd_compr_allocate_buffer() function	integer overflow in the snd_compr_allocate_buffer function in sound/core/compress_offload.c	1
+CVE-2016-5418++ibm++openwall-1105	the improper handling of hardlink archive entries of non-zero size	refuses to extract _through _ symlinks	0
+CVE-2017-8418++ibm++nvd-2425	improper use of /tmp to store cache files	does not use /tmp in safe way	0
+CVE-2018-6126++exploitdb++nvd-2937	a heap overflow in skia when drawing paths with antialiasing turned off	a precision error in skia	1
+CVE-2005-2453++ibm++exploitdb-1728	improper validation of user-supplied input	a failure in the application to properly sanitize user-supplied input	1
+CVE-2017-8798++ibm++openwall-3151	an integer signedness error	miniupnpc integer signedness error	0
+CVE-2013-1410++ibm++exploitdb-1327	improper validation of user-supplied input	fails to properly sanitize user-supplied input	0
+CVE-2015-2686++openwall++nvd-2142	not validate	does not validate certain range data for (1 ) sendto and (2 ) recvfrom system calls	0
+CVE-2017-7558++openwall++nvd-1622	up to 100 bytes of the slab data could be leaked to a userspace	a kernel data leak due to an out-of-bound read was found in the linux kernel	0
+CVE-2014-3740++ibm++exploitdb-122	improper validation of user-supplied input by the /portal script	persistent cross-site scripting	0
+CVE-2017-8798++ibm++openwall-3140	an integer signedness error	using some upnp code from miniupnpd	0
+CVE-2017-8798++ibm++openwall-3144	an integer signedness error	the miniupnp project for providing a fixed version	0
+CVE-2002-1364++ibm++nvd-2634	improper bounds checking of user-supplied input	buffer overflow in the get_origin function	0
+CVE-2015-8768++ibm++nvd-476	the improper validation of input during package installation	does not require files in package filesystem tarballs to start with	1
+CVE-2017-14497++ibm++openwall-295	the improper handling of vnet headers issue in the tpacket_rcv function in net/packet/af_packet.c	writing up to 10 bytes to a kernel memory outside of a kernel buffer	0
+CVE-2016-10027++openwall++nvd-2815	"stripping the ""starttls "" feature from the server response with a man-in-the-middle tool"	"stripping the ""starttls "" feature from a server response"	1
+CVE-2017-8112++ibm++openwall-1462	a flaw in hw/scsi/vmw_pvscsi.c	infinite loop issue	0
+CVE-2017-12154++ibm++openwall-1218	a flaw in the prepare_vmcs02 function in arch/x86/kvm/vmx.c	disabled external interrupts	0
+CVE-2007-6654++ibm++nvd-1737	improper bounds checking by the downloadandexecute() function	buffer overflow in a certain activex control	0
+CVE-2010-4262++ibm++openwall-2878	improper bounds checking when processing fig images	the privileges of the user running the executable	0
+CVE-2012-3409++ibm++nvd-1248	the insecure mounting of filesystems without the ms_nosuid and ms_nodev flags	does not restrict mounting filesystems with nosuid	0
+CVE-2013-1775++ibm++openwall-1612	an error when a systems battery within the local clock has been fully drained	a fully drained battery on some systems	0
+CVE-2012-3549++ibm++exploitdb-2940	a null pointer dereference in the sctp protocol implementation	a logic bug	1
+CVE-2011-2695++ibm++openwall-2409	multiple off-by-one errors in the ext4 subsystem	writing data to the last block of sparse file	0
+CVE-2017-8798++ibm++openwall-3142	an integer signedness error	a bounds check that mistakenly casts an unsigned attacker-provided chunksize to signed int	0
+CVE-2008-3225++ibm++openwall-2160	an unspecified error in ldap	"a missing ""ldap security fix"	0
+CVE-2016-4437++ibm++openwall-1083	"the use of a default cipher key for the \\""remember me\\"" feature"	"a default cipher key is used for the ""remember me "" feature when not explicitly configured"	0
+CVE-2017-10989++ibm++openwall-2868	improper bounds checking by getnodesize function in ext/rtree/rtree.c	specific	0
+CVE-2007-3267++ibm++exploitdb-2627	improper validation of user-supplied input by log actions	fails to properly sanitize user-supplied input	0
+CVE-2015-9230++ibm++openwall-548	improper validation of user-supplied input by the db-backup-security.php script	the added xss payload will be echoed back from the server without validating the input	1
+CVE-2014-4014++openwall++nvd-1550	the internal function inode_capable was used inappropriately	does not properly consider that namespaces are inapplicable to inodes	0
+CVE-2019-15031++ibm++openwall-607	improper handling of an interrupt	leaking data from one process to another	0
+CVE-2007-2083++exploitdb++nvd-1830	insufficient check of function arguments in the driver of the firewall	does not validate certain arguments before being passed to hooked ssdt function handlers	0
+CVE-2012-0056++openwall++nvd-2702	the assigned date can be after the original disclosure date	does not properly check permissions when writing to /proc/<pid>/mem	0
+CVE-2018-12907++ibm++nvd-3324	improper validation of a url field received from the google cloud storage api server	"use of ""rclone sync "" to migrate data between two google cloud storage buckets"	1
+CVE-2011-0546++ibm++nvd-544	an error in the communication protocol implementation	does not validate identity information sent between the media server and the remote agent	1
+CVE-2012-2414++ibm++nvd-215	the failure to restrict access to the manager interface	does not properly enforce system class authorization requirements	1
+CVE-2010-0733++exploitdb++nvd-31	fails to properly validate user-supplied data before using it in memory-allocation calculations	integer overflow in src/backend/executor/nodehash.c	0
+CVE-2010-3442++openwall++nvd-510	performing arithmetic operations on a user-provided size without checking for integer overflow	a crafted (1 ) sndrv_ctl_ioctl_elem_add or (2 ) sndrv_ctl_ioctl_elem_replace ioctl call	0
+CVE-2011-1930++ibm++openwall-3173	an error when the dhcp options written by ipconfig to /tmp/net-$device.conf are not properly escaped	not being clear	0
+CVE-2016-5418++ibm++openwall-1104	the improper handling of hardlink archive entries of non-zero size	the initial snapshot tarball is not properly verified	0
+CVE-2012-3436++ibm++nvd-380	an error when handling a request to clear a water tile	does not properly validate requests to clear a water tile	1
+CVE-2014-2653++ibm++openwall-1468	an error in the ssh client when handling a hostcertificate	a malicious server	0
+CVE-2016-2384++ibm++exploitdb-2290	a double-free in the alsa usb midi driver	the kernel crashes on failure)	0
+CVE-2019-3814++ibm++openwall-1175	the improper authentication of valid trusted certificates	none of the mtas (postfix	0
+CVE-2010-3713++ibm++openwall-3252	improper handling of forum configurations	restricted forum access permissions	0
+CVE-2017-7558++openwall++nvd-885	up to 100 bytes of the slab data could be leaked to a userspace	a kernel data leak due to an out-of-bound read was found in the linux kernel	0
+CVE-2010-0744++ibm++openwall-1331	improper verification of ssl certificates	improper ssl certificate	1
+CVE-2010-1437++openwall++nvd-2293	accessing the space of the freed keyring	keyctl session commands that trigger access to a dead keyring that is undergoing deletion by the key_cleanup function	0
+CVE-2009-0520++ibm++nvd-1092	improper bounds checking related to an invalid object reference	does not properly remove references to destroyed objects during shockwave flash file processing	0
+CVE-2012-3500++ibm++openwall-355	a toctou race condition	fails with eexists	0
+CVE-2011-0539++ibm++openwall-2911	an uninitialized variable in the key_certify() function when generating legacy certificates	"""the contents of the stack at this point in ssh-keygen's execution do not appear to leak the ca private key or other sensitive data"""	0
+CVE-2015-2686++ibm++openwall-2188	the failure to validate the user provided ubuf pointer by sys_sendto/sys_recvfrom	not validate	0
+CVE-2014-3466++ibm++nvd-2647	improper bounds checking by the read_server_hello() and _gnutls_read_server_hello() functions when parsing session ids from server hello packets	buffer overflow in the read_server_hello function in lib/gnutls_handshake.c	0
+CVE-2015-2780++exploitdb++openwall-2585	"""the file upload didn't require authentication ."""	insecure file upload	1
+CVE-2012-4564++openwall++nvd-3366	this value was not checked .	does not check the return value of the tiffscanlinesize function	0
+CVE-2015-1573++ibm++nvd-2764	an error in the nft_flush_table function in the linux kernel netfilter tables implementation	mishandles the interaction between cross-chain jumps and ruleset flushes	1
+CVE-2007-0054++ibm++exploitdb-382	improper validation of user-supplied input by the gbrowse.php script	the application fails to properly sanitize user-supplied input	1
+CVE-2013-1775++ibm++openwall-2714	an error when a systems battery within the local clock has been fully drained	"""sudo commands without knowing the logged in user's password"""	0
+CVE-2016-5636++openwall++nvd-1501	heap corruption	have unspecified impact	0
+CVE-2013-1859++ibm++nvd-2617	improper validation of access permissions	does not properly restrict access to the configuration options	0
+CVE-2008-0960++ibm++openwall-961	the failure to check the authentication field of snmpv3 packets by an incomplete hmac authentication code	incomplete hmac authentication code	0
+CVE-2009-1390++ibm++openwall-2121	improper verification of the x.509 certificate chains	individual certificates in the chain where checked and accepted	0
+CVE-2014-2309++ibm++nvd-2350	an error in /net/ipv6/route.c when creating routes from router advertisements	does not properly count the addition of routes	0
+CVE-2008-3225++ibm++openwall-2161	an unspecified error in ldap	"not configure .htaccess to apply certain security checks that ""block common exploits "" to sef urls"	0
+CVE-2011-2720++ibm++nvd-2117	an error in the autocompletion.php script	does not blacklist certain username and password fields	0
+CVE-2014-3552++ibm++nvd-1938	the failure to restrict empty sessions and confusing sessions	does not check whether a session id is empty	0
+CVE-2013-2010++ibm++openwall-1279	the handling of certain macros	requires security string in order to execute	0
+CVE-2009-2847++ibm++openwall-957	a memory leak in the sigaltstack() function	not clear certain padding bytes from a structure	0
+CVE-2015-1416++ibm++openwall-1652	the lack of validation of patch stream	"an ""incomplete fix for cve-2015-1416"	0
+CVE-2016-2217++ibm++openwall-1032	the hard coded 1024 bit dh p parameter not being prime	using openssl dhparam command	0
+CVE-2012-1835++exploitdb++openwall-2321	fails to properly sanitize user-supplied input	additional csrf protection in the customizer	0
+CVE-2011-1930++ibm++openwall-3175	an error when the dhcp options written by ipconfig to /tmp/net-$device.conf are not properly escaped	ipconfig sh script with unescaped dhcp options	0
+CVE-2012-2942++ibm++openwall-1028	improper bounds checking when copying data into the trash buffer	a boundary error when copying data into the trash buffer	1
+CVE-2009-3286++ibm++nvd-3395	improper inode cleaning when o_excl create fails	insecure settings such as setuid bits	0
+CVE-2016-2856++ibm++exploitdb-1210	the lack of a namespace check associated with file-descriptor passing in the ptchownarbitraryptsaccessviausernamespace document	failed gid map write	0
+CVE-2013-1809++openwall++nvd-24	failure to create tmp dir safely	insecure temporary directories	1
+CVE-2016-8909++ibm++openwall-2733	an error in the intel_hda_xfer function in hw/audio/intel-hda.c	an infinite loop	0
+CVE-2008-3650++openwall++nvd-2905	"""unescaped output"	multiple unspecified vulnerabilities	0
+CVE-2013-4247++ibm++openwall-1669	an off-by-one error in build_unc_path_to_root	writing one byte past an allocated memory area	0
+CVE-2012-3549++ibm++exploitdb-2941	a null pointer dereference in the sctp protocol implementation	the page fault is a write av at 0x0	1
+CVE-2019-3814++ibm++openwall-1174	the improper authentication of valid trusted certificates	"""has access to a web server's certificate (and key)"""	0
+CVE-2006-3948++ibm++exploitdb-2175	improper validation of user-supplied input	"""the 'modules.php ' script"""	0
+CVE-2014-9585++ibm++openwall-2763	the failure to properly choose memory locations for the vdso area by the vdso_addr function	randomization of vdso seems to be low and the base address could be bruteforced	0
+CVE-2013-1775++ibm++openwall-2716	an error when a systems battery within the local clock has been fully drained	does not require a password and is not logged	0
+CVE-2008-5569++ibm++exploitdb-1544	improper validation of user-supplied input	fails to sufficiently sanitize user-supplied data	1
+CVE-2013-2099++ibm++openwall-278	an error in the ssl.match_hostname() function when matching certificates with multiple wildcard characters	original message	0
+CVE-2007-5962++exploitdb++nvd-3192	fails to free allocated memory	memory leak in a certain red hat patch	0
+CVE-2015-7315++ibm++openwall-1881	improper validation of registration function	unauthorized user creation	0
+CVE-2001-1178++exploitdb++nvd-2572	gaining elevated privileges	gain privileges	1
+CVE-2017-8798++ibm++openwall-3150	an integer signedness error	s missing a check for the `nullptr `	0
+CVE-2015-1328++ibm++openwall-1098	incorrect permission checks when creating new files in the upper filesystem directory by the overlayfs filesystem	not correctly check file permissions	0
+CVE-2017-8798++ibm++openwall-3148	an integer signedness error	the requested size of memory cannot be allocated	0
+CVE-2017-8681++exploitdb++nvd-3244	the stack spraying part of the poc code is disabled	improperly handles objects in memory	0
+CVE-2017-8798++ibm++openwall-3145	an integer signedness error	"using host libthread_db library """	0
+CVE-2007-0998++openwall++nvd-1383	"""don't seem to have a copy of the request"""	as used by xen and possibly other environments	0
+CVE-2017-1000410++openwall++nvd-675	bluetooth	a vulnerability lies in the processing of incoming l2cap commands - configrequest	0
+CVE-2017-8798++ibm++openwall-3138	an integer signedness error	fails to properly handle invalid chunked-encoded http responses	0
+CVE-2008-3937++ibm++exploitdb-106	improper validation of user-supplied input by the user_admin.php	fails to sufficiently sanitize user-supplied data	1
+CVE-2017-18922++openwall++nvd-897	old websocket decoding patch	not properly decode certain websocket frames	0
+CVE-2012-6329++ibm++openwall-88	the improper validation of input by the _compile() function	not properly quote metacharacters	0
+CVE-2007-0998++openwall++nvd-1382	"""don't seem to have a copy of the request"""	the vnc server implementation in qemu	0
+CVE-2010-4524++openwall++nvd-3200	failed to properly escape certain html sequences	as demonstrated by <scr<body>ipt > and </scr<body>ipt > sequences	0
+CVE-2011-3354++ibm++openwall-3027	an error in the ctcpparser::packedreply() function	not process certain ctcp requests correctly	0
+CVE-2010-3077++exploitdb++openwall-2616	fails to sufficiently sanitize user-supplied data	"""a deficiency in the way horde framework sanitized user-provided 'subdir ' parameter"""	1
+CVE-2010-4250++ibm++nvd-868	a memory leak in the inotify_init1 function	memory leak in the inotify_init1 function in fs/notify/inotify/inotify_user.c	1
+CVE-2015-7315++ibm++openwall-1882	improper validation of registration function	not make this a normal method comment	0
+CVE-2011-0539++openwall++nvd-2394	legacy certificates have been issued with a vulnerable openssh version	does not initialize the nonce field	0
+CVE-2015-1674++ibm++nvd-2014	improper validation of a memory address	does not properly validate an unspecified address	0
+CVE-2012-2150++openwall++nvd-2399	xfs_metadump information disclosure	does not properly obfuscate file data	0
+CVE-2018-1065++ibm++nvd-1648	a null pointer dereference in the netfilter subsystem when mishandling the case of a rule blob that contains a jump but lacks a user-defined chain	mishandles the case of a rule blob	1
+CVE-2016-5418++ibm++openwall-1115	the improper handling of hardlink archive entries of non-zero size	the use of _cookie allows easy argument passing to system() straight * from the heap	0
+CVE-2008-4870++ibm++nvd-3314	the dovecot.conf file having world-readable permissions	uses world-readable permissions for dovecot.conf	1
+CVE-2015-8088++openwall++nvd-3095	ioremap() pages are followed by a guard page	a crafted application	0
+CVE-2011-0539++ibm++openwall-2913	an uninitialized variable in the key_certify() function when generating legacy certificates	the nonce field was not being correctly filled with random data but was left uninitialised	0
+CVE-2016-9814++openwall++nvd-3265	incorrect signature verification	the validatesignature method in the saml2\\utils class	0
+CVE-2016-9639++ibm++openwall-3021	an error related to caching	a descriptive id and a crypto key	0
+CVE-2015-2687++ibm++openwall-2182	the failure of live migration	an unintended loss of access control	0
+CVE-2012-6150++ibm++openwall-453	the handling of invalid require_membership_of group names by the winbind_name_list_to_sid_string_list function	fail open (allowing access )	0
+CVE-2016-9814++ibm++nvd-3092	improper conversion of return values in the saml2\\\\utils class and saml2 library	the validatesignature method in the saml2\\utils class	1
+CVE-2014-5267++ibm++openwall-200	an error in xml-rpc endpoint	the ajax autocompletion callback itself was not properly    secured	0
+CVE-2010-3078++ibm++nvd-3387	a memory leak error in the xfs_ioc_fsgetxattr() function	does not initialize a certain structure member	0
+CVE-2012-2390++ibm++nvd-651	a memory leak in hugetlb.c	memory leak in mm/hugetlb.c	1
+CVE-2017-7558++openwall++nvd-1621	an out-of-bound read	a kernel data leak due to an out-of-bound read was found in the linux kernel	0
+CVE-2007-6746++openwall++nvd-1759	not check that the issuer was a trusted ca	does not verify (1 ) that the issuer is a trusted ca	1
+CVE-2011-0539++openwall++nvd-2395	consider rotating any ca key used	does not initialize the nonce field	0
+CVE-2009-2287++ibm++nvd-2906	improper checking for the cr3 value	does not validate the page table root in a kvm_set_sregs call	0
+CVE-2011-2695++ibm++openwall-2410	multiple off-by-one errors in the ext4 subsystem	includes the block right before the maximum file offset	0
+CVE-2011-0539++ibm++openwall-501	an uninitialized variable in the key_certify() function when generating legacy certificates	legacy certificates generated by openssh might contain data from the stack	0
+CVE-2012-6111++openwall++nvd-1582	not discard keys	does not discard stored secrets when using gnome_keyring_lock_all_sync function	0
+CVE-2013-2008++ibm++openwall-2891	improper validation of user-supplied input	forgot to include link to source code	0
+CVE-2017-5986++openwall++nvd-907	do peel off operation	race condition in the sctp_wait_for_sndbuf function in net/sctp/socket.c	0
+CVE-2009-4893++ibm++openwall-2675	improper bounds checking allow::options::noident is enabled	a buffer in the code which handles user authorization is copied without sufficient length checks	0
+CVE-2017-8797++ibm++nvd-2434	an error in the nfsv4 server	does not properly validate the layout type when processing the nfsv4 pnfs getdeviceinfo or layoutget operand in a udp packet from a remote attacker	0
+CVE-2016-4437++ibm++openwall-1082	"the use of a default cipher key for the \\""remember me\\"" feature"	"""remember me "" can be disabled adding the following config line in the \'[main]\' section"	0
+CVE-2019-20382++ibm++nvd-1698	a memory leak in zrle_compress_data in ui/vnc-enc-zrle.c	has a memory leak in zrle_compress_data in ui/vnc-enc-zrle.c	1
+CVE-2016-5317++ibm++nvd-2347	persuading a victim to open a specially crafted tiff image file	a crafted tiff file	1
+CVE-2018-20669++openwall++nvd-3291	missing access_ok() checks in ioctl function	an issue where a provided address with access_ok() is not checked	0
+CVE-2012-4528++exploitdb++openwall-616	fails to sufficiently sanitize user-supplied input	original message	0
+CVE-2008-2376++openwall++nvd-2770	an untrusted input in some random ruby application	integer overflow in the rb_ary_fill function in array.c	0
+CVE-2013-4114++ibm++openwall-129	the transmittal of authentication credentials for nagios servers	improper (base64 encoding based ) encoding in the http request	0
+CVE-2012-3466++ibm++nvd-1197	the improper caching of gpg passwords and passphrases	does not properly limit the amount of time a passphrase is cached	0
+CVE-2012-4284++ibm++nvd-902	the setuid-set viscosityhelper binary executes specific scripts	a path name validation issue in the setuid-set viscosityhelper binary	1
+CVE-2017-14497++ibm++openwall-294	the improper handling of vnet headers issue in the tpacket_rcv function in net/packet/af_packet.c	writing up to 10 bytes to an unallocated kernel memory per each packet sent to a network interface on the host	0
+CVE-2011-4595++ibm++exploitdb-2552	improper validation of user-supplied input by the pretty-bar.php script	fails to properly sanitize user-supplied input	0
+CVE-2012-0813++ibm++openwall-463	an error in configmanager.py	writes sensitive information in log files	0
+CVE-2014-7236++ibm++exploitdb-1812	an error in the twiki/lib/twiki/plugins.pm file	the value of the debugenableplugins parameter is used without proper sanitization in an perl eval statement	0
+CVE-2017-12419++ibm++openwall-1965	the failure to remove admin directory in post-installation	"""the administrator does not remove the 'admin ' directory"""	0
+CVE-2013-4434++ibm++nvd-3135	a timing error during user authentication in svr-auth.c	generates error messages for a failed logon attempt	1
+CVE-2014-9419++ibm++openwall-1583	the leak of the userspace address	userspace address leak	1
+CVE-2016-5316++openwall++nvd-2942	a crafted tiff image	sending a crafted tiff image to the rgb2ycbcr tool	1
+CVE-2017-1000367++ibm++openwall-443	improper parsing	not address the posibility of a program name that contains a newline character	0
+CVE-2011-2695++ibm++openwall-2411	multiple off-by-one errors in the ext4 subsystem	and the block for the maximum file offset is written	0
+CVE-2012-4432++ibm++openwall-383	persuading a victim to open a specially-crafted file	a use-after-free error	0
+CVE-2011-0539++ibm++openwall-502	an uninitialized variable in the key_certify() function when generating legacy certificates	the nonce field was not being correctly filled with random data but was left uninitialised	0
+CVE-2013-2100++ibm++openwall-655	the improper validation of ssl certificates	insecure connections	0
+CVE-2016-9954++openwall++nvd-196	irregular expressions resource exhaustion in regex compilation	the backtrack compilation code in the irregex package	1
+CVE-2013-1775++ibm++openwall-2715	an error when a systems battery within the local clock has been fully drained	a fully drained battery on some systems	0
+CVE-2012-6150++ibm++openwall-451	the handling of invalid require_membership_of group names by the winbind_name_list_to_sid_string_list function	just cutting-and-pasting from the bug i just filed	0
+CVE-2012-0002++openwall++nvd-1035	not hearing back from mitre	does not properly process packets in memory	0
+CVE-2016-5418++ibm++openwall-1118	the improper handling of hardlink archive entries of non-zero size	char *	0
+CVE-2016-5395++ibm++openwall-3393	improper validation of user-supplied input by the create user functionality in the policy admin tool	added logic to sanitize the user input mitigation	1
+CVE-2016-1576++ibm++openwall-2338	mounting an overlayfs filesystem on top of a fuse filesystem and executing a setuid program	using the elevated privileges within the container	0
+CVE-2013-4494++openwall++nvd-1237	a malicious guest administrator	does not take the page_alloc_lock and grant_table.lock in the same order	0
+CVE-2019-3871++ibm++openwall-2138	a flaw when http remote backend is used in restful mode	insufficient validation	0
+CVE-2010-4262++ibm++openwall-2879	improper bounds checking when processing fig images	image with crafted color definition	0
+CVE-2020-2732++ibm++nvd-1306	an issue with the vmx_check_intercept function not fully implemented by kvm on intel processors	a flaw was discovered in the way that the kvm hypervisor handled instruction emulation for an l2 guest when nested virtualisation	1
+CVE-2017-9330++ibm++openwall-1000	improper validation of returned value	an infinite loop	0
+CVE-2009-3525++ibm++nvd-1422	the improper validation of the password at startup time when the grub.conf file is configured with password protection	does not support the password option in grub.conf for para-virtualized guests	0
+CVE-2009-1390++ibm++openwall-2122	improper verification of the x.509 certificate chains	but the chain as a whole as not validated properly	0
+CVE-2017-7725++ibm++nvd-1027	incorrect trust in the http host header during caching	places incorrect trust in the http host header during caching	1
+CVE-2016-5636++openwall++nvd-2651	heap corruption	have unspecified impact	0
+CVE-2019-3814++ibm++openwall-1177	the improper authentication of valid trusted certificates	having the certificates with proper extended key usage	0
+CVE-2016-7567++exploitdb++openwall-82	fails to perform bounds checking	lack of bound check	1
+CVE-2010-2785++exploitdb++nvd-1298	the application fails to sufficiently sanitize user-supplied input	does not properly handle \\ (backslash ) characters	0
+CVE-2016-8578++ibm++openwall-1607	sending an empty string parameter to a 9p operation	a null pointer dereference issue	0
+CVE-2002-0031++ibm++exploitdb-334	improper bounds checking of ymsgr uri arguments	bad uri handling	1
+CVE-2013-2128++ibm++openwall-168	an error in the tcp_collapse() function when invoking splice(2). a local attacker could exploit this vulnerability to cause the kernel to crash	oops from tcp_collapse()	1
+CVE-2017-5986++ibm++openwall-3003	a race condition in the sctp_wait_for_sndbuf function in net/sctp/socket.c	do peel off operation	1
+CVE-2015-0291++openwall++nvd-2367	"alexander content of type "" application/pgp-signature "" skipped"	the sigalgs implementation in t1_lib.c	0
+CVE-2013-2241++ibm++openwall-3106	improper user access verification by the data_rest core module	improper stripping of url fragments	0
+CVE-2017-8594++ibm++nvd-2216	improper handling of objects in memory	improperly accesses objects in memory	0
+CVE-2002-1837++ibm++exploitdb-388	"submit a request for a directory containing \\""dot dot\\"" sequences (/../) to cause an error message to be returned that would indicate whether the requested directory is a valid directory"	"""a request for a directory and album name is sent to the host containing numerous '../' character sequences"""	1
+CVE-2014-3230++ibm++openwall-768	the use of the io::socket::ssl as an ssl socket class	using somewhat arbitrary environment variables	0
+CVE-2012-4528++ibm++exploitdb-1503	an error when parsing multipart requests	fails to sufficiently sanitize user-supplied input	0
+CVE-2018-8741++openwall++nvd-3093	the filename is not sanitized	a directory traversal flaw	0
+CVE-2014-2319++ibm++openwall-2385	the incorrect use of the insecure pkzip encryption method even if the aes 256-bit selection is chosen by the encrypt files feature	a logic error in the code	1
+CVE-2019-15031++ibm++openwall-608	improper handling of an interrupt	running the tm-poison from the kernel selftests	0
+CVE-2008-5983++openwall++nvd-2670	failure to provide specified functionality	does not contain a path separator	0
+CVE-2008-2424++ibm++nvd-2863	"""an unspecified error in the standard demo's 404 page"""	"unspecified vulnerability in the 404 error page for the ""standard demo """	1
+CVE-2008-2264++ibm++exploitdb-2566	improper validation of user-supplied input by the index.php script	fails to properly sanitize user-supplied input	0
+CVE-2009-1390++ibm++openwall-2123	improper verification of the x.509 certificate chains	a certificate chain validation was not implemented properly	0
+CVE-2016-5418++ibm++openwall-1113	the improper handling of hardlink archive entries of non-zero size	* sanity check	0
+CVE-2017-1000382++openwall++nvd-1644	copies the permission from the file being edited	ignores umask	0
+CVE-2010-1888++ibm++exploitdb-1430	a race condition when creating specific types of threads	invalid code segment	0
+CVE-2008-3970++ibm++nvd-1837	a regression error when the luserconf option is enabled	does not verify mountpoint and source ownership before mounting a user-defined volume	0
+CVE-2011-0539++ibm++openwall-2915	an uninitialized variable in the key_certify() function when generating legacy certificates	consider rotating any ca key used	0
+CVE-2011-4918++ibm++exploitdb-1034	improper validation of user-supplied input by the index.php script	fails to properly sanitize user-supplied input before using it in dynamically generated content	1
+CVE-2016-2392++ibm++openwall-2916	sending ndis control message packets	a null pointer dereference issue	0
+CVE-2019-16523++ibm++openwall-3297	improper validation of user-supplied input	the variable is inserted inside a script tag without further encoding	0
+CVE-2009-1527++ibm++nvd-2995	the improper use of an invalid mutex while synchronizing with the execve() function by the ptrace_attach() function	race condition in the ptrace_attach function in kernel/ptrace.c	1
+CVE-2016-7995++ibm++nvd-833	a memory leak issue in ehci_process_itd function in hw/usb/hcd-ehci.c	memory leak in the ehci_process_itd function in hw/usb/hcd-ehci.c	1
+CVE-2008-7134++ibm++exploitdb-1239	improper validation of user-supplied input	fails to sufficiently sanitize user-supplied data	1
+CVE-2017-1000367++ibm++openwall-444	improper parsing	the change in dev traversal	0
+CVE-2010-0397++ibm++openwall-3122	a null pointer dereference error in the xmlrpc_decode_request() function	a null pointer dereference in the xmlrpc extension	1
+CVE-2011-0539++ibm++openwall-2912	an uninitialized variable in the key_certify() function when generating legacy certificates	legacy certificates generated by openssh might contain data from the stack	0
+CVE-2013-2100++ibm++openwall-656	the improper validation of ssl certificates	portage does not validate the ssl certificates	0
+CVE-2016-2384++ibm++exploitdb-2289	a double-free in the alsa usb midi driver	a allocator corruption	0
+CVE-2016-9639++ibm++openwall-3020	an error related to caching	delete the key from the master salt-key -d minion-test 7	0
+CVE-2016-5108++openwall++nvd-2236	a malicious media file	a crafted quicktime ima file	0
+CVE-2015-8239++ibm++openwall-2518	improper digest verification when matching rules	a race condition	0
+CVE-2007-6746++openwall++nvd-2481	not check that the issuer was a trusted ca	does not verify (1 ) that the issuer is a trusted ca	0
+CVE-2007-3896++ibm++exploitdb-542	including the mailto	fails to properly sanitize input	0
+CVE-2007-2449++ibm++exploitdb-3246	improper validation of user-supplied input	fails to properly sanitize user-supplied input	1
+CVE-2016-5418++ibm++openwall-1106	the improper handling of hardlink archive entries of non-zero size	symlink checks to be bypassed	0
+CVE-2012-6088++ibm++nvd-447	the improper verification of rpm signatures	"does not return an error code in certain situations involving an ""unparseable signature"	0
+CVE-2013-4247++ibm++openwall-1668	an off-by-one error in build_unc_path_to_root	an unresponsive kernel	0
+CVE-2016-10026++ibm++nvd-1135	improperly checking revision of access permissions to a page changed	does not properly check if a revision changes the access permissions for a page on sites with the git and recentchanges plugins and the cgi interface enabled	0
+CVE-2012-6111++openwall++nvd-1581	not discard cached keys on suspend and hibernate	does not discard stored secrets when using gnome_keyring_lock_all_sync function	0
+CVE-2010-2785++ibm++nvd-1958	improper handing of ctcp requests by the irc protocol component	does not properly handle \\ (backslash ) characters	0
+CVE-2019-9496++openwall++nvd-3222	missing state validation steps	an invalid authentication sequence	1
+CVE-2013-1775++ibm++openwall-1611	an error when a systems battery within the local clock has been fully drained	"""sudo commands without knowing the logged in user's password"""	0
+CVE-2020-12695++ibm++openwall-2545	the failure to forbid the acceptance of a subscription request with a delivery url on a different network segment	not allow event subscriptions with urls to other networks	0
+CVE-2018-13108++ibm++exploitdb-2979	"""a local root jailbreak flaw in the 'network file sharing ' feature"""	basic input validation on the client side (not server side)	0
+CVE-2010-1890++exploitdb++nvd-1483	missed ace bounds checks	does not properly validate acls on kernel objects	0
+CVE-2012-2374++openwall++nvd-1217	providing a specially-crafted input	crafted input	1
+CVE-2010-1888++ibm++nvd-10	a race condition when creating specific types of threads	race condition in the kernel	1
+CVE-2008-5702++openwall++nvd-838	not restrict access to unprivileged users	buffer underflow in the ibwdt_ioctl function in drivers/watchdog/ib700wdt.c	0
+CVE-2016-9639++ibm++openwall-3023	an error related to caching	"""salt's caching mechanisms"""	0
+CVE-2007-6716++openwall++nvd-1495	manually trying to track which fields we rely on being zero	does not properly zero out the dio struct	0
+CVE-2007-6746++openwall++nvd-1761	"""not check the server's ssl/tls certificate for validity"""	does not verify (1 ) that the issuer is a trusted ca	0
+CVE-2016-5418++ibm++openwall-1112	the improper handling of hardlink archive entries of non-zero size	using 900k*4 compression * to bump up the tv[1-3 ] page count	0

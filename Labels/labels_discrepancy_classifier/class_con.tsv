@@ -1,0 +1,973 @@
+CVE-2015-4700++ibm++openwall-2793	denial of service	execute an invalid instruction	0
+CVE-2010-2947++ibm++nvd-1913	overflow a buffer and execute arbitrary code on the system or cause the application to crash	denial of service	0
+CVE-2009-3747++exploitdb++nvd-3383	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2008-6500++ibm++exploitdb-2335	"""steal the victim's cookie-based authentication credentials"""	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	0
+CVE-2013-3963++ibm++nvd-1624	web cache poisoning	hijack the authentication of unspecified victims for requests that add users	0
+CVE-2016-3623++ibm++openwall-2565	denial of service	a denial of service	1
+CVE-2007-2238++ibm++nvd-3024	denial of service	execute arbitrary code	0
+CVE-2013-1946++ibm++openwall-745	poison the page cache with non-html data and cause the application to crash	denial of service	0
+CVE-2018-10194++ibm++nvd-1185	denial of service	denial of service	1
+CVE-2007-4850++exploitdb++nvd-2725	potentially obtaining sensitive information that may aid in further attacks	bypass safe_mode and open_basedir restrictions and read arbitrary files	0
+CVE-2014-9428++openwall++nvd-816	denial of service	denial of service	1
+CVE-2013-2128++openwall++nvd-1250	denial of service	denial of service	1
+CVE-2002-2041++ibm++nvd-1420	overflow a buffer and execute arbitrary commands on the system with root privileges	execute arbitrary code	0
+CVE-2005-0706++ibm++nvd-1861	overflow a buffer and possibly execute arbitrary code on the system	cause a denial of service (crash ) and possibly execute arbitrary code	1
+CVE-2008-3937++exploitdb++nvd-2045	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2015-1328++openwall++nvd-2011	a local root privilege escalation	obtain root access	0
+CVE-2017-15944++exploitdb++nvd-3088	execute arbitrary code	execute arbitrary code	1
+CVE-2012-4231++exploitdb++nvd-71	or exploit latent vulnerabilities in the underlying database	inject arbitrary web script or html	0
+CVE-2009-3225++exploitdb++nvd-1846	access or modify data	inject arbitrary web script or html	0
+CVE-2010-2959++exploitdb++openwall-1723	crash the system or gain root privileges	denial of service	0
+CVE-2008-4071++ibm++exploitdb-1076	denial of service	denial of service	1
+CVE-2013-7285++ibm++openwall-571	denial of service	click jacking attacks	0
+CVE-2010-3056++openwall++nvd-2074	debugging	(3 ) db_structure.php	0
+CVE-2008-6233++ibm++nvd-633	add	execute arbitrary sql commands	0
+CVE-2009-3536++exploitdb++nvd-296	denial of service	cause a denial of service (application crash ) or possibly execute arbitrary code	1
+CVE-2006-6083++ibm++exploitdb-2837	add	compromise the application	1
+CVE-2001-0552++exploitdb++nvd-1731	execute commands on a managed system with the privileges of the ovactiond process	shell metacharacters in a certain snmp trap message	0
+CVE-2016-7185++exploitdb++nvd-2203	privilege escalation	gain privileges	1
+CVE-2013-2010++exploitdb++nvd-1004	arbitrary php code injection	execute arbitrary code	0
+CVE-2017-6371++ibm++exploitdb-398	the application to crash	"crash\\r\\n"") break"	1
+CVE-2003-1397++ibm++exploitdb-1577	denial of service	denial of service	1
+CVE-2016-10155++ibm++openwall-2660	denial of service	a dos and/or potentially crash the qemu process on the host	1
+CVE-2012-0845++openwall++nvd-2108	a denial of service	denial of service	1
+CVE-2014-8484++openwall++nvd-1380	denial of service	denial of service	1
+CVE-2007-3956++ibm++nvd-2234	a denial of service	denial of service	1
+CVE-2017-14489++exploitdb++nvd-130	denial of service	denial of service	1
+CVE-2009-0649++ibm++nvd-2441	denial of service	denial of service	1
+CVE-2008-2942++openwall++nvd-1867	code execution on the system	modify arbitrary files	0
+CVE-2010-3056++openwall++nvd-2081	debugging	(10 ) libraries/sanitizing.lib.php	0
+CVE-2015-6516++ibm++exploitdb-931	add	inject arbitrary sql statements	0
+CVE-2014-3686++ibm++openwall-599	execute arbitrary commands on the system	executing action scripts	1
+CVE-2004-1744++ibm++nvd-1712	consume a large amount of cpu resources and cause the web server to crash	many large http requests	0
+CVE-2010-1147++exploitdb++openwall-1020	execute arbitrary code	denial of service (opendchub crash ) or	0
+CVE-2019-14821++openwall++nvd-690	crash the host kernel resulting in dos or potentially escalate privileges on the system	denial of service	0
+CVE-2011-0531++exploitdb++nvd-1725	denial of service	cause a denial of service (crash ) and execute arbitrary commands	1
+CVE-2008-3310++ibm++nvd-1100	view	execute arbitrary sql commands	0
+CVE-2005-1193++ibm++nvd-2965	executed within the security context of the hosting site	execute arbitrary script	0
+CVE-2016-7202++ibm++nvd-2141	execute arbitrary code on the system with privileges of the victim	denial of service	0
+CVE-2010-3056++openwall++nvd-2060	using debugging messages	(6 ) libraries/database_interface.lib.php	0
+CVE-2006-4625++ibm++exploitdb-958	bypass security options set by http.conf and reset configuration options in a php.ini file	access sensitive information or to write files in unauthorized locations	0
+CVE-2008-4729++ibm++nvd-1182	denial of service	execute arbitrary code	0
+CVE-2010-0519++exploitdb++nvd-2729	execute arbitrary code	denial of service	0
+CVE-2006-1194++ibm++exploitdb-3338	denial of service	denial of service	1
+CVE-2015-4700++ibm++openwall-162	denial of service	execute an invalid instruction	0
+CVE-2008-1413++exploitdb++nvd-2709	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2008-4558++exploitdb++openwall-1665	memory corruption	overwrite arbitrary memory and execute arbitrary code	0
+CVE-2010-3056++openwall++nvd-2075	debugging	(4 ) js/messages.php	0
+CVE-2017-12188++openwall++nvd-1883	a stack buffer overflow issue	denial of service	0
+CVE-2008-3443++ibm++nvd-2642	denial of service	denial of service	1
+CVE-2008-4558++exploitdb++openwall-1666	arbitrary code execution with the privileges of the current user	overwrite arbitrary memory and execute arbitrary code	0
+CVE-2016-4535++exploitdb++nvd-2926	denial of service	denial of service	1
+CVE-2011-3203++openwall++nvd-828	execute arbitrary php code of his own	execute arbitrary code	1
+CVE-2016-4456++ibm++nvd-2856	overwrite any file on the filesystem	overwrite and corrupt arbitrary files in the filesystem	1
+CVE-2016-10155++ibm++openwall-2661	denial of service	a memory leakage issue	0
+CVE-2013-4312++ibm++nvd-2522	denial of service	denial of service	1
+CVE-2013-7285++ibm++openwall-575	denial of service	store arbitrary html fragment	0
+CVE-2005-3730++exploitdb++nvd-1912	the theft of cookie-based authentication credentials as well as other attacks .	inject arbitrary web script or html	0
+CVE-2009-2363++ibm++nvd-695	overflow a buffer and execute arbitrary code on the system or cause the application to crash	execute arbitrary code	0
+CVE-2005-4205++exploitdb++nvd-1281	exploit vulnerabilities in the underlying database implementation	inject arbitrary web script or html	0
+CVE-1999-1442++ibm++nvd-2593	denial of service	denial of service	1
+CVE-2011-1076++ibm++nvd-2337	denial of service	denial of service	1
+CVE-2010-5096++exploitdb++openwall-882	access or modify data	the manipulation or disclosure of arbitrary data	1
+CVE-2014-8884++ibm++nvd-2933	denial of service	cause a denial of service (system crash ) or possibly gain privileges	0
+CVE-2017-13775++openwall++nvd-2016	denial of service	denial of service	1
+CVE-2011-0727++ibm++nvd-113	execute arbitrary code on the system with root privileges	change the ownership of arbitrary files	1
+CVE-2010-3056++openwall++nvd-2077	debugging	(6 ) libraries/database_interface.lib.php	0
+CVE-2007-1159++exploitdb++nvd-2304	and execute local scripts within the context of the affected webserver	inject arbitrary web script or html	0
+CVE-2008-3957++exploitdb++nvd-1478	which will aid in further attacks	force the download of arbitrary files onto a client system	0
+CVE-2011-3182++exploitdb++openwall-967	denial-of-service vulnerabilities	pointer dereference	0
+CVE-2013-4579++ibm++openwall-1953	obtain the original mac address	retrieve the original mac address	1
+CVE-2010-0094++ibm++exploitdb-1753	call system-level java functions via the classloader of a constructor that is being deserialized	privilege escalation	0
+CVE-2010-0397++exploitdb++nvd-980	denial of service	denial of service	1
+CVE-2015-5745++openwall++nvd-3348	crashing the qemu process	denial of service	1
+CVE-2012-0845++openwall++nvd-2107	denial of service	denial of service	1
+CVE-2015-1575++exploitdb++nvd-342	"""execute arbitrary html and script code in a user's browser session in context of an affected site"""	inject arbitrary web script or html	1
+CVE-2016-5412++ibm++nvd-1272	the host to enter into an infinite loop	denial of service	1
+CVE-2006-4625++ibm++nvd-3343	bypass security options set by http.conf and reset configuration options in a php.ini file	bypass certain apache http server httpd.conf options	1
+CVE-2012-4231++exploitdb++nvd-69	compromise the application	inject arbitrary web script or html	0
+CVE-2017-5930++openwall++nvd-438	delete protected aliases	delete protected aliases	1
+CVE-2010-2959++openwall++nvd-2133	denial of service	denial of service	1
+CVE-2017-14106++ibm++nvd-1842	denial of service	denial of service	1
+CVE-2014-3466++ibm++nvd-515	denial of service	cause a denial of service (memory corruption ) or possibly execute arbitrary code	1
+CVE-2012-5574++ibm++openwall-2464	view and read arbitrary files on the system and obtain other sensitive information	read arbitrary files on the server	0
+CVE-2007-3459++ibm++nvd-1628	overwrite arbitrary files on the system	create or overwrite arbitrary files	1
+CVE-2016-0971++ibm++nvd-1391	denial of service	execute arbitrary code	0
+CVE-2006-6083++ibm++exploitdb-2832	view	steal cookie-based authentication credentials	1
+CVE-2012-4923++exploitdb++nvd-128	execute arbitrary script on the affected server and steal cookie-based authentication credentials	inject arbitrary web script or html	1
+CVE-2010-3056++openwall++nvd-2056	using debugging messages	(2 ) db_sql.php	0
+CVE-2009-1755++ibm++openwall-1417	denial of service	execute arbitrary code	0
+CVE-2012-4429++ibm++nvd-984	obtain sensitive information	read clipboard activity	0
+CVE-2017-15367++exploitdb++nvd-92	access the bacula database and	access the bacula database and	1
+CVE-2006-5413++ibm++nvd-2988	execute arbitrary code on the vulnerable web server	execute arbitrary php code	0
+CVE-2018-11793++ibm++openwall-1221	denial of service	denial of service	1
+CVE-2015-8853++ibm++nvd-3188	denial of service	denial of service	1
+CVE-2012-1836++ibm++nvd-375	denial of service	execute arbitrary code	0
+CVE-2010-0712++exploitdb++nvd-2178	or exploit latent vulnerabilities in the underlying database	execute arbitrary sql commands	0
+CVE-2006-6083++ibm++exploitdb-2842	modify or delete information in the back-end database	access or modify data	1
+CVE-2014-3879++openwall++nvd-2637	user authentication and session setup / teardown	bypass authentication	0
+CVE-2009-0922++openwall++nvd-1517	kill connections to the postgresql server for a small amount of time	denial of service	0
+CVE-2013-7285++ibm++openwall-574	denial of service	"""override jenkins | cookies in victim's browser"""	0
+CVE-2017-9374++ibm++openwall-2319	denial of service	dos for host	1
+CVE-2016-4535++exploitdb++nvd-2927	memory corruption	denial of service	0
+CVE-2012-1177++ibm++nvd-1299	accept spoofed certificates	obtain user names and passwords	0
+CVE-2012-5574++ibm++nvd-3000	view and read arbitrary files on the system and obtain other sensitive information	read arbitrary files	0
+CVE-2015-8543++ibm++nvd-639	execute arbitrary code on the system with elevated privileges or cause the kernel to panic	cause a denial of service (null function pointer dereference and system crash ) or possibly gain privileges	0
+CVE-2013-4485++openwall++nvd-1963	denial of service	denial of service	1
+CVE-2014-3879++openwall++nvd-2636	update your vulnerable system	bypass authentication	0
+CVE-2006-6083++ibm++exploitdb-2839	add	or exploit latent vulnerabilities in the underlying database implementation	1
+CVE-2009-0386++ibm++openwall-2187	overflow a buffer and execute arbitrary code on the system or cause the application to crash	execute arbitrary code	0
+CVE-2012-0013++exploitdb++nvd-1241	bypass the warning message	execute arbitrary code	0
+CVE-2007-4567++ibm++exploitdb-3124	denial of service	denial of service	1
+CVE-2017-9807++openwall++nvd-3361	complete remote takeover of the host	execute arbitrary python code or os commands	0
+CVE-2014-3153++exploitdb++nvd-481	privilege escalation	gain privileges	1
+CVE-2013-4200++exploitdb++openwall-1163	hijack user sessions and gain unauthorized access to the affected application	access / alter also higher nodes	0
+CVE-2015-1727++exploitdb++nvd-3254	denial of service	gain privileges	0
+CVE-2000-1054++exploitdb++nvd-1635	execute arbitrary code	cause a denial of service and possibly execute arbitrary commands	1
+CVE-2017-15367++exploitdb++nvd-94	access the bacula database and	escalate privileges on the server	1
+CVE-2008-3578++ibm++nvd-3290	denial of service	denial of service	1
+CVE-2009-3896++ibm++nvd-1637	denial of service	denial of service	1
+CVE-2003-0584++exploitdb++nvd-253	privilege escalation	execute arbitrary code	0
+CVE-2019-10140++ibm++openwall-1288	denial of service	pre-groom the memory	0
+CVE-2008-4409++ibm++openwall-2748	denial of service	denial of service	1
+CVE-2007-6509++ibm++exploitdb-896	denial of service	denial of service	1
+CVE-2013-1860++ibm++nvd-2741	denial of service	cause a denial of service (system crash ) or possibly execute arbitrary code	0
+CVE-2008-4558++exploitdb++openwall-1664	overwrite almost any memory address	overwrite arbitrary memory and execute arbitrary code	0
+CVE-2016-5126++ibm++openwall-1633	denial of service	a heap buffer overflow	0
+CVE-2014-3686++openwall++nvd-1690	full control on command execution	execute arbitrary commands	1
+CVE-2010-3056++openwall++nvd-2073	debugging	(2 ) db_sql.php	0
+CVE-2001-0423++exploitdb++nvd-1506	execute arbitrary code with the euid of sys	a different vulnerability than can-2002-0093	0
+CVE-2009-3896++ibm++nvd-3115	denial of service	denial of service	1
+CVE-2003-1263++exploitdb++nvd-449	denial of service	denial of service	1
+CVE-2002-0140++exploitdb++nvd-704	denial of service	cause a denial of service and possibly execute arbitrary code	0
+CVE-2000-0362++exploitdb++nvd-2369	privilege escalation	gain root privileges	1
+CVE-2004-1919++ibm++exploitdb-3396	the server to crash	denial of service	1
+CVE-2000-0119++exploitdb++nvd-2692	the gui but not purged from the recycle bin	the windows recycle bin utility	0
+CVE-2010-0361++ibm++exploitdb-2629	overflow a buffer and execute arbitrary code on the system or cause the server to crash	denial of service	0
+CVE-2017-8805++ibm++nvd-1738	create symlinks to arbitrary files on the system	conduct directory traversal attacks	0
+CVE-2008-3310++ibm++nvd-1102	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2017-15367++exploitdb++nvd-100	escalate privileges on the server	escalate privileges on the server	1
+CVE-2013-7249++ibm++openwall-981	obtain sensitive information	denial of service	0
+CVE-2007-2530++ibm++nvd-2935	denial of service	execute arbitrary php code	0
+CVE-2011-3182++nvd++exploitdb-1548	a buffer overflow	denial-of-service vulnerabilities	0
+CVE-2012-3549++openwall++nvd-1438	denial of service	denial of service	1
+CVE-2017-8670++ibm++nvd-1026	execute arbitrary code on the system with privileges of the victim	execute arbitrary code in the context of the current user	1
+CVE-2016-9275++ibm++nvd-12	denial of service	cause a denial of service (out-of-bounds read).	1
+CVE-2011-2262++ibm++openwall-699	a partial availability impact	denial of service	0
+CVE-2006-2884++exploitdb++nvd-1371	compromise the application	execute arbitrary sql commands	0
+CVE-2000-0929++ibm++nvd-2882	denial of service	cause a denial of service in rtf-enabled email clients	1
+CVE-2017-7892++ibm++nvd-412	denial of service	denial of service	1
+CVE-2008-3076++ibm++nvd-2775	execute arbitrary shell commands on the system with privileges of the victim or cause the application to crash	shell metacharacters in filenames used by the execute and system functions within the (1 ) mz and (2 ) mc commands	1
+CVE-2008-7247++ibm++openwall-201	gain unauthorized access to the application	spoof arbitrary ssl-based mysql servers	0
+CVE-2008-0846++exploitdb++nvd-1947	access or modify data	execute arbitrary sql commands	0
+CVE-2019-3500++ibm++openwall-2381	obtain sensitive information	obtain sensitive information	1
+CVE-2009-3337++openwall++nvd-1406	execute arbitrary sql commands	execute arbitrary sql commands	1
+CVE-2008-0944++exploitdb++nvd-793	or overwrite files with arbitrary content	denial of service	0
+CVE-2010-2246++openwall++nvd-2871	arbitrary code execution	execute arbitrary commands	1
+CVE-2006-2884++exploitdb++nvd-1373	steal cookie-based authentication credentials	execute arbitrary sql commands	0
+CVE-2000-1053++ibm++exploitdb-706	gain administrative privileges on the system	send user-input to a file on the filesystem	0
+CVE-2013-2128++openwall++nvd-1251	a kernel crash	denial of service	1
+CVE-2012-2672++openwall++nvd-844	read facescontext from other applications	obtain context information an access resources from another war file	0
+CVE-1999-0960++exploitdb++nvd-528	gain root on the system	create directories in arbitrary locations	1
+CVE-2017-7692++exploitdb++openwall-787	execute arbitrary code	execute arbitrary code	1
+CVE-2015-7809++openwall++nvd-1643	execute arbitrary code	execute arbitrary code	1
+CVE-2010-1085++openwall++nvd-2253	denial of service	denial of service	1
+CVE-2008-6233++ibm++nvd-632	view	execute arbitrary sql commands	0
+CVE-2011-4077++openwall++nvd-2969	or potentially	cause a denial of service (memory corruption and crash ) and possibly execute arbitrary code	0
+CVE-2017-9374++ibm++openwall-2320	denial of service	a memory leakage issue	0
+CVE-2012-0875++ibm++openwall-86	denial of service	crash the local machine	1
+CVE-2017-0412++ibm++exploitdb-1269	execute arbitrary code within the context of a privileged process	abort	0
+CVE-2017-7892++ibm++nvd-2641	denial of service	denial of service	1
+CVE-2013-7285++ibm++openwall-572	denial of service	session | hijacking attack	0
+CVE-2011-0518++exploitdb++nvd-3110	execute arbitrary code	include and execute arbitrary local files	0
+CVE-2007-1499++ibm++nvd-1400	"or perform phishing attacks"""	conduct phishing attacks and possibly execute arbitrary code	0
+CVE-2014-9420++ibm++nvd-687	denial of service	denial of service	1
+CVE-2014-4703++exploitdb++nvd-1412	obtain sensitive information like passwords that should only be accessible by root user	a symlink attack on the configuration file in the extra-opts flag	0
+CVE-2004-1973++ibm++exploitdb-1180	denial of service	denial of service	1
+CVE-2016-5126++ibm++openwall-1632	denial of service	dos or potentially leverage it to execute arbitrary code with privileges of the qemu process on the host	0
+CVE-2011-2512++ibm++openwall-1818	denial of service	escalate their privileges on the host	0
+CVE-2012-1836++openwall++nvd-2220	execute arbitrary code	execute arbitrary code	1
+CVE-2015-9261++openwall++nvd-2700	denial of service	denial of service	1
+CVE-2017-2671++ibm++exploitdb-1650	the system to panic	denial of service	1
+CVE-2010-3056++openwall++nvd-2088	debugging	and (17 ) tbl_sql.php	0
+CVE-2006-5883++exploitdb++nvd-3264	arbitrary script code execute in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2010-3056++openwall++nvd-2082	debugging	(11 ) libraries/sqlparser.lib.php	0
+CVE-2009-1755++ibm++openwall-1416	denial of service	denial of service	1
+CVE-2008-0540++exploitdb++nvd-2696	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2017-7456++ibm++nvd-647	denial of service	cause a denial of service	1
+CVE-2010-3679++ibm++nvd-2112	denial of service	denial of service	1
+CVE-2007-1142++exploitdb++nvd-3194	execute arbitrary php code in the context of the webserver process or to steal cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2005-4400++exploitdb++nvd-686	the theft of cookie-based authentication credentials as well as other attacks .	inject arbitrary web script or html	0
+CVE-2014-8504++ibm++openwall-3357	denial of service	crasher	0
+CVE-2013-4397++ibm++nvd-2628	overflow a buffer and execute arbitrary code on the system or cause the application to crash	cause a denial of service (crash ) and possibly execute arbitrary code	1
+CVE-2011-1072++openwall++nvd-420	overwrite critical system files	overwrite arbitrary files	1
+CVE-2002-2041++ibm++nvd-3187	overflow a buffer and execute arbitrary commands on the system with root privileges	execute arbitrary code	0
+CVE-2007-0020++ibm++nvd-1553	denial of service	execute arbitrary code	0
+CVE-2011-0708++ibm++exploitdb-2213	denial of service	denial of service	1
+CVE-2002-2134++exploitdb++nvd-491	execution of attacker-supplied php code with the privileges of the webserver	execute arbitrary php code	1
+CVE-2010-0361++ibm++exploitdb-2630	overflow a buffer and execute arbitrary code on the system or cause the server to crash	execute arbitrary code	0
+CVE-2010-3056++openwall++nvd-1747	using debugging messages	inject arbitrary web script or html	0
+CVE-2016-3137++ibm++nvd-2893	denial of service	denial of service	1
+CVE-2019-10183++openwall++nvd-2500	process listing	process listing	1
+CVE-2017-6830++ibm++nvd-39	denial of service	denial of service	1
+CVE-2017-11420++ibm++openwall-22	overflow a buffer and execute arbitrary code on the system	remote command/code execution	0
+CVE-2008-3957++exploitdb++nvd-1481	arbitrary file overwrite	force the download of arbitrary files onto a client system	0
+CVE-2014-9258++ibm++nvd-851	modify or delete information in the back-end database	execute arbitrary sql commands	0
+CVE-2003-0854++exploitdb++nvd-971	denial of service	consume a large amount of memory	0
+CVE-2007-4850++exploitdb++nvd-2724	gain access to restricted files	bypass safe_mode and open_basedir restrictions and read arbitrary files	0
+CVE-2010-2246++openwall++nvd-2872	a redirect (via tinyurl or similar ) to a malicious url	execute arbitrary commands	0
+CVE-2005-1289++ibm++nvd-3012	"""execute arbitrary operating system commands on the victim's system"	execute arbitrary commands	1
+CVE-2017-15367++exploitdb++nvd-98	escalate privileges on the server	access the bacula database and	1
+CVE-2000-0096++exploitdb++nvd-3277	denial of service	gain privileges	0
+CVE-2016-5851++ibm++nvd-1123	denial of service	conduct xml external entity (xxe ) attacks	0
+CVE-2008-7247++ibm++openwall-202	gain unauthorized access to the application	bypass intended access restrictions	1
+CVE-2015-7516++openwall++nvd-2771	denial of service	denial of service	1
+CVE-2002-2134++exploitdb++nvd-489	provide local access to the attacker	execute arbitrary php code	1
+CVE-2011-4077++openwall++nvd-2970	elevate his privileges on that system	cause a denial of service (memory corruption and crash ) and possibly execute arbitrary code	0
+CVE-2013-5028++ibm++exploitdb-1713	view	compromise the application	1
+CVE-2010-0361++ibm++nvd-2238	overflow a buffer and execute arbitrary code on the system or cause the server to crash	denial of service	0
+CVE-2012-4564++ibm++nvd-1504	overflow a buffer and execute arbitrary code on the system with elevated privileges or cause the affected application to crash	cause a denial of service (crash ) and possibly execute arbitrary code	1
+CVE-2006-3059++exploitdb++nvd-1350	execute arbitrary code with the privileges of the user running excel	execute arbitrary code	1
+CVE-2009-1030++exploitdb++nvd-1486	run unlimited blogs with a single install of wordpress	inject arbitrary web script or html	0
+CVE-2003-0050++exploitdb++nvd-517	remote execution	execute arbitrary code	1
+CVE-2008-3489++ibm++nvd-2296	view	execute arbitrary sql commands	1
+CVE-2016-2848++ibm++nvd-2574	denial of service	denial of service	1
+CVE-2008-2711++ibm++nvd-714	denial of service	denial of service	1
+CVE-2006-0700++exploitdb++nvd-226	gain access to restrict areas of the site	obtain folder permission settings	1
+CVE-2015-5745++ibm++nvd-2744	denial of service	denial of service	1
+CVE-2014-9258++ibm++nvd-850	add	execute arbitrary sql commands	0
+CVE-2013-4200++exploitdb++openwall-1165	hijack user sessions and gain unauthorized access to the affected application	email spoofing attacks	0
+CVE-2019-10038++exploitdb++nvd-636	execute arbitrary code	execute arbitrary programs	1
+CVE-2008-4558++exploitdb++openwall-1663	"""compromise a user's system"""	overwrite arbitrary memory and execute arbitrary code	0
+CVE-2009-1030++exploitdb++nvd-1487	gain administrator privileges on the vi	inject arbitrary web script or html	0
+CVE-2009-0770++ibm++nvd-2501	denial of service	denial of service	1
+CVE-2014-0102++ibm++openwall-1828	denial of service	crash the system	1
+CVE-2009-1389++openwall++nvd-1149	denial of service	denial of service	1
+CVE-2007-1024++exploitdb++nvd-2196	execute arbitrary php code in the context of the webserver process	execute arbitrary php code	0
+CVE-2008-5102++exploitdb++nvd-1444	denial of service	denial of service	1
+CVE-2011-0708++ibm++exploitdb-1522	denial of service	denial of service	1
+CVE-2007-3638++exploitdb++nvd-2886	denial of service	execute arbitrary code	0
+CVE-2017-14497++ibm++nvd-829	denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2066	using debugging messages	(12 ) server_databases.php	0
+CVE-2014-9939++ibm++openwall-3037	the application to crash	denial of service	1
+CVE-2018-1999023++ibm++openwall-2974	execute arbitrary code on the system	execute arbitrary code	1
+CVE-2016-6855++ibm++nvd-1895	denial of service	denial of service	1
+CVE-2014-9682++openwall++nvd-2370	arbitrary command execution	execute arbitrary commands	1
+CVE-2006-0715++ibm++exploitdb-148	"""steal the victim's cookie-based authentication credentials"""	or exploit vulnerabilities in the underlying database implementation	0
+CVE-2019-17570++openwall++nvd-703	execute arbitrary code	execute arbitrary code	1
+CVE-2016-2385++openwall++nvd-1929	memory corruption	cause a denial of service (memory corruption and process crash ) or possibly execute arbitrary code	0
+CVE-2015-4142++ibm++nvd-2773	denial of service	denial of service	1
+CVE-2010-3964++exploitdb++nvd-2779	execute an arbitrary payload on vulnerable installations of sharepoint on windows 2003 servers	execute arbitrary code	1
+CVE-2008-3834++ibm++openwall-1584	denial of service	denial of service	1
+CVE-2009-0751++exploitdb++nvd-630	denial of service	denial of service	1
+CVE-2004-1220++exploitdb++nvd-2517	bypass the login	denial of service	0
+CVE-2008-0015++exploitdb++nvd-350	denial of service	execute arbitrary code	0
+CVE-2006-0700++exploitdb++nvd-228	information disclosure	obtain folder permission settings	1
+CVE-2004-0304++ibm++nvd-2154	view	gain unauthorized access and execute arbitrary commands	0
+CVE-2011-0546++ibm++nvd-2802	gain elevated privileges and execute arbitrary ndmp commands on the system	execute ndmp commands	0
+CVE-2007-2919++ibm++nvd-2900	denial of service	cause a denial of service (crash ) or execute arbitrary code	0
+CVE-2017-0412++ibm++exploitdb-1270	execute arbitrary code within the context of a privileged process	trigger an inter-process munmap with a controlled size	0
+CVE-2010-4262++ibm++openwall-583	denial of service	execute arbitrary code	0
+CVE-2015-7747++ibm++nvd-1387	denial of service	cause a denial of service (program crash ) or possibly execute arbitrary code	0
+CVE-2014-5289++ibm++nvd-1421	overflow a buffer and execute arbitrary code on the system or cause the application to crash	execute arbitrary code	0
+CVE-2010-4742++exploitdb++nvd-860	execute arbitrary code	execute arbitrary code	1
+CVE-2014-3686++ibm++openwall-596	execute arbitrary commands on the system	arbitrary command execution	1
+CVE-2013-5028++ibm++exploitdb-1718	add	or exploit latent vulnerabilities in the underlying database	1
+CVE-2002-2296++ibm++nvd-1925	"and possibly modify the victim's password"""	inject arbitrary web script or html	0
+CVE-2009-1385++ibm++nvd-55	denial of service	denial of service	1
+CVE-2014-2653++ibm++openwall-1469	an error in the ssh client when handling a hostcertificate	not check sshfp if server offers certificate	0
+CVE-2006-0673++exploitdb++nvd-1338	compromise the application	execute arbitrary sql commands	0
+CVE-2014-3686++ibm++openwall-597	execute arbitrary commands on the system	full control on command execution	1
+CVE-2016-0971++exploitdb++nvd-2952	denial of service	execute arbitrary code	0
+CVE-2011-1081++ibm++nvd-674	denial of service	denial of service	1
+CVE-2007-6654++ibm++nvd-1405	denial of service	execute arbitrary code	0
+CVE-2009-0215++ibm++nvd-1194	"""overflow a buffer and execute arbitrary code on the system with the privileges of the victim or cause the victim's browser to crash"""	execute arbitrary code	0
+CVE-2000-1054++exploitdb++nvd-1634	denial of service	cause a denial of service and possibly execute arbitrary commands	1
+CVE-2017-11434++openwall++nvd-3229	an oob read issue	denial of service	0
+CVE-2013-5028++ibm++exploitdb-1716	add	compromise the application	1
+CVE-2005-1633++exploitdb++nvd-2541	arbitrary script code executed in the browser of an unsuspecting user	execute arbitrary sql commands	0
+CVE-2008-1878++openwall++nvd-866	a denial of service (crash ) and possibly execute arbitrary code	cause a denial of service (crash ) and possibly execute arbitrary code	1
+CVE-2010-0468++exploitdb++nvd-312	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2006-6083++ibm++exploitdb-2834	view	access or modify data	1
+CVE-2010-3859++openwall++nvd-1989	escalate privileges to root	gain privileges	1
+CVE-2012-3549++ibm++openwall-352	denial of service	denial of service	1
+CVE-2017-7692++exploitdb++openwall-788	execute arbitrary code	execute arbitrary shell commands on the remote server	1
+CVE-2017-11420++ibm++openwall-21	overflow a buffer and execute arbitrary code on the system	execute arbitrary code	0
+CVE-2016-8862++ibm++nvd-602	denial of service	have unspecified impact	0
+CVE-2018-5407++ibm++exploitdb-1808	"""run a malicious process next to legitimate processes using the architecture聮s parallel thread running capabilities to leak encrypted data from the cpu's internal processes.\\r\\n\\r\\nnote : this vulnerability is known as portsmash"""	produce a p-384 signature	0
+CVE-2014-8553++ibm++nvd-3211	obtain the user real name and email information	obtain sensitive information	0
+CVE-2008-3443++ibm++exploitdb-1385	denial of service	denial of service	1
+CVE-2013-4485++openwall++nvd-1962	submit this type of search request	denial of service	0
+CVE-2009-4031++ibm++nvd-159	cause latencies on the host system using vectors related to smp support	cause a denial of service (increased scheduling latency ) on the host os	1
+CVE-2010-1147++openwall++nvd-685	to arbitrary code execution with the privileges of the user running opendchub	execute arbitrary code	1
+CVE-2010-3056++openwall++nvd-2055	using debugging messages	vectors related to (1 ) db_search.php	0
+CVE-2017-9374++openwall++nvd-3049	dos for host	denial of service	1
+CVE-2010-1455++ibm++nvd-3210	denial of service	denial of service	1
+CVE-2007-4328++nvd++exploitdb-30	remote file inclusion	remote file inclusion	1
+CVE-2015-3253++ibm++openwall-1841	deserialize objects and execute arbitrary code on the system or cause a denial of service	denial of service	0
+CVE-2018-11793++ibm++openwall-2529	denial of service	denial of service	1
+CVE-2017-6074++exploitdb++nvd-1991	denial of service	denial of service	1
+CVE-2013-4200++exploitdb++openwall-1157	hijack user sessions and gain unauthorized access to the affected application	modify or delete portraits	0
+CVE-2015-6526++openwall++nvd-802	denial of service	denial of service	1
+CVE-2008-0944++exploitdb++nvd-790	overwrite arbitrary files	denial of service	0
+CVE-2014-3879++openwall++nvd-2635	execute the following commands as root	bypass authentication	0
+CVE-2007-1499++ibm++nvd-1399	spoof web content	conduct phishing attacks and possibly execute arbitrary code	0
+CVE-2017-1002151++openwall++nvd-281	access all repositories	loss of confidentially	1
+CVE-2016-6351++ibm++nvd-2902	denial of service	cause a denial of service (out-of-bounds write and qemu process crash ) or execute arbitrary code on the qemu host	0
+CVE-2015-3254++ibm++nvd-1140	denial of service	denial of service	1
+CVE-2009-4140++nvd++exploitdb-65	file upload	remode code injection	0
+CVE-2011-2187++ibm++openwall-2853	denial of service	access resources	0
+CVE-2003-0293++ibm++nvd-290	sending the packets or the system is restarted	denial of service	1
+CVE-2000-0119++exploitdb++nvd-2693	the gui but not purged from the recycle bin	which allows attackers to store malicious code without detection	0
+CVE-2017-5932++openwall++nvd-478	execute arbitrary code	gain privileges	0
+CVE-2014-9939++ibm++openwall-3036	the application to crash	crash it	1
+CVE-2006-6083++ibm++nvd-1591	add	execute arbitrary sql commands	1
+CVE-2003-0854++exploitdb++nvd-3328	denial of service	consume a large amount of memory	0
+CVE-2011-3354++openwall++nvd-153	a denial of service condition	denial of service	1
+CVE-2007-3896++exploitdb++nvd-3312	execute arbitrary commands in the context of users that follow malicious uris	execute arbitrary programs	0
+CVE-2016-0751++ibm++nvd-1470	denial of service	denial of service	1
+CVE-2012-1112++openwall++nvd-1011	include a file from the targeted host that contains arbitrary commands or code that will be executed	include and execute arbitrary local files	1
+CVE-2010-4165++ibm++exploitdb-1605	denial of service	denial of service	1
+CVE-2008-5654++ibm++nvd-3205	view	execute arbitrary sql commands	1
+CVE-2017-9374++openwall++nvd-3050	a memory leakage issue	denial of service	0
+CVE-2011-1147++ibm++nvd-2094	denial of service	cause a denial of service (crash ) and possibly execute arbitrary code	0
+CVE-2006-6083++ibm++nvd-1590	view	execute arbitrary sql commands	1
+CVE-2018-5407++ibm++exploitdb-1809	"""run a malicious process next to legitimate processes using the architecture聮s parallel thread running capabilities to leak encrypted data from the cpu's internal processes.\\r\\n\\r\\nnote : this vulnerability is known as portsmash"""	check the port defines in `spy.h`.	0
+CVE-2010-1085++openwall++nvd-2254	crash the kernel	denial of service	1
+CVE-2013-1848++ibm++nvd-468	denial of service	conduct format-string attacks and possibly gain privileges	0
+CVE-2002-2134++ibm++nvd-2288	execute code on the vulnerable web server	execute arbitrary php code	1
+CVE-2012-1836++openwall++nvd-2219	denial of service	execute arbitrary code	0
+CVE-2015-3455++openwall++nvd-63	bypass client certificate validation	spoof ssl servers	1
+CVE-2002-1169++exploitdb++nvd-927	denial of service	denial of service	1
+CVE-2018-10902++ibm++openwall-234	double-free	memory corruption	1
+CVE-2015-7512++ibm++openwall-1308	denial of service	denial of service	1
+CVE-2009-1274++ibm++nvd-1048	denial of service	execute arbitrary code	0
+CVE-2015-6516++exploitdb++nvd-1087	inject arbitrary sql statements	execute arbitrary sql commands	0
+CVE-2009-3225++exploitdb++nvd-1845	compromise the application	inject arbitrary web script or html	0
+CVE-2003-0478++ibm++nvd-2209	a null pointer dereference and cause the server to segfault or possibly execute arbitrary code on the system	cause a denial of service and possibly execute arbitrary code	0
+CVE-2006-6083++ibm++exploitdb-2843	modify or delete information in the back-end database	or exploit latent vulnerabilities in the underlying database implementation	1
+CVE-2012-6329++openwall++nvd-261	code injection	execute arbitrary commands	0
+CVE-2014-8156++ibm++nvd-2884	send arbitrary d-bus messages to cause the system stop responding or crash	cause a denial of service (dbus-daemon memory consumption)	1
+CVE-2015-3202++openwall++nvd-1452	privilege escalation	write to arbitrary files	0
+CVE-2009-0661++ibm++nvd-874	the application to crash	denial of service	0
+CVE-2015-8396++exploitdb++openwall-1594	execute arbitrary code	execute arbitrary code	1
+CVE-2010-1147++openwall++nvd-683	denial of service (opendchub crash ) or	execute arbitrary code	0
+CVE-2011-3363++ibm++nvd-2825	a denial of service	denial of service	1
+CVE-2012-6076++ibm++nvd-2004	obtain sensitive information	obtain sensitive information	1
+CVE-2010-3056++openwall++nvd-2083	debugging	(12 ) server_databases.php	0
+CVE-2008-0846++exploitdb++nvd-1946	compromise the application	execute arbitrary sql commands	0
+CVE-2008-0258++ibm++nvd-2105	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2015-1781++openwall++nvd-1596	arbitrary code execution	cause a denial of service (crash ) or execute arbitrary code	0
+CVE-2007-3896++ibm++nvd-59	execute arbitrary code	execute arbitrary programs	1
+CVE-2007-0811++ibm++exploitdb-244	denial of service	denial of service	1
+CVE-2012-2914++ibm++nvd-250	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2018-20658++ibm++nvd-3158	the server to crash	denial of service	1
+CVE-2016-10504++ibm++openwall-1863	denial of service	denial of service	1
+CVE-2017-1000252++ibm++openwall-3073	denial of service	denial of service	1
+CVE-2018-1046++openwall++nvd-2648	a crash and potentially arbitrary code execution	execute arbitrary code	0
+CVE-2014-4172++openwall++nvd-1597	privilege escalation	inject arbitrary web script or html	0
+CVE-2015-3202++exploitdb++openwall-590	privilege escalation	privilege escalation	1
+CVE-2009-1194++openwall++nvd-3274	allocation error (denial of service).	as demonstrated by a long document.location value in firefox	0
+CVE-2019-8672++exploitdb++nvd-171	denial of service	execute arbitrary code	0
+CVE-2010-3894++ibm++nvd-1954	overflow a buffer and execute arbitrary code on the system with elevated privileges	execute arbitrary code	0
+CVE-2017-15944++exploitdb++nvd-3091	create a directory with an arbitrary name anywhere on the system	execute arbitrary code	1
+CVE-2006-1510++exploitdb++nvd-470	execute arbitrary code	execute arbitrary code	1
+CVE-2017-11434++openwall++nvd-3230	crash the qemu process on the host resulting in dos	denial of service	1
+CVE-2007-2449++exploitdb++nvd-2322	perform cross-site scripting attacks on unsuspecting users in the context of the affected website	inject arbitrary web script or html	0
+CVE-2006-4625++ibm++nvd-3344	bypass security options set by http.conf and reset configuration options in a php.ini file	such as safe_mode and open_basedir	1
+CVE-2009-2600++exploitdb++nvd-1320	launching further attacks	read arbitrary files	0
+CVE-2008-6233++ibm++nvd-494	add	execute arbitrary sql commands	1
+CVE-2009-3189++exploitdb++nvd-1078	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2015-3455++ibm++openwall-901	bypass client certificate validation to abuse an unrelated domain	bypass client certificate validation	0
+CVE-2011-2512++ibm++openwall-1817	denial of service	possibly	0
+CVE-2004-1220++ibm++exploitdb-825	the game server to crash	denial of service	1
+CVE-1999-0288++exploitdb++nvd-2162	denial of service	denial of service	1
+CVE-2013-7249++ibm++nvd-328	obtain sensitive information	obtain sensitive information	1
+CVE-2014-9682++openwall++nvd-2371	the hostname being passed through a shell as part of a command execution	execute arbitrary commands	1
+CVE-2013-5028++ibm++exploitdb-1714	view	access or modify data	1
+CVE-2011-2702++openwall++nvd-1670	execute arbitrary code	execute arbitrary code	1
+CVE-2016-9106++ibm++openwall-2250	denial of service	denial of service	1
+CVE-2006-4945++ibm++nvd-741	execute arbitrary code on the vulnerable system	execute arbitrary php code	1
+CVE-2010-4883++exploitdb++nvd-2149	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2014-3686++openwall++nvd-1692	executing action scripts	execute arbitrary commands	1
+CVE-2016-3623++ibm++nvd-421	denial of service	denial of service	1
+CVE-2009-1574++ibm++nvd-1797	denial of service	denial of service	1
+CVE-2013-4522++openwall++nvd-1148	access to server files	obtain sensitive information	0
+CVE-2009-1085++ibm++nvd-2137	download the script and obtain the secret(?) api key and other sensitive information	obtain the api key and other sensitive information	1
+CVE-2009-4031++ibm++nvd-3203	cause latencies on the host system using vectors related to smp support	cause a denial of service (increased scheduling latency ) on the host os	1
+CVE-2012-0814++openwall++nvd-1173	obtain some or all usernames with access to the same gitolite setup	obtain potentially sensitive information	1
+CVE-2013-0268++exploitdb++openwall-461	privilege escalation	execute arbitrary code in kernel mode	0
+CVE-2016-7164++openwall++nvd-2768	crashed on receiving the malformed response	denial of service	1
+CVE-2003-0478++exploitdb++nvd-2431	denial of service	cause a denial of service and possibly execute arbitrary code	0
+CVE-2010-0712++exploitdb++nvd-2177	access or modify data	execute arbitrary sql commands	0
+CVE-2008-3330++openwall++nvd-2919	inject arbitrary web script or html	inject arbitrary web script or html	1
+CVE-2016-8606++openwall++nvd-1655	execute arbitrary code	execute arbitrary code	1
+CVE-2013-4449++ibm++nvd-2318	trigger a segfault	denial of service	0
+CVE-2008-6233++ibm++nvd-493	view	execute arbitrary sql commands	1
+CVE-2015-4658++ibm++nvd-2115	add	execute arbitrary sql commands	0
+CVE-2008-2712++exploitdb++nvd-1079	execute arbitrary commands with the privileges of the user running the affected application	execute arbitrary commands	0
+CVE-2015-2666++openwall++nvd-3377	a stack overflow	gain privileges	0
+CVE-2010-4850++exploitdb++nvd-2721	theft of cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2013-7285++exploitdb++nvd-299	execute arbitrary code	run arbitrary shell commands	1
+CVE-2013-4449++ibm++nvd-1458	trigger a segfault	denial of service	0
+CVE-2017-0412++ibm++exploitdb-1268	execute arbitrary code within the context of a privileged process	denial of service	0
+CVE-2016-10504++ibm++openwall-1864	denial of service	a denial of service	1
+CVE-2014-9765++openwall++nvd-2360	arbitrary code execution	execute arbitrary code	1
+CVE-2007-0267++ibm++nvd-2707	cause a kernel panic	related to the ufs_dirbad function	0
+CVE-2012-3514++ibm++nvd-1283	denial of service	denial of service	1
+CVE-2014-8484++openwall++nvd-1381	crasher	denial of service	1
+CVE-2008-4194++ibm++openwall-58	denial of service	a denial of service	1
+CVE-2008-2942++openwall++nvd-1868	modify arbitrary files	modify arbitrary files	1
+CVE-2008-5654++ibm++nvd-3207	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2008-0944++exploitdb++nvd-792	cause denial-of-service conditions	denial of service	1
+CVE-2008-4409++openwall++nvd-3052	denial of service	cause a denial of service (memory consumption and application crash)	1
+CVE-2018-6911++ibm++nvd-2731	execute arbitrary code on the system	execute arbitrary os commands	0
+CVE-2006-6083++ibm++exploitdb-2835	view	or exploit latent vulnerabilities in the underlying database implementation	1
+CVE-2005-0782++exploitdb++nvd-1086	or attacks against the underlying database	inject arbitrary web script or html	0
+CVE-2011-4614++exploitdb++nvd-1378	execute arbitrary code	execute arbitrary php code	1
+CVE-2011-3182++nvd++exploitdb-1549	pointer dereference	denial-of-service vulnerabilities	0
+CVE-2008-4194++ibm++openwall-57	denial of service	denial of service	1
+CVE-2006-2225++exploitdb++nvd-341	denial of service	execute arbitrary code	0
+CVE-2010-1147++exploitdb++openwall-1022	execute arbitrary code	to arbitrary code execution with the privileges of the user running opendchub	1
+CVE-2019-8293++openwall++nvd-2099	file upload	execute arbitrary code	1
+CVE-2002-1741++ibm++exploitdb-3228	denial of service	delete an arbitrary file on the webserver that it resides on .	0
+CVE-2013-3963++ibm++nvd-1625	and other malicious activities	hijack the authentication of unspecified victims for requests that add users	0
+CVE-2013-5028++ibm++exploitdb-1717	add	access or modify data	1
+CVE-2018-7188++ibm++openwall-2506	"""steal the victim's cookie-based authentication credentials"""	gain administrator privileges	0
+CVE-2013-5028++ibm++exploitdb-1719	modify or delete information in the back-end database	compromise the application	1
+CVE-2017-0412++ibm++exploitdb-2822	execute arbitrary code within the context of a privileged process	denial of service	0
+CVE-2012-3425++ibm++openwall-679	crash the vulnerable library	denial of service	1
+CVE-2006-0700++exploitdb++nvd-225	upload and possibly execute malicious files	obtain folder permission settings	0
+CVE-2013-4550++ibm++nvd-34	denial of service	write to other sockets and have an unspecified impact	0
+CVE-1999-1538++exploitdb++nvd-1153	access the remote administration console	gain access to sensitive server information	1
+CVE-2009-0241++openwall++nvd-1791	a denial of service (crash )	denial of service	1
+CVE-2006-6493++ibm++nvd-345	denial of service	execute arbitrary code	0
+CVE-2016-3137++ibm++openwall-1935	denial of service	denial of service	1
+CVE-2014-2312++ibm++openwall-2284	overwrite arbitrary files on the system with elevated privileges	"""write the process's pid to a file of the attacker's choosing"""	0
+CVE-2008-5713++ibm++nvd-3304	a denial of service	denial of service	1
+CVE-2015-7512++ibm++openwall-1307	denial of service	arbitrary code execution on the host	0
+CVE-2008-6233++ibm++nvd-634	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2005-4205++exploitdb++nvd-1902	exploit vulnerabilities in the underlying database implementation	inject arbitrary web script or html	0
+CVE-2018-15120++ibm++nvd-2313	denial of service	denial of service	1
+CVE-2001-1178++exploitdb++nvd-2569	overwrite stack variables	gain privileges	0
+CVE-2010-3056++openwall++nvd-2059	using debugging messages	(5 ) libraries/common.lib.php	0
+CVE-2016-5737++openwall++nvd-2109	a xss attack	conduct cross-site scripting (xss ) attacks	0
+CVE-2008-7203++exploitdb++nvd-302	denial of service	denial of service	1
+CVE-2014-9420++openwall++nvd-3209	a crash or render a system unresponsive/unusable	denial of service	1
+CVE-2013-4200++exploitdb++openwall-1159	hijack user sessions and gain unauthorized access to the affected application	privilege escalation	0
+CVE-2013-4122++ibm++openwall-1229	denial of service	crashes the authentication daemon resulting in a dos	1
+CVE-2003-1533++ibm++nvd-2316	"""reset another user's password and gain access to that user's phppass account"""	execute arbitrary sql commands	0
+CVE-2001-1178++exploitdb++nvd-2571	execute arbitrary code	gain privileges	0
+CVE-2007-1159++exploitdb++nvd-2302	steal cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2012-5002++exploitdb++nvd-1346	execute arbitrary code	execute arbitrary code	1
+CVE-2008-0944++exploitdb++nvd-791	execute arbitrary code	denial of service	0
+CVE-2010-2527++ibm++nvd-1936	overflow a buffer and execute arbitrary code on the system or cause the application to crash	cause a denial of service (application crash ) or possibly execute arbitrary code	1
+CVE-2016-5636++ibm++openwall-117	denial of service	heap corruption	0
+CVE-2003-1175++ibm++exploitdb-197	embed malicious script within the ?vo variable in a url request to the index.php script	execute html or script code in the browser of a user following a malicious link created by an attacker	1
+CVE-2013-5211++exploitdb++openwall-310	denial of service	denial of service	1
+CVE-2001-0815++ibm++exploitdb-2415	overflow a buffer and execute arbitrary code on the system	gain access to the target server	0
+CVE-2012-0271++ibm++nvd-1345	overflow a buffer and execute code	execute arbitrary code	0
+CVE-2006-5883++ibm++nvd-1521	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2002-1823++ibm++exploitdb-723	denial of service	the overwriting of stack memory	0
+CVE-2011-2723++openwall++nvd-3276	crasher	denial of service	0
+CVE-2007-3569++exploitdb++nvd-631	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	1
+CVE-2006-5720++exploitdb++nvd-2639	access or modify data	execute arbitrary sql commands	0
+CVE-2009-3889++ibm++nvd-3379	change the behavior and logging level of the driver	change the (1 ) behavior and (2 ) logging level of the driver	1
+CVE-2017-9330++ibm++nvd-1680	denial of service	denial of service	1
+CVE-2015-4035++openwall++nvd-1555	arbitrary code execution	execute arbitrary code	1
+CVE-2010-1734++exploitdb++nvd-1939	denial of service	denial of service	1
+CVE-2008-2750++ibm++nvd-2243	denial of service	denial of service	1
+CVE-2012-3454++ibm++nvd-3280	delete and replace the files with arbitrary data	delete or overwrite arbitrary files	1
+CVE-2012-4923++ibm++exploitdb-2626	"""steal the victim's cookie-based authentication credentials"""	execute arbitrary script on the affected server and steal cookie-based authentication credentials	1
+CVE-2016-5829++ibm++nvd-1133	overflow a buffer and execute arbitrary code on the system or cause the application to crash	cause a denial of service or possibly have unspecified other impact	0
+CVE-2008-5654++ibm++nvd-3206	add	execute arbitrary sql commands	1
+CVE-2006-2884++exploitdb++nvd-1372	access or modify data	execute arbitrary sql commands	1
+CVE-2011-1010++ibm++nvd-11	denial of service	denial of service	1
+CVE-2006-0715++ibm++exploitdb-145	"""steal the victim's cookie-based authentication credentials"""	access or modify data	0
+CVE-2013-0241++ibm++openwall-2684	denial of service	make guest temporarily unavailable or	0
+CVE-2015-6516++ibm++exploitdb-932	modify or delete information in the back-end database	inject arbitrary sql statements	1
+CVE-2010-3084++ibm++nvd-3362	overflow a buffer and cause the kernel to crash	cause a denial of service or possibly have unspecified other impact	0
+CVE-2016-8909++ibm++nvd-279	denial of service	denial of service	1
+CVE-2018-11793++ibm++openwall-1222	denial of service	a denial of service	1
+CVE-2013-4510++openwall++nvd-2613	write to files accessible to the user running the tryton client	write arbitrary files	0
+CVE-2018-1046++openwall++nvd-2650	a denial of service or potentially arbitrary code execution	execute arbitrary code	0
+CVE-2005-2453++exploitdb++nvd-387	the theft of cookie-based authentication credentials as well as other attacks .	inject arbitrary web script or html	0
+CVE-2014-8156++ibm++nvd-2885	send arbitrary d-bus messages to cause the system stop responding or crash	or execute arbitrary code as root	1
+CVE-2005-1374++exploitdb++nvd-3235	the theft of sensitive information	inject arbitrary web script or html	0
+CVE-2016-1249++openwall++nvd-737	an out-of-bounds read	denial of service	0
+CVE-2016-2385++openwall++nvd-1930	process termination or potentially remote code execution	cause a denial of service (memory corruption and process crash ) or possibly execute arbitrary code	0
+CVE-2012-2672++openwall++nvd-845	"""get access to the leftover context and thus get access to the other war's resources"""	obtain context information an access resources from another war file	1
+CVE-2008-5286++ibm++nvd-2875	overflow a buffer and execute arbitrary code on the system or cause the application to crash	execute arbitrary code	0
+CVE-2006-0673++exploitdb++nvd-1340	or exploit vulnerabilities in the underlying database implementation	execute arbitrary sql commands	1
+CVE-2010-0817++exploitdb++nvd-488	disclosure or modification of sensitive data	inject arbitrary web script or html	0
+CVE-2013-4254++ibm++nvd-1497	denial of service	denial of service	1
+CVE-2009-1194++openwall++nvd-3273	allocation error (denial of service).	a long glyph string that triggers a heap-based buffer overflow	0
+CVE-2008-3310++ibm++nvd-1101	add	execute arbitrary sql commands	0
+CVE-2019-8672++exploitdb++nvd-172	cause the right sequence of gc invocations	execute arbitrary code	0
+CVE-2020-8834++ibm++openwall-1677	denial of service	a stack corruption	0
+CVE-2006-5603++exploitdb++nvd-3284	compromise the application	execute arbitrary sql commands	0
+CVE-2013-4357++ibm++nvd-1558	denial of service	cause a denial of service	1
+CVE-2016-8909++ibm++nvd-994	denial of service	denial of service	1
+CVE-2016-3623++openwall++nvd-1144	a denial of service	denial of service	1
+CVE-2016-7164++openwall++nvd-2766	denial of service	denial of service	1
+CVE-2017-2583++openwall++nvd-2226	dos or potentially escalate their privileges inside guest	cause a denial of service (guest os crash ) or gain guest os privileges	1
+CVE-2014-7283++ibm++nvd-1604	a kernel panic	denial of service	1
+CVE-2011-0021++openwall++nvd-732	execute arbitrary code	cause a denial of service (application crash ) or possibly execute arbitrary code	0
+CVE-2006-6083++ibm++exploitdb-2841	modify or delete information in the back-end database	compromise the application	1
+CVE-2009-4272++ibm++nvd-1023	denial of service	denial of service	1
+CVE-2002-1951++exploitdb++nvd-3071	execute arbitrary code with the privileges of the web server process	execute arbitrary code	1
+CVE-2009-3617++ibm++nvd-1379	denial of service	denial of service	1
+CVE-2017-12188++openwall++nvd-1884	denial of service	denial of service	1
+CVE-2011-0640++openwall++nvd-1367	denial of service	execute arbitrary programs	0
+CVE-2019-10140++ibm++openwall-1289	denial of service	a kernel panic and possibly memory corruption	1
+CVE-2009-3938++ibm++nvd-1966	overflow a buffer and execute arbitrary code on the system or cause the affected application to crash	cause a denial of service and possibly execute arbitrary code	0
+CVE-2017-7692++exploitdb++openwall-789	execute arbitrary code	execute an attacker provided bash script on the remote server	1
+CVE-2010-1085++openwall++nvd-2252	crashes the kernel	denial of service	1
+CVE-2011-1938++ibm++exploitdb-395	denial of service	execute arbitrary code	0
+CVE-2009-0241++ibm++nvd-2777	denial of service	denial of service	1
+CVE-2010-1188++ibm++nvd-2524	a kernel panic	denial of service	0
+CVE-2013-4200++ibm++openwall-817	"""possibly retrieve the user's session cookie"""	an error message	0
+CVE-2017-15944++exploitdb++nvd-3090	execute arbitrary system commands	execute arbitrary code	1
+CVE-2014-3686++openwall++nvd-1693	action script execution	execute arbitrary commands	1
+CVE-2002-2296++ibm++nvd-1924	"""steal the victim's cookie-based authentication credentials"	inject arbitrary web script or html	0
+CVE-2012-3429++ibm++openwall-2244	denial of service	denial of service	1
+CVE-2016-6855++ibm++nvd-1498	denial of service	denial of service	1
+CVE-2012-3537++ibm++nvd-2580	execute arbitrary code on the system with elevated privileges	execute arbitrary shell commands	1
+CVE-2015-2780++ibm++nvd-3368	execute arbitrary php code on the vulnerable system	execute arbitrary code	1
+CVE-2012-4423++ibm++nvd-1676	denial of service	denial of service	1
+CVE-2012-3537++ibm++nvd-2922	execute arbitrary code on the system with elevated privileges	execute arbitrary shell commands	0
+CVE-2014-3686++ibm++openwall-600	execute arbitrary commands on the system	action script execution	1
+CVE-2009-3225++exploitdb++nvd-1844	steal cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2010-3056++openwall++nvd-2080	debugging	(9 ) libraries/db_info.inc.php	0
+CVE-2008-1967++ibm++exploitdb-1285	"""steal the victim's cookie-based authentication credentials"""	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	0
+CVE-2009-2294++openwall++nvd-2386	arbitrary code execution	cause a denial of service (crash ) and possibly execute arbitrary code	0
+CVE-2001-0423++exploitdb++nvd-1505	execute arbitrary code with the euid of sys	a long tz (timezone ) environmental variable	0
+CVE-2010-3056++openwall++nvd-2058	using debugging messages	(4 ) js/messages.php	0
+CVE-2015-8710++ibm++nvd-524	denial of service	denial of service	1
+CVE-2015-1554++ibm++openwall-131	denial of service	denial of service	1
+CVE-2010-0712++exploitdb++nvd-2176	compromise the application	execute arbitrary sql commands	0
+CVE-2009-0242++ibm++openwall-2497	denial of service	denial of service	1
+CVE-2019-20382++ibm++openwall-2928	denial of service	leak host memory leading to a potential dos scenario	0
+CVE-2016-7185++exploitdb++nvd-2202	denial of service	gain privileges	0
+CVE-2014-0050++ibm++nvd-2924	the application to enter into an infinite loop	denial of service	1
+CVE-2014-3686++ibm++openwall-598	execute arbitrary commands on the system	script execution	1
+CVE-2013-4122++openwall++nvd-1049	crashes the authentication daemon resulting in a dos	denial of service	1
+CVE-2011-1159++ibm++openwall-458	the daemon to enter into an infinite loop and hang	block acpid	0
+CVE-2017-15944++exploitdb++nvd-3089	arbitrary directory creation	execute arbitrary code	1
+CVE-2006-4073++ibm++nvd-1807	execute arbitrary code on the vulnerable web server	execute arbitrary php code	0
+CVE-2010-4262++ibm++openwall-582	denial of service	denial of service	1
+CVE-2010-2959++exploitdb++openwall-1724	privilege escalation	denial of service	0
+CVE-2002-1741++exploitdb++nvd-1932	delete an arbitrary file on the webserver that it resides on .	delete arbitrary files	0
+CVE-2008-7247++ibm++openwall-203	gain unauthorized access to the application	bypass certain > privilege checks	1
+CVE-2010-3056++openwall++nvd-1748	debugging	inject arbitrary web script or html	0
+CVE-2001-1178++exploitdb++nvd-2570	including the return address	gain privileges	0
+CVE-2015-3142++openwall++nvd-1766	denial of service	obtain sensitive information	0
+CVE-2010-3077++exploitdb++nvd-3117	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2013-4200++exploitdb++openwall-1158	hijack user sessions and gain unauthorized access to the affected application	"""plone user's cookie to be forwarded"""	0
+CVE-2017-11420++ibm++openwall-20	overflow a buffer and execute arbitrary code on the system	remote code/command execution vulnerability	0
+CVE-2016-4001++ibm++openwall-1703	denial of service	a buffer overflow issue	0
+CVE-2017-11420++ibm++openwall-19	overflow a buffer and execute arbitrary code on the system	remote command execution	0
+CVE-2003-1266++ibm++nvd-1125	denial of service	denial of service	1
+CVE-2016-9191++openwall++nvd-3332	denial of service	denial of service	1
+CVE-2014-6593++ibm++nvd-2996	hijack plaintext application data from active ssl/tls sessions	affect confidentiality and integrity	0
+CVE-2010-2960++ibm++nvd-1242	denial of service	cause a denial of service (null pointer dereference and system crash ) or possibly have unspecified other impact	1
+CVE-2009-4462++ibm++exploitdb-2510	overflow a buffer and execute arbitrary code on the system with elevated privileges or cause the application to crash	achieve code execution	0
+CVE-2016-10504++ibm++openwall-1862	denial of service	a denial of service (application crash )	1
+CVE-2010-4850++exploitdb++nvd-2722	disclosure or modification of sensitive data	inject arbitrary web script or html	0
+CVE-2016-9191++ibm++openwall-337	denial of service	denial of service	1
+CVE-2006-5794++ibm++nvd-1546	bypass authentication	bypass authentication	1
+CVE-2005-3808++ibm++exploitdb-1357	denial of service	arbitrary code execution	0
+CVE-2008-2713++ibm++nvd-1051	denial of service	cause a denial of service	1
+CVE-2005-3019++exploitdb++nvd-2977	exploit vulnerabilities in the underlying database implementation	execute arbitrary sql commands	0
+CVE-2015-5185++openwall++nvd-42	denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2078	debugging	(7 ) libraries/dbi/mysql.dbi.lib.php	0
+CVE-2015-7703++ibm++nvd-1920	view arbitrary files on the system	write to arbitrary files	0
+CVE-2005-3189++exploitdb++nvd-1236	gain access to files owned by other users of the application	read arbitrary email messages	0
+CVE-2013-1465++ibm++nvd-2591	denial of service	unserialize arbitrary php objects	0
+CVE-2004-2120++ibm++nvd-2412	consume a majority of the cpu resources	denial of service	0
+CVE-2008-3076++ibm++nvd-2776	execute arbitrary shell commands on the system with privileges of the victim or cause the application to crash	as demonstrated by the netrw.v2 and netrw.v3 test cases	0
+CVE-2005-1633++exploitdb++nvd-2542	exploit vulnerabilities in the underlying database implementation	execute arbitrary sql commands	0
+CVE-2016-9565++openwall++nvd-2803	execute arbitrary code	read or write to arbitrary files	0
+CVE-2017-2583++openwall++nvd-2225	privilege escalation	cause a denial of service (guest os crash ) or gain guest os privileges	1
+CVE-2016-7163++ibm++openwall-1147	denial of service	execute arbitrary code on vulnerable installations of openjpeg	0
+CVE-2009-0935++ibm++nvd-774	denial of service	denial of service	1
+CVE-2017-7411++exploitdb++nvd-3358	execute arbitrary php code with the permissions of the webserver	perform a variety of attacks (including but not limited to remote code execution).	0
+CVE-2014-9119++openwall++nvd-1515	gain read access to arbitrary files	read arbitrary files	1
+CVE-2018-20124++openwall++nvd-3161	denial of service	trigger out-of-bounds access	0
+CVE-2016-7995++ibm++nvd-1856	denial of service	denial of service	1
+CVE-2007-0054++exploitdb++nvd-3233	arbitrary script code execute in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2018-13417++exploitdb++nvd-210	access arbitrary files from the filesystem with the same permission as the user account running vuze	access arbitrary files from the filesystem with the same permission as the user account running vuze	1
+CVE-2013-5028++ibm++exploitdb-1721	modify or delete information in the back-end database	or exploit latent vulnerabilities in the underlying database	1
+CVE-2016-9191++ibm++openwall-2669	denial of service	denial of service	1
+CVE-2009-1389++openwall++nvd-1814	denial of service	denial of service	1
+CVE-2002-1178++exploitdb++nvd-3167	execute arbitrary commands on the server	execute arbitrary commands	1
+CVE-2008-0457++exploitdb++nvd-1296	arbitrary unauthorized files to be uploaded to any location on the affected server	upload and execute arbitrary jsp files	0
+CVE-2000-0362++exploitdb++nvd-2368	easy root access	gain root privileges	1
+CVE-2020-13166++exploitdb++nvd-3087	code execution as the user running	execute arbitrary code	1
+CVE-2009-0444++nvd++exploitdb-32	remote file inclusion	remote file inclusion	1
+CVE-2015-7940++ibm++nvd-1344	obtain sensitive information	obtain private keys	0
+CVE-2019-18634++ibm++nvd-1139	a local attacker could overflow a buffer and execute arbitrary code on the system .	an administrator.) the attacker needs to deliver a long string to the stdin of getln() in tgetpass.c	0
+CVE-2013-1939++openwall++nvd-513	read any file on the local filesystem	read arbitrary files	1
+CVE-2017-8798++ibm++nvd-859	denial of service	cause a denial of service or possibly have unspecified other impact .	0
+CVE-2017-5930++openwall++nvd-439	delete aliases	delete protected aliases	1
+CVE-2015-1727++exploitdb++nvd-2602	denial of service	gain privileges	0
+CVE-2012-1112++openwall++nvd-1009	local file inclusion	include and execute arbitrary local files	1
+CVE-2000-0096++exploitdb++nvd-3278	compromise the server running the qpopper daemon	gain privileges	0
+CVE-2013-0232++exploitdb++nvd-2037	execute arbitrary commands under the context of the web server user	execute arbitrary commands	1
+CVE-2014-2894++openwall++nvd-1471	"""corrupt qemu process's memory on the host"""	have unspecified impact	0
+CVE-2014-9708++ibm++openwall-507	the system to stop responding	a remotely-triggerable dos	1
+CVE-2002-1823++ibm++exploitdb-724	denial of service	and potential code execution	0
+CVE-2003-1336++exploitdb++nvd-1657	denial of service	execute arbitrary code	0
+CVE-2005-4205++exploitdb++nvd-1280	the theft of cookie-based authentication credentials as well as other attacks .	inject arbitrary web script or html	0
+CVE-2013-4319++ibm++nvd-1800	run arbitrary job with root privileges and execute arbitrary code on the system	execute arbitrary jobs	0
+CVE-2008-6431++exploitdb++nvd-2166	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2009-2888++exploitdb++nvd-2502	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	execute arbitrary sql commands	1
+CVE-2013-2010++exploitdb++nvd-1005	execute arbitrary code	execute arbitrary code	1
+CVE-2019-8293++openwall++nvd-2097	execute arbitrary code	execute arbitrary code	1
+CVE-2019-10038++exploitdb++nvd-635	execute arbitrary programs	execute arbitrary programs	1
+CVE-2015-4658++ibm++nvd-2113	bypass login	execute arbitrary sql commands	0
+CVE-2009-0686++ibm++nvd-3384	execute arbitrary code on the system with kernel level privileges	gain privileges	0
+CVE-2002-0332++exploitdb++nvd-2652	arbitrary code being executed as the xtell daemon	execute arbitrary code	0
+CVE-2005-1374++exploitdb++nvd-3238	and a compromise of the affected computer	inject arbitrary web script or html	0
+CVE-2005-3884++ibm++exploitdb-2785	modify or delete data in the back-end database	exploit vulnerabilities in the underlying database implementation	0
+CVE-2015-3202++exploitdb++openwall-589	privilege escalation	overwrite arbitrary files	0
+CVE-2003-0050++exploitdb++nvd-518	arbitrary commands to be executed as root	execute arbitrary code	1
+CVE-2008-6519++ibm++nvd-2118	execute arbitrary code with elevated privileges or cause the application to crash	format string specifiers in a long running web process (lrwp ) request	0
+CVE-2020-10761++ibm++nvd-3313	denial of service	denial of service	1
+CVE-2011-1946++ibm++nvd-2292	run arbitrary commands as root	gain privileges	0
+CVE-2013-5028++ibm++exploitdb-1720	modify or delete information in the back-end database	access or modify data	1
+CVE-2005-4205++exploitdb++nvd-1901	the theft of cookie-based authentication credentials as well as other attacks .	inject arbitrary web script or html	0
+CVE-2010-3056++openwall++nvd-2063	using debugging messages	(9 ) libraries/db_info.inc.php	0
+CVE-2015-1421++ibm++nvd-3381	a denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2057	using debugging messages	(3 ) db_structure.php	0
+CVE-2004-1744++exploitdb++nvd-3009	denial of service	denial of service	1
+CVE-2017-11420++ibm++openwall-23	overflow a buffer and execute arbitrary code on the system	command/code execution	0
+CVE-2004-0304++ibm++nvd-2156	modify or delete information in the backend database	gain unauthorized access and execute arbitrary commands	0
+CVE-2007-3488++ibm++nvd-905	denial of service	execute arbitrary code	0
+CVE-2016-4425++ibm++openwall-2797	denial of service	denial of service	1
+CVE-2011-4077++openwall++nvd-2968	crash the system	cause a denial of service (memory corruption and crash ) and possibly execute arbitrary code	0
+CVE-2014-9428++ibm++openwall-1476	denial of service	denial of service	1
+CVE-2019-0192++openwall++nvd-987	execute arbitrary code	execute arbitrary code	1
+CVE-2019-16275++ibm++openwall-887	denial of service	a denial of service	1
+CVE-2018-1046++openwall++nvd-2649	arbitrary code execution	execute arbitrary code	1
+CVE-2006-0783++exploitdb++nvd-1708	steal cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2013-0241++ibm++openwall-2685	denial of service	in case kernel.softlockup_panic in the guest was set	0
+CVE-2005-4293++exploitdb++nvd-1332	the theft of cookie-based authentication credentials as well as other attacks .	inject arbitrary web script or html	0
+CVE-2016-9806++ibm++openwall-54	denial of service	a denial of service	1
+CVE-2010-3056++openwall++nvd-2062	using debugging messages	(8 ) libraries/dbi/mysqli.dbi.lib.php	0
+CVE-2009-3290++ibm++openwall-384	denial of service	denial of service	1
+CVE-2004-0247++exploitdb++nvd-908	read the amount of data specified by the packet	exception )	0
+CVE-2013-1772++ibm++nvd-711	denial of service	denial of service	1
+CVE-2001-0423++ibm++nvd-2283	overflow a buffer to gain local system group privileges	execute arbitrary code	0
+CVE-2008-3578++exploitdb++nvd-2047	denial of service	denial of service	1
+CVE-2019-20908++openwall++nvd-2971	boot bypass	bypass lockdown or secure boot restrictions	1
+CVE-2014-3686++openwall++nvd-1691	script execution	execute arbitrary commands	1
+CVE-2011-0546++ibm++nvd-2976	gain elevated privileges and execute arbitrary ndmp commands on the system	execute ndmp commands	0
+CVE-2005-1374++exploitdb++nvd-3234	execute arbitrary server-side scripts with the privileges of an affected web server	inject arbitrary web script or html	0
+CVE-2010-3211++ibm++nvd-409	add	execute arbitrary sql commands	1
+CVE-2004-0751++exploitdb++nvd-64	denial of service	cause a denial of service (segmentation fault).	1
+CVE-2013-7285++ibm++openwall-577	denial of service	session fixation attack	0
+CVE-2013-4397++ibm++openwall-3055	overflow a buffer and execute arbitrary code on the system or cause the application to crash	arbitrary code execution	0
+CVE-2013-3963++ibm++nvd-1623	perform cross-site scripting attacks	hijack the authentication of unspecified victims for requests that add users	0
+CVE-2017-8798++ibm++nvd-1326	denial of service	cause a denial of service or possibly have unspecified other impact .	0
+CVE-2017-6074++exploitdb++nvd-1992	privilege escalation	denial of service	0
+CVE-2013-7374++openwall++nvd-291	obtain unconfined local access	bypass the greeter screen restrictions	1
+CVE-2008-4309++openwall++nvd-1088	denial of service	denial of service	1
+CVE-2012-3548++openwall++nvd-301	a denial of service	denial of service	1
+CVE-2012-0882++ibm++nvd-1460	denial of service	execute arbitrary code	0
+CVE-2013-4200++exploitdb++openwall-1164	hijack user sessions and gain unauthorized access to the affected application	alter their password	0
+CVE-2017-6074++ibm++nvd-915	denial of service	denial of service	1
+CVE-2012-2150++ibm++nvd-1608	obtain sensitive information and use this information to launch further attacks against the affected system	obtain sensitive information	0
+CVE-2010-0817++exploitdb++nvd-487	theft of cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2005-1633++exploitdb++nvd-2543	the theft of cookie-based authentication credentials as well as other attacks .	execute arbitrary sql commands	0
+CVE-2005-0782++exploitdb++nvd-1084	compromise of the software	inject arbitrary web script or html	0
+CVE-2015-1789++ibm++nvd-360	denial of service	denial of service	1
+CVE-2009-1379++ibm++openwall-2374	the application to crash	denial of service	1
+CVE-2011-1146++ibm++nvd-588	the server to crash	cause a denial of service (host os crash ) or possibly execute arbitrary code	0
+CVE-2016-3623++ibm++nvd-2918	denial of service	denial of service	1
+CVE-2006-4868++exploitdb++nvd-377	execute arbitrary code	execute arbitrary code	1
+CVE-2011-4918++exploitdb++nvd-693	execute arbitrary script code in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2017-0412++ibm++exploitdb-2824	execute arbitrary code within the context of a privileged process	trigger an inter-process munmap with a controlled size	0
+CVE-2008-2683++exploitdb++nvd-1762	execute the binary	force the download and storage of arbitrary files	0
+CVE-2017-7411++exploitdb++openwall-1442	execute arbitrary php code with the permissions of the webserver	execute arbitrary php code	1
+CVE-2010-2959++ibm++nvd-1341	gain elevated privileges	denial of service	0
+CVE-2006-0187++ibm++exploitdb-1656	create a visual studio project containing malicious user-defined control	executes code contained in a project file	0
+CVE-2012-5643++ibm++openwall-801	denial of service	a denial of service	1
+CVE-2011-3585++ibm++openwall-1917	denial of service	a denial of service	1
+CVE-2010-3056++openwall++nvd-2070	using debugging messages	(16 ) tbl_replace.php	0
+CVE-2016-4175++ibm++exploitdb-3047	denial of service	execute malicious code or access to a part of the dynamically allocated memory	0
+CVE-2015-8808++ibm++nvd-1536	a denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2068	using debugging messages	(14 ) setup/config.php	0
+CVE-2006-4374++ibm++nvd-1015	denial of service	denial of service	1
+CVE-2014-0102++ibm++openwall-1827	denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2065	using debugging messages	(11 ) libraries/sqlparser.lib.php	0
+CVE-2010-3211++ibm++nvd-408	view	execute arbitrary sql commands	1
+CVE-2017-14042++ibm++nvd-157	denial of service	denial of service	1
+CVE-2012-1112++openwall++nvd-1010	execute arbitrary commands or code	include and execute arbitrary local files	1
+CVE-2007-3638++exploitdb++nvd-2887	execute arbitrary code in the context of the application or to cause denial-of-service conditions	execute arbitrary code	1
+CVE-2016-10225++openwall++nvd-1755	privilege escalation	gain root privileges	1
+CVE-2009-0241++openwall++nvd-1790	denial of service	denial of service	1
+CVE-2012-4528++exploitdb++openwall-139	security-bypass	ruleset bypass	1
+CVE-2016-4001++ibm++openwall-1702	denial of service	denial of service	1
+CVE-2010-4850++exploitdb++nvd-2723	execute arbitrary javascript code within the vulnerable application	inject arbitrary web script or html	0
+CVE-2008-6519++ibm++nvd-2119	execute arbitrary code with elevated privileges or cause the application to crash	which triggers incorrect logging code involving the sendfmt function in the smt kernel	0
+CVE-2006-5720++exploitdb++nvd-2638	compromise the application	execute arbitrary sql commands	0
+CVE-2004-1675++ibm++nvd-514	denial of service	denial of service	1
+CVE-2012-0813++openwall++nvd-2978	writes sensitive information	obtain passwords and other sensitive information	1
+CVE-2016-7162++ibm++openwall-645	delete arbitrary files on the system with elevated privileges	deleted files	1
+CVE-2014-2038++ibm++nvd-3370	leak kernel memory	obtain sensitive information from kernel memory in opportunistic circumstances	0
+CVE-2015-3202++openwall++nvd-1451	overwrite arbitrary files	write to arbitrary files	1
+CVE-2009-4413++ibm++openwall-1013	denial of service	crash the daemon	1
+CVE-2016-4175++ibm++exploitdb-3048	denial of service	memory corruption	0
+CVE-2005-3884++ibm++exploitdb-2784	and add	exploit vulnerabilities in the underlying database implementation	0
+CVE-2012-0219++ibm++nvd-459	overflow a buffer and execute arbitrary code on the system with elevated privileges	execute arbitrary code	0
+CVE-2013-4200++exploitdb++openwall-1156	hijack user sessions and gain unauthorized access to the affected application	denial of service	0
+CVE-2017-6355++openwall++nvd-1122	denial of service	denial of service	1
+CVE-2019-16275++ibm++openwall-886	denial of service	denial service	1
+CVE-2006-6083++ibm++exploitdb-2840	modify or delete information in the back-end database	steal cookie-based authentication credentials	1
+CVE-2014-2855++openwall++nvd-2424	a denial of service	denial of service	1
+CVE-2018-13108++ibm++exploitdb-2278	gain privileges and launch further attacks	reduce integration and service delivery challenges to increase arpu and reduce churn	0
+CVE-2014-9420++openwall++nvd-3208	crash the system resulting in dos	denial of service	1
+CVE-2013-0241++ibm++openwall-2686	denial of service	crash the guest	1
+CVE-2010-3211++ibm++nvd-410	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2018-13108++ibm++exploitdb-2277	gain privileges and launch further attacks	escalate web gui privileges and start a telnet server and gain full system level shell access as root	1
+CVE-2013-0241++ibm++openwall-2683	denial of service	denial of service	1
+CVE-2012-3548++openwall++nvd-300	denial of service	denial of service	1
+CVE-2014-9029++ibm++nvd-506	denial of service	execute arbitrary code	0
+CVE-2008-3489++ibm++nvd-2297	add	execute arbitrary sql commands	1
+CVE-2013-4211++ibm++exploitdb-2528	execute arbitrary php code on the system	execute arbitrary code	1
+CVE-2011-2512++ibm++openwall-1816	denial of service	crash the guest (denial of service ) or	1
+CVE-2006-6083++ibm++exploitdb-2836	add	steal cookie-based authentication credentials	1
+CVE-2010-5096++exploitdb++openwall-883	or exploit latent vulnerabilities in the underlying database	the manipulation or disclosure of arbitrary data	0
+CVE-2006-0700++exploitdb++nvd-227	or inject hostile content into the site	obtain folder permission settings	0
+CVE-1999-0960++exploitdb++nvd-527	privilege escalation	create directories in arbitrary locations	1
+CVE-2010-4850++exploitdb++nvd-2720	compromise of the application	inject arbitrary web script or html	0
+CVE-2017-6355++ibm++nvd-2235	denial of service	denial of service	1
+CVE-2010-2490++openwall++nvd-1820	denial of service	denial of service	1
+CVE-2013-7285++ibm++openwall-576	denial of service	execute arbitrary code inside jenkins master	0
+CVE-2005-1374++exploitdb++nvd-3237	data corruption	inject arbitrary web script or html	0
+CVE-2006-4288++ibm++nvd-1025	execute arbitrary code on the vulnerable web server	execute arbitrary php code	1
+CVE-2011-0531++exploitdb++nvd-1726	execute arbitrary code	cause a denial of service (crash ) and execute arbitrary commands	1
+CVE-2006-6538++exploitdb++nvd-2248	denial of service	denial of service	1
+CVE-2008-3957++exploitdb++nvd-1477	overwrite files with attacker-supplied data	force the download of arbitrary files onto a client system	0
+CVE-2009-2621++ibm++nvd-1923	an unspecified error when processing http headers	""" which allows remote attackers to cause a denial of service via (1 ) an incomplete request or (2 ) a request with a large header size"	0
+CVE-2008-0457++exploitdb++nvd-1295	execute arbitrary code with system-level privileges and completely compromise affected computers	upload and execute arbitrary jsp files	1
+CVE-2009-1232++ibm++exploitdb-773	denial of service	denial of service	1
+CVE-2009-4413++ibm++openwall-1014	denial of service	denial of service	1
+CVE-2014-9258++ibm++nvd-849	view	execute arbitrary sql commands	0
+CVE-2014-7236++exploitdb++nvd-1328	execute arbitrary code	execute arbitrary perl code	1
+CVE-2017-9807++openwall++nvd-3360	execute arbitrary code	execute arbitrary python code or os commands	1
+CVE-2005-3797++exploitdb++nvd-1342	execute arbitrary remote php code on an affected computer with the privileges of the web server process	execute arbitrary php code	0
+CVE-1999-0960++exploitdb++nvd-526	obtain root status	create directories in arbitrary locations	1
+CVE-2013-4205++openwall++nvd-1130	denial of service	denial of service	1
+CVE-2009-2918++ibm++exploitdb-963	denial of service	privilege escalation	0
+CVE-2004-1985++exploitdb++nvd-570	execute system commands	inject arbitrary html or web script	0
+CVE-2008-6829++exploitdb++nvd-2223	denial of service	denial of service	1
+CVE-2010-4742++ibm++nvd-1906	denial of service	execute arbitrary code	0
+CVE-2014-3471++ibm++nvd-644	denial of service	denial of service	1
+CVE-1999-1408++ibm++exploitdb-2888	denial of service	denial of service	1
+CVE-2015-4658++ibm++nvd-2116	modify or delete information in the back-end database	execute arbitrary sql commands	0
+CVE-2018-18957++ibm++openwall-2944	overflow a buffer and execute arbitrary code on the system	denial of service	0
+CVE-2010-3083++ibm++nvd-1903	prevent further ssl connections	denial of service	0
+CVE-2011-0011++ibm++nvd-587	gain unauthorized access to the system	bypass authentication and establish vnc sessions	0
+CVE-2016-5412++ibm++openwall-2194	the host to enter into an infinite loop	denial of service	0
+CVE-2008-4470++ibm++nvd-999	denial of service	cause a denial of service (application crash ) or execute arbitrary code	0
+CVE-2003-0371++ibm++nvd-2266	overflow a buffer and cause the ftp client to crash	cause a denial of service (crash ) and possibly execute arbitrary code	0
+CVE-2016-8668++ibm++nvd-28	denial of service	denial of service	1
+CVE-2002-1178++exploitdb++nvd-3166	arbitrary command execution	execute arbitrary commands	1
+CVE-2008-2712++exploitdb++nvd-2136	execute arbitrary commands with the privileges of the user running the affected application	execute arbitrary commands	0
+CVE-2006-3961++ibm++nvd-3231	overflow a buffer and execute arbitrary code on the system	execute arbitrary commands	0
+CVE-2008-5917++openwall++nvd-2678	inject arbitrary web script or html	inject arbitrary web script or html	1
+CVE-2011-2700++ibm++nvd-3256	denial of service	cause a denial of service or have unspecified other impact	0
+CVE-2012-4528++exploitdb++openwall-140	security bypass	ruleset bypass	1
+CVE-2016-4425++openwall++nvd-1568	denial of service	denial of service	1
+CVE-2009-0241++openwall++nvd-1792	a denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2079	debugging	(8 ) libraries/dbi/mysqli.dbi.lib.php	0
+CVE-2001-0804++exploitdb++nvd-1388	break out of webroot and view arbitrary web-readable files	read arbitrary files	0
+CVE-2017-3142++ibm++nvd-1781	bypass tsig authentication on axfr requests and transfer the target zone	circumvent tsig authentication of axfr requests	0
+CVE-2011-3203++openwall++nvd-827	arbitrary code execution	execute arbitrary code	1
+CVE-2002-2041++ibm++exploitdb-2435	overflow a buffer and execute arbitrary commands on the system with root privileges	execution of arbitrary attacker-supplied instructions as root	0
+CVE-2009-3691++ibm++exploitdb-2317	denial of service	execute arbitrary code	0
+CVE-2015-8575++ibm++nvd-815	obtain sensitive information	obtain sensitive information from kernel memory and bypass the kaslr protection mechanism	0
+CVE-2017-2583++openwall++nvd-2224	denial of service	cause a denial of service (guest os crash ) or gain guest os privileges	1
+CVE-2018-11793++ibm++openwall-2530	denial of service	a denial of service	1
+CVE-2008-3957++exploitdb++nvd-1480	attacker-controlled content	force the download of arbitrary files onto a client system	0
+CVE-2006-3513++exploitdb++nvd-1050	denial of service	denial of service	1
+CVE-2011-0507++ibm++exploitdb-584	denial of service	denial of service	1
+CVE-1999-1538++exploitdb++nvd-1151	access the remote administration console	gain access to sensitive server information	1
+CVE-2009-2918++ibm++exploitdb-962	denial of service	denial of service	1
+CVE-2014-3230++ibm++nvd-2564	impersonate a server	disable server certificate validation	1
+CVE-2006-1510++exploitdb++nvd-469	denial of service	execute arbitrary code	0
+CVE-2008-4558++exploitdb++openwall-1661	denial of service	overwrite arbitrary memory and execute arbitrary code	0
+CVE-2007-1770++exploitdb++nvd-1209	overwrite eip	cause a denial of service (giomgr crash ) and execute arbitrary code	0
+CVE-2015-8562++exploitdb++nvd-2819	execute arbitrary code	conduct php object injection attacks and execute arbitrary php code	0
+CVE-2012-0219++openwall++nvd-2479	denial of service	execute arbitrary code	0
+CVE-2019-10140++ibm++openwall-1286	denial of service	denial of service	1
+CVE-2000-0706++exploitdb++nvd-1426	yield remote root access for the attacker if exploited when run as root	execute arbitrary commands	0
+CVE-2008-4796++ibm++nvd-45	execute arbitrary commands with privileges of the application	execute arbitrary commands	1
+CVE-2017-2584++openwall++nvd-605	crash the host kernel resulting in dos	denial of service	1
+CVE-2009-0386++ibm++openwall-2186	overflow a buffer and execute arbitrary code on the system or cause the application to crash	a denial of service (application crash ) and possibly execute arbitrary code	0
+CVE-2012-4231++exploitdb++nvd-68	steal cookie-based authentication credentials	inject arbitrary web script or html	0
+CVE-2009-1753++openwall++nvd-3275	overwrite arbitrary files	overwrite arbitrary files	1
+CVE-2009-1046++ibm++nvd-3001	denial of service	denial of service	1
+CVE-2011-1478++ibm++nvd-1	a denial of service	denial of service	1
+CVE-2017-5644++ibm++nvd-2515	denial of service	denial of service	1
+CVE-2017-0412++ibm++exploitdb-2823	execute arbitrary code within the context of a privileged process	abort	0
+CVE-2018-13108++ibm++exploitdb-2279	gain privileges and launch further attacks	gain full access to the device with highest privileges	0
+CVE-2016-9191++openwall++nvd-85	denial of service	denial of service	1
+CVE-2015-4171++openwall++nvd-2896	leak the username and the mschapv2 authentication value to a rogue server	using a valid certificate and then reading the responses	1
+CVE-2004-1882++ibm++nvd-937	"""steal the victim's session id and gain unauthorized access to the victim's personal information"""	inject arbitrary web script or html	0
+CVE-1999-1538++exploitdb++nvd-1150	gather sensitive information about the web server and its configuration	gain access to sensitive server information	1
+CVE-2006-3484++exploitdb++nvd-797	arbitrary script code execute in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	0
+CVE-2002-2258++ibm++exploitdb-2523	overflow a buffer and cause the netsuite application to crash	denial of service	0
+CVE-2011-2721++ibm++openwall-2405	denial of service	denial of service	1
+CVE-2005-3388++exploitdb++nvd-1155	arbitrary script code execute in the browser of an unsuspecting user in the context of the affected site	inject arbitrary web script or html	1
+CVE-2006-5603++exploitdb++nvd-3285	access or modify data	execute arbitrary sql commands	0
+CVE-2009-0490++openwall++nvd-2765	a denial of service (crash ) and possibly execute arbitrary code	cause a denial of service (crash ) and possibly execute arbitrary code	1
+CVE-2011-3354++openwall++nvd-152	denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2067	using debugging messages	(13 ) server_privileges.php	0
+CVE-2002-2134++exploitdb++nvd-490	include arbitrary files located on remote servers	execute arbitrary php code	1
+CVE-2011-1076++ibm++nvd-1798	denial of service	denial of service	1
+CVE-2004-1919++ibm++nvd-2505	the server to crash	denial of service	0
+CVE-2012-5643++ibm++openwall-800	denial of service	denial of service	1
+CVE-2019-18634++ibm++nvd-1322	a local attacker could overflow a buffer and execute arbitrary code on the system .	an administrator.) the attacker needs to deliver a long string to the stdin of getln() in tgetpass.c	1
+CVE-2008-0846++exploitdb++nvd-1948	or exploit latent vulnerabilities in the underlying database	execute arbitrary sql commands	0
+CVE-2010-0397++ibm++exploitdb-1711	the affected application to crash	denial of service	1
+CVE-2006-3059++exploitdb++nvd-1349	execute arbitrary code	execute arbitrary code	1
+CVE-2009-0751++ibm++openwall-2275	denial of service	denial of service	1
+CVE-2009-1527++openwall++nvd-2239	a local privilege escalation	gain privileges	1
+CVE-2001-1178++exploitdb++nvd-2573	and potentially root access	gain privileges	1
+CVE-2017-8053++ibm++openwall-798	denial of service	denial of service	1
+CVE-2004-1691++ibm++nvd-1427	consume the available cpu resources and cause the server to crash	denial of service	0
+CVE-2012-1112++exploitdb++nvd-1641	compromise the application and the computer	include and execute arbitrary local files	0
+CVE-2013-1809++openwall++nvd-475	hijack	move or manipulate directory contents or perform symlink attacks	1
+CVE-2009-1046++ibm++nvd-898	denial of service	denial of service	1
+CVE-2007-1499++ibm++nvd-1398	"""steal the victim's cookie-based authentication credentials"	conduct phishing attacks and possibly execute arbitrary code	0
+CVE-2008-4580++openwall++nvd-2799	or reboot it	a symlink attack on the fence_manual.fifo temporary file	0
+CVE-2013-2009++openwall++nvd-3289	remote code exec	execute arbitrary code	1
+CVE-2013-0232++openwall++nvd-657	arbitrary command execution	execute arbitrary commands	1
+CVE-2005-3808++ibm++exploitdb-1356	denial of service	denial of service	1
+CVE-2006-6083++ibm++exploitdb-2833	view	compromise the application	1
+CVE-2006-0673++exploitdb++nvd-1339	access or modify data	execute arbitrary sql commands	0
+CVE-2010-3056++openwall++nvd-2061	using debugging messages	(7 ) libraries/dbi/mysql.dbi.lib.php	0
+CVE-2008-4558++exploitdb++openwall-1662	arbitrary code execution	overwrite arbitrary memory and execute arbitrary code	0
+CVE-2013-5028++ibm++exploitdb-1715	view	or exploit latent vulnerabilities in the underlying database	1
+CVE-2010-3056++openwall++nvd-2064	using debugging messages	(10 ) libraries/sanitizing.lib.php	0
+CVE-2008-3489++ibm++nvd-2298	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2006-6083++ibm++exploitdb-2838	add	access or modify data	1
+CVE-2006-6083++ibm++nvd-1592	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2008-7126++exploitdb++nvd-2820	denial of service	cause a denial of service (crash ) and possibly execute arbitrary code	0
+CVE-2014-2855++openwall++nvd-2423	denial of service	denial of service	1
+CVE-2005-4717++ibm++nvd-2127	denial of service	denial of service	1
+CVE-2005-3797++exploitdb++nvd-834	execute arbitrary remote php code on an affected computer with the privileges of the web server process	execute arbitrary php code	1
+CVE-2006-3524++exploitdb++nvd-1455	execute arbitrary code on the system with the privileges of the affected application	execute arbitrary code	1
+CVE-2010-1146++openwall++nvd-2348	view and potentially modify the xattrs on arbitrary files	gain privileges	0
+CVE-2010-3056++openwall++nvd-2085	debugging	(14 ) setup/config.php	0
+CVE-2014-3686++openwall++nvd-1689	arbitrary command execution	execute arbitrary commands	1
+CVE-2016-7118++ibm++openwall-783	denial of service	denial of service	1
+CVE-2012-2134++ibm++nvd-0	denial of service	denial of service	1
+CVE-2017-6371++ibm++exploitdb-397	the application to crash	denial of service	1
+CVE-2018-1000085++ibm++openwall-1630	denial of service	denial of service	1
+CVE-2015-1465++ibm++openwall-1523	denial of service	denial of service	1
+CVE-2006-0715++ibm++nvd-2710	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2011-4110++openwall++nvd-2218	oops	denial of service	0
+CVE-2008-5235++openwall++nvd-1640	execute arbitrary code	execute arbitrary code	1
+CVE-2010-3056++openwall++nvd-2087	debugging	(16 ) tbl_replace.php	0
+CVE-2008-7247++ibm++nvd-1510	gain unauthorized access to the application	bypass intended access restrictions	0
+CVE-2001-1178++exploitdb++nvd-2568	execute arbitrary code	gain privileges	0
+CVE-2000-0347++exploitdb++nvd-2012	denial of service	cause a denial of service	1
+CVE-2006-5720++exploitdb++nvd-2640	or exploit latent vulnerabilities in the underlying database implementation	execute arbitrary sql commands	0
+CVE-2008-7203++ibm++nvd-1838	denial of service	denial of service	1
+CVE-2012-2369++ibm++openwall-298	execute arbitrary code on the system or cause the application to crash	"""arbitrary code to be executed on the user's machine"""	1
+CVE-2009-3225++exploitdb++nvd-1847	or exploit latent vulnerabilities in the underlying database	inject arbitrary web script or html	0
+CVE-2007-0357++ibm++nvd-1301	traverse directories and view arbitrary files on the system	read arbitrary files	0
+CVE-2012-4231++exploitdb++nvd-70	access or modify data	inject arbitrary web script or html	0
+CVE-2008-2683++exploitdb++nvd-1763	place arbitrary files on a users file system	force the download and storage of arbitrary files	0
+CVE-2010-3056++openwall++nvd-2086	debugging	(15 ) sql.php	0
+CVE-2005-1374++exploitdb++nvd-3236	potentially including authentication credentials	inject arbitrary web script or html	0
+CVE-2016-7164++openwall++nvd-2767	crash victim torrent clients	denial of service	1
+CVE-2010-3056++openwall++nvd-2084	debugging	(13 ) server_privileges.php	0
+CVE-2005-1289++ibm++nvd-3013	"with privileges of the victim's web service"""	execute arbitrary commands	1
+CVE-2010-3056++openwall++nvd-2071	using debugging messages	and (17 ) tbl_sql.php	0
+CVE-2011-4325++ibm++nvd-2909	denial of service	cause a denial of service (null pointer dereference and o_direct oops)	1
+CVE-2009-4893++ibm++openwall-1562	denial of service	a buffer overflow	0
+CVE-2011-1146++openwall++nvd-167	crash the host server (dos)	cause a denial of service (host os crash ) or possibly execute arbitrary code	1
+CVE-2007-1159++exploitdb++nvd-2303	view files	inject arbitrary web script or html	0
+CVE-2010-3056++openwall++nvd-2072	debugging	vectors related to (1 ) db_search.php	0
+CVE-2013-1819++openwall++nvd-2120	denial of service	denial of service	1
+CVE-2010-3056++openwall++nvd-2069	using debugging messages	(15 ) sql.php	0
+CVE-2006-5634++ibm++nvd-2526	execute arbitrary code on the vulnerable web server	execute arbitrary php code	1
+CVE-2008-2365++ibm++openwall-2691	the kernel to crash	denial of service	1
+CVE-2017-13672++ibm++openwall-2605	denial of service	crash the qemu process on the host resulting in dos situation	0
+CVE-2013-2730++ibm++nvd-1128	denial of service	execute arbitrary code	0
+CVE-2017-5896++ibm++nvd-161	denial of service	denial of service	1
+CVE-2003-0478++exploitdb++nvd-3054	denial of service	cause a denial of service and possibly execute arbitrary code	0
+CVE-2004-0304++ibm++nvd-2155	add	gain unauthorized access and execute arbitrary commands	0
+CVE-2012-3537++ibm++nvd-736	execute arbitrary code on the system with elevated privileges	execute arbitrary shell commands	1
+CVE-2004-1220++ibm++exploitdb-826	the game server to crash	bypass the login	0
+CVE-2011-3634++ibm++nvd-2135	successfully connect without having a matching x509 certificate host name	obtain repository credentials	0
+CVE-2013-4200++exploitdb++openwall-1168	hijack user sessions and gain unauthorized access to the affected application	arbitrary html or web script execution	1
+CVE-2019-8293++openwall++nvd-2098	arbitrary file upload	execute arbitrary code	1
+CVE-2013-1670++ibm++nvd-1854	"""steal the victim's cookie-based authentication credentials and conduct cross-site scripting attacks"""	bypass certain read-only restrictions and conduct cross-site scripting (xss ) attacks	0
+CVE-2006-6300++ibm++nvd-2619	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2010-3056++openwall++nvd-2076	debugging	(5 ) libraries/common.lib.php	0
+CVE-2012-2134++ibm++openwall-498	denial of service	denial of service	1
+CVE-2013-1774++openwall++nvd-2163	denial of service	denial of service	1
+CVE-2013-4200++exploitdb++openwall-1162	hijack user sessions and gain unauthorized access to the affected application	uncontrolled resource consumption (infinite loop )	0
+CVE-2010-5096++exploitdb++openwall-881	compromise the application	the manipulation or disclosure of arbitrary data	0
+CVE-2015-8612++openwall++nvd-1684	privilege escalation	gain privileges	0
+CVE-2010-0817++exploitdb++nvd-486	compromise of the application	inject arbitrary web script or html	0
+CVE-2016-9794++ibm++openwall-1782	denial of service	denial of service	1
+CVE-2009-0444++nvd++exploitdb-33	remote file inclusion	remote file inclusions	1
+CVE-2006-0715++ibm++exploitdb-146	"""steal the victim's cookie-based authentication credentials"""	steal cookie-based authentication credentials	1
+CVE-2012-1096++exploitdb++nvd-2103	read arbitrary files	"""use other users ' certificates or private keys when making a connection"""	0
+CVE-2015-6516++ibm++exploitdb-930	view	inject arbitrary sql statements	0
+CVE-2006-0715++ibm++exploitdb-144	"""steal the victim's cookie-based authentication credentials"""	compromise the application	0
+CVE-2016-9151++exploitdb++nvd-2426	privilege escalation	gain privileges	0
+CVE-2014-1604++ibm++nvd-2402	spoof the cache contents	spoof cache data	1
+CVE-2015-4658++ibm++nvd-2114	view	execute arbitrary sql commands	0
+CVE-2008-3957++exploitdb++nvd-1479	overwrite files with arbitrary	force the download of arbitrary files onto a client system	0
+CVE-2011-2198++ibm++openwall-1365	denial of service	excessive memory and cpu consumption	0
+CVE-2017-1000252++ibm++nvd-1561	denial of service	denial of service	1
+CVE-2013-7285++ibm++openwall-573	denial of service	providing sensitive information	0
+CVE-2008-6233++ibm++nvd-495	modify or delete information in the back-end database	execute arbitrary sql commands	1
+CVE-2006-2884++exploitdb++nvd-1374	or even exploit vulnerabilities in the underlying database implementation	execute arbitrary sql commands	0
+CVE-2012-3355++ibm++nvd-1016	overwrite arbitrary files on the system with elevated privileges	execute arbitrary code	0
+CVE-1999-1538++exploitdb++nvd-1152	gather sensitive information about the web server and its configuration	gain access to sensitive server information	1
+CVE-2018-1999023++ibm++openwall-2975	execute arbitrary code on the system	arbitrary code execution	1
+CVE-2010-0969++openwall++nvd-2015	denial of service	denial of service	1
+CVE-2011-5164++ibm++nvd-586	denial of service	execute arbitrary code	0
+CVE-2015-1335++ibm++nvd-1318	escape apparmor confinement	escape apparmor confinement	1
+CVE-2004-1691++ibm++nvd-2478	consume the available cpu resources and cause the server to crash	denial of service	0
+CVE-2009-0487++ibm++nvd-1871	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2007-1024++exploitdb++nvd-3128	execute arbitrary php code in the context of the webserver process	execute arbitrary php code	1
+CVE-2016-3707++ibm++openwall-2671	denial of service	submit arbitrary sysrq commands	0
+CVE-2003-1397++ibm++exploitdb-1928	denial of service	denial of service	1
+CVE-2016-9106++ibm++openwall-2251	denial of service	a memory leakage issue	0
+CVE-2005-3884++ibm++exploitdb-2783	obtain sensitive information	exploit vulnerabilities in the underlying database implementation	0
+CVE-2009-3726++exploitdb++nvd-1090	denial of service	denial of service	1
+CVE-2009-1046++ibm++nvd-2739	denial of service	denial of service	1
+CVE-2019-10140++ibm++openwall-1287	denial of service	crash the kernel creating a denial of service (dos ) and possibly other memory corruption	0
+CVE-2007-4145++ibm++nvd-525	"""overflow a buffer and execute arbitrary code on the system with the privileges of the user or cause the victim's browser to crash"""	execute arbitrary code	1
+CVE-2013-4200++exploitdb++openwall-1167	hijack user sessions and gain unauthorized access to the affected application	obtain sensitive information	0
+CVE-2006-5603++exploitdb++nvd-3286	or exploit latent vulnerabilities in the underlying database implementation	execute arbitrary sql commands	0
+CVE-2010-3964++exploitdb++nvd-2780	execute arbitrary code	execute arbitrary code	1
+CVE-2019-20908++openwall++nvd-2972	bricking their secure boot systems	bypass lockdown or secure boot restrictions	1
+CVE-2013-0268++exploitdb++openwall-460	privilege escalation	privilege escalation	1
+CVE-2004-0200++ibm++nvd-2416	"""overflow the buffer and execute code on the victim's system"""	execute arbitrary code	0
+CVE-2018-16862++ibm++openwall-2300	gain access to the content of a deleted file	get the content of the deleted file saved in cleancache	1
+CVE-2011-1002++ibm++nvd-297	denial of service	denial of service	1
+CVE-2014-3614++ibm++nvd-709	denial of service	denial of service	1
+CVE-2017-18344++exploitdb++nvd-1619	arbitrary file read	read arbitrary kernel memory	0
+CVE-2010-1586++ibm++nvd-1795	redirect a victim to arbitrary web sites	redirect users to arbitrary web sites and conduct phishing attacks	1
+CVE-2010-0817++ibm++nvd-3083	"""steal the victim's cookie-based authentication credentials"""	inject arbitrary web script or html	0
+CVE-2007-5926++exploitdb++nvd-796	execute arbitrary code or commands with superuser privileges	execute arbitrary commands	1
+CVE-2010-2490++ibm++nvd-1746	denial of service	denial of service	1
+CVE-2014-5349++ibm++nvd-2227	denial of service	denial of service	1
+CVE-2010-1147++openwall++nvd-684	potentially	execute arbitrary code	0
+CVE-2004-1220++exploitdb++nvd-2516	denial of service	denial of service	1
+CVE-2006-1194++ibm++exploitdb-3339	denial of service	a denial-of-service condition	1
+CVE-2017-16952++ibm++nvd-812	denial of service	cause a denial of service	1
+CVE-2010-1147++exploitdb++openwall-1021	execute arbitrary code	potentially	0
+CVE-2008-3794++ibm++openwall-757	denial of service	execute arbitrary code	0
+CVE-2016-3707++ibm++openwall-2672	denial of service	find the cookie immediately	0
